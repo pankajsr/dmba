@@ -1,0 +1,1606 @@
+TransID,MainPdtCat,Retail_price,Discounted_price,Price_Category,Percent_Discount,Discount_Level,Fulfilment_Item,Product_Rating,Product_Rating_N
+10001,Footwear ,1724,950,3,44.9,4,0,2.8,Dissatisfactory
+10002,Beauty and Personal Care ,499,390,1,21.84,3,0,2.2,Dissatisfactory
+10003,Clothing ,1399,699,3,50.04,5,0,3.1,Satisfactory
+10004,Watches ,1099,449,3,59.14,5,0,3.7,Satisfactory
+10005,Watches ,3999,849,4,78.77,6,0,3.7,Satisfactory
+10006,Watches ,1099,399,3,63.69,5,0,2.8,Dissatisfactory
+10007,Footwear ,1199,899,3,25.02,4,0,2.8,Dissatisfactory
+10008,Watches ,1699,849,3,50.03,5,1,3.4,Satisfactory
+10009,Footwear ,3399,1359,4,60.02,5,0,3.1,Satisfactory
+10010,Watches ,375,263,1,29.87,4,0,1.9,Dissatisfactory
+10011,Watches ,475,333,1,29.89,4,1,2.5,Dissatisfactory
+10012,Footwear ,2499,1149,3,54.02,5,0,3.1,Satisfactory
+10013,Watches ,4999,1049,4,79.02,6,0,3.4,Satisfactory
+10014,Footwear ,2299,899,3,60.9,5,0,3.4,Satisfactory
+10015,Watches ,799,200,2,74.97,6,0,3.7,Satisfactory
+10016,Watches ,585,526,2,10.09,3,1,1.9,Dissatisfactory
+10017,Watches ,999,150,2,84.98,6,0,3.4,Satisfactory
+10018,Watches ,235,150,1,36.17,4,0,2.2,Dissatisfactory
+10019,Clothing ,2499,1249,3,50.02,5,1,2.8,Dissatisfactory
+10020,Watches ,645,645,2,0,1,0,3.4,Satisfactory
+10021,Footwear ,3499,1695,4,51.56,5,0,2.5,Dissatisfactory
+10022,Watches ,399,159,1,60.15,5,0,3.7,Satisfactory
+10023,Footwear ,2295,2295,3,0,1,0,1.3,Dissatisfactory
+10024,Watches ,349,249,1,28.65,4,0,2.2,Dissatisfactory
+10025,Footwear ,2099,2099,3,0,1,1,1.6,Dissatisfactory
+10026,Watches ,2345,1179,3,49.72,4,0,2.8,Dissatisfactory
+10027,Watches ,1350,555,3,58.89,5,0,3.4,Satisfactory
+10028,Footwear ,1799,719,3,60.03,5,0,4,Satisfactory
+10029,Watches ,1999,262,3,86.89,6,0,4,Satisfactory
+10030,Footwear ,1820,1820,3,0,1,0,1.6,Dissatisfactory
+10031,Watches ,8995,7495,6,16.68,3,0,1.9,Dissatisfactory
+10032,Watches ,2999,995,4,66.82,5,0,3.4,Satisfactory
+10033,Footwear ,3499,1795,4,48.7,4,0,3.1,Satisfactory
+10034,Watches ,2150,950,3,55.81,5,0,3.1,Satisfactory
+10035,Watches ,299,299,1,0,1,0,1.9,Dissatisfactory
+10036,Footwear ,2199,1099,3,50.02,5,0,2.2,Dissatisfactory
+10037,Watches ,750,750,2,0,1,0,1.3,Dissatisfactory
+10038,Footwear ,2299,1149,3,50.02,5,0,2.2,Dissatisfactory
+10039,Watches ,650,650,2,0,1,0,1.9,Dissatisfactory
+10040,Clothing ,399,359,1,10.03,3,1,2.2,Dissatisfactory
+10041,Footwear ,399,299,1,25.06,4,0,1.9,Dissatisfactory
+10042,Clothing ,1299,999,3,23.09,3,0,2.5,Dissatisfactory
+10043,Clothing ,799,499,2,37.55,4,0,2.2,Dissatisfactory
+10044,Jewellery ,3530,1570,4,55.52,5,0,2.8,Dissatisfactory
+10045,Clothing ,2500,899,4,64.04,5,0,3.7,Satisfactory
+10046,Clothing ,600,365,2,39.17,4,0,2.8,Dissatisfactory
+10047,Clothing ,1599,499,3,68.79,5,0,4,Satisfactory
+10048,Clothing ,999,899,2,10.01,3,0,2.2,Dissatisfactory
+10049,Footwear ,2750,1299,4,52.76,5,0,3.1,Satisfactory
+10050,Clothing ,599,499,2,16.69,3,0,2.2,Dissatisfactory
+10051,Clothing ,599,499,2,16.69,3,0,1.3,Dissatisfactory
+10052,Clothing ,599,499,2,16.69,3,0,2.2,Dissatisfactory
+10053,Clothing ,599,499,2,16.69,3,0,2.5,Dissatisfactory
+10054,Clothing ,985,591,2,40,4,0,2.8,Dissatisfactory
+10055,Clothing ,1399,699,3,50.04,5,0,3.1,Satisfactory
+10056,Jewellery ,7810,7420,6,4.99,2,0,1.9,Dissatisfactory
+10057,Clothing ,999,799,2,20.02,3,0,2.8,Dissatisfactory
+10058,Clothing ,1998,749,3,62.51,5,0,3.1,Satisfactory
+10059,Clothing ,1599,649,3,59.41,5,0,3.1,Satisfactory
+10060,Clothing ,1998,950,3,52.45,5,0,3.4,Satisfactory
+10061,Clothing ,1099,659,3,40.04,4,0,2.2,Dissatisfactory
+10062,Clothing ,1995,1995,3,0,1,0,2.2,Dissatisfactory
+10063,Clothing ,1400,499,3,64.36,5,0,3.4,Satisfactory
+10064,Footwear ,399,199,1,50.13,5,0,2.5,Dissatisfactory
+10065,Clothing ,699,449,2,35.77,4,0,3.1,Satisfactory
+10066,Footwear ,1699,699,3,58.86,5,0,2.8,Dissatisfactory
+10067,Clothing ,895,399,2,55.42,5,0,3.1,Satisfactory
+10068,Clothing ,699,417,2,40.34,4,0,2.5,Dissatisfactory
+10069,Clothing ,1299,571,3,56.04,5,1,2.8,Dissatisfactory
+10070,Clothing ,1700,850,3,50,5,0,2.5,Dissatisfactory
+10071,Pens & Stationery ,800,280,2,65,5,0,3.1,Satisfactory
+10072,Footwear ,1199,649,3,45.87,4,0,3.4,Satisfactory
+10073,Clothing ,2999,1949,4,35.01,4,1,2.2,Dissatisfactory
+10074,Home Furnishing ,1800,849,3,52.83,5,0,2.2,Dissatisfactory
+10075,Home Furnishing ,2000,899,3,55.05,5,0,3.1,Satisfactory
+10076,Clothing ,699,699,2,0,1,1,1.3,Dissatisfactory
+10077,Jewellery ,1599,549,3,65.67,5,0,3.4,Satisfactory
+10078,Clothing ,358,358,1,0,1,0,1.3,Dissatisfactory
+10079,Jewellery ,1599,549,3,65.67,5,0,3.4,Satisfactory
+10080,Clothing ,2299,1099,3,52.2,5,0,3.4,Satisfactory
+10081,Clothing ,999,699,2,30.03,4,0,3.1,Satisfactory
+10082,Clothing ,2495,999,3,59.96,5,0,3.1,Satisfactory
+10083,Clothing ,1695,1175,3,30.68,4,0,3.1,Satisfactory
+10084,Beauty and Personal Care ,185,185,1,0,1,1,1.9,Dissatisfactory
+10085,Clothing ,2245,1345,3,40.09,4,0,3.1,Satisfactory
+10086,Computers ,4225,3450,4,18.34,3,0,2.8,Dissatisfactory
+10087,Home Furnishing ,1099,549,3,50.05,5,0,2.8,Dissatisfactory
+10088,Footwear ,2799,1679,4,40.01,4,0,1.9,Dissatisfactory
+10089,Footwear ,2799,1679,4,40.01,4,0,3.4,Satisfactory
+10090,Beauty and Personal Care ,255,180,1,29.41,4,0,3.1,Satisfactory
+10091,Clothing ,998,598,2,40.08,4,0,2.8,Dissatisfactory
+10092,Clothing ,210,94,1,55.24,5,0,3.1,Satisfactory
+10093,Clothing ,850,399,2,53.06,5,0,3.1,Satisfactory
+10094,Clothing ,999,349,2,65.07,5,0,3.4,Satisfactory
+10095,Clothing ,450,140,1,68.89,5,0,3.4,Satisfactory
+10096,Clothing ,899,369,2,58.95,5,0,3.1,Satisfactory
+10097,Clothing ,1198,299,3,75.04,6,0,4.3,Satisfactory
+10098,Clothing ,1499,529,3,64.71,5,0,3.7,Satisfactory
+10099,Clothing ,999,349,2,65.07,5,1,3.1,Satisfactory
+10100,Clothing ,367,127,1,65.4,5,0,3.1,Satisfactory
+10101,Clothing ,1000,299,3,70.1,6,0,2.8,Dissatisfactory
+10102,Clothing ,729,319,2,56.24,5,0,3.7,Satisfactory
+10103,Clothing ,1599,539,3,66.29,5,0,3.1,Satisfactory
+10104,Clothing ,899,349,2,61.18,5,0,3.4,Satisfactory
+10105,Clothing ,390,189,1,51.54,5,0,3.7,Satisfactory
+10106,Clothing ,599,130,2,78.3,6,0,4.3,Satisfactory
+10107,Clothing ,1299,149,3,88.53,6,0,3.7,Satisfactory
+10108,Clothing ,649,249,2,61.63,5,0,4.6,Satisfactory
+10109,Clothing ,849,349,2,58.89,5,0,2.2,Dissatisfactory
+10110,Clothing ,1099,384,3,65.06,5,1,3.4,Satisfactory
+10111,Clothing ,1000,299,3,70.1,6,0,3.4,Satisfactory
+10112,Clothing ,1199,259,3,78.4,6,1,3.4,Satisfactory
+10113,Clothing ,499,129,1,74.15,6,0,3.1,Satisfactory
+10114,Clothing ,230,99,1,56.96,5,0,3.7,Satisfactory
+10115,Clothing ,189,179,1,5.29,2,0,1.6,Dissatisfactory
+10116,Clothing ,850,399,2,53.06,5,0,3.4,Satisfactory
+10117,Clothing ,1000,299,3,70.1,6,0,4.3,Satisfactory
+10118,Clothing ,600,270,2,55,5,0,2.8,Dissatisfactory
+10119,Clothing ,649,249,2,61.63,5,0,3.4,Satisfactory
+10120,Clothing ,899,899,2,0,1,1,2.2,Dissatisfactory
+10121,Clothing ,1199,419,3,65.05,5,1,4,Satisfactory
+10122,Clothing ,850,399,2,53.06,5,0,3.1,Satisfactory
+10123,Clothing ,850,399,2,53.06,5,0,3.4,Satisfactory
+10124,Clothing ,499,214,1,57.11,5,0,3.4,Satisfactory
+10125,Clothing ,1000,299,3,70.1,6,0,3.7,Satisfactory
+10126,Clothing ,899,899,2,0,1,1,1,Dissatisfactory
+10127,Clothing ,1000,299,3,70.1,6,0,4.6,Satisfactory
+10128,Clothing ,499,79,1,84.17,6,0,3.1,Satisfactory
+10129,Clothing ,1000,299,3,70.1,6,0,3.7,Satisfactory
+10130,Clothing ,850,399,2,53.06,5,0,2.5,Dissatisfactory
+10131,Clothing ,1800,550,3,69.44,5,0,3.1,Satisfactory
+10132,Clothing ,630,259,2,58.89,5,0,3.7,Satisfactory
+10133,Clothing ,1199,255,3,78.73,6,1,3.7,Satisfactory
+10134,Clothing ,749,279,2,62.75,5,0,2.8,Dissatisfactory
+10135,Clothing ,799,299,2,62.58,5,0,3.1,Satisfactory
+10136,Clothing ,799,349,2,56.32,5,0,3.1,Satisfactory
+10137,Clothing ,729,249,2,65.84,5,0,4,Satisfactory
+10138,Clothing ,1250,579,3,53.68,5,0,3.7,Satisfactory
+10139,Clothing ,1000,299,3,70.1,6,0,3.4,Satisfactory
+10140,Clothing ,899,899,2,0,1,0,1,Dissatisfactory
+10141,Clothing ,1170,429,3,63.33,5,0,2.8,Dissatisfactory
+10142,Clothing ,899,399,2,55.62,5,0,3.1,Satisfactory
+10143,Clothing ,375,170,1,54.67,5,0,3.1,Satisfactory
+10144,Clothing ,499,122,1,75.55,6,0,3.1,Satisfactory
+10145,Clothing ,1299,499,3,61.59,5,0,4,Satisfactory
+10146,Clothing ,649,249,2,61.63,5,0,3.4,Satisfactory
+10147,Clothing ,1000,299,3,70.1,6,0,3.7,Satisfactory
+10148,Clothing ,1299,499,3,61.59,5,0,3.7,Satisfactory
+10149,Clothing ,999,299,2,70.07,6,0,4,Satisfactory
+10150,Clothing ,799,349,2,56.32,5,0,3.4,Satisfactory
+10151,Clothing ,1199,270,3,77.48,6,1,3.7,Satisfactory
+10152,Clothing ,999,199,2,80.08,6,0,3.7,Satisfactory
+10153,Clothing ,499,214,1,57.11,5,0,3.7,Satisfactory
+10154,Clothing ,799,333,2,58.32,5,0,2.8,Dissatisfactory
+10155,Clothing ,309,125,1,59.55,5,0,3.4,Satisfactory
+10156,Clothing ,1099,320,3,70.88,6,0,3.7,Satisfactory
+10157,Clothing ,999,199,2,80.08,6,0,3.1,Satisfactory
+10158,Clothing ,1000,299,3,70.1,6,0,4,Satisfactory
+10159,Clothing ,999,320,2,67.97,5,0,2.8,Dissatisfactory
+10160,Clothing ,999,349,2,65.07,5,0,3.7,Satisfactory
+10161,Clothing ,1199,255,3,78.73,6,1,3.1,Satisfactory
+10162,Clothing ,1199,500,3,58.3,5,1,3.7,Satisfactory
+10163,Clothing ,1140,489,3,57.11,5,0,3.4,Satisfactory
+10164,Clothing ,799,339,2,57.57,5,0,3.1,Satisfactory
+10165,Clothing ,900,399,2,55.67,5,0,3.4,Satisfactory
+10166,Clothing ,599,99,2,83.47,6,0,3.1,Satisfactory
+10167,Clothing ,899,809,2,10.01,3,1,2.2,Dissatisfactory
+10168,Clothing ,650,250,2,61.54,5,0,2.8,Dissatisfactory
+10169,Clothing ,599,99,2,83.47,6,0,4,Satisfactory
+10170,Clothing ,309,125,1,59.55,5,0,2.8,Dissatisfactory
+10171,Clothing ,850,399,2,53.06,5,0,3.4,Satisfactory
+10172,Clothing ,1200,399,3,66.75,5,0,2.8,Dissatisfactory
+10173,Clothing ,1000,299,3,70.1,6,0,3.4,Satisfactory
+10174,Clothing ,647,284,2,56.11,5,0,3.4,Satisfactory
+10175,Clothing ,650,299,2,54,5,0,4,Satisfactory
+10176,Clothing ,1000,299,3,70.1,6,0,2.5,Dissatisfactory
+10177,Clothing ,280,120,1,57.14,5,0,4,Satisfactory
+10178,Clothing ,749,299,2,60.08,5,0,2.8,Dissatisfactory
+10179,Clothing ,999,320,2,67.97,5,0,3.7,Satisfactory
+10180,Clothing ,1099,320,3,70.88,6,0,4.3,Satisfactory
+10181,Clothing ,599,255,2,57.43,5,1,2.8,Dissatisfactory
+10182,Clothing ,650,299,2,54,5,0,3.7,Satisfactory
+10183,Clothing ,1000,299,3,70.1,6,0,2.8,Dissatisfactory
+10184,Clothing ,749,299,2,60.08,5,0,2.5,Dissatisfactory
+10185,Clothing ,1199,259,3,78.4,6,1,3.7,Satisfactory
+10186,Clothing ,999,320,2,67.97,5,0,3.1,Satisfactory
+10187,Clothing ,999,320,2,67.97,5,0,3.1,Satisfactory
+10188,Clothing ,999,320,2,67.97,5,0,2.8,Dissatisfactory
+10189,Clothing ,599,99,2,83.47,6,0,4,Satisfactory
+10190,Clothing ,1199,419,3,65.05,5,1,3.4,Satisfactory
+10191,Clothing ,599,99,2,83.47,6,0,4,Satisfactory
+10192,Clothing ,500,225,2,55,5,0,1.9,Dissatisfactory
+10193,Clothing ,999,149,2,85.09,6,0,4,Satisfactory
+10194,Clothing ,1299,279,3,78.52,6,0,4,Satisfactory
+10195,Clothing ,599,130,2,78.3,6,0,3.7,Satisfactory
+10196,Clothing ,230,99,1,56.96,5,0,2.8,Dissatisfactory
+10197,Clothing ,1000,299,3,70.1,6,0,3.1,Satisfactory
+10198,Clothing ,499,214,1,57.11,5,0,3.1,Satisfactory
+10199,Clothing ,999,320,2,67.97,5,0,2.2,Dissatisfactory
+10200,Clothing ,1299,149,3,88.53,6,0,4,Satisfactory
+10201,Clothing ,549,219,2,60.11,5,0,3.4,Satisfactory
+10202,Clothing ,1050,420,3,60,5,0,3.4,Satisfactory
+10203,Clothing ,999,399,2,60.06,5,0,3.1,Satisfactory
+10204,Sports & Fitness ,2099,628,3,70.08,6,0,3.4,Satisfactory
+10205,Clothing ,1099,1099,3,0,1,0,1.9,Dissatisfactory
+10206,Toys & School Supplies ,1199,1099,3,8.34,2,0,3.1,Satisfactory
+10207,Sports & Fitness ,499,250,1,49.9,4,0,2.8,Dissatisfactory
+10208,Footwear ,499,449,1,10.02,3,0,2.5,Dissatisfactory
+10209,Mobiles & Accessories ,2499,210,3,91.6,7,0,3.7,Satisfactory
+10210,Sports & Fitness ,1349,719,3,46.7,4,0,3.4,Satisfactory
+10211,Sports & Fitness ,1499,809,3,46.03,4,0,3.1,Satisfactory
+10212,Pens & Stationery ,1195,495,3,58.58,5,0,3.1,Satisfactory
+10213,Clothing ,1859,829,3,55.41,5,0,3.1,Satisfactory
+10214,Footwear ,1398,499,3,64.31,5,0,3.1,Satisfactory
+10215,Clothing ,999,999,2,0,1,0,2.5,Dissatisfactory
+10216,Clothing ,998,998,2,0,1,0,2.2,Dissatisfactory
+10217,Footwear ,1199,399,3,66.72,5,0,2.8,Dissatisfactory
+10218,Beauty and Personal Care ,250,125,1,50,5,0,3.1,Satisfactory
+10219,Footwear ,3999,2599,4,35.01,4,0,2.5,Dissatisfactory
+10220,Footwear ,799,399,2,50.06,5,0,2.5,Dissatisfactory
+10221,Footwear ,1499,599,3,60.04,5,0,3.1,Satisfactory
+10222,Footwear ,1300,1050,3,19.23,3,0,1.9,Dissatisfactory
+10223,Footwear ,399,399,1,0,1,0,2.2,Dissatisfactory
+10224,Footwear ,699,399,2,42.92,4,0,3.1,Satisfactory
+10225,Beauty and Personal Care ,298,169,1,43.29,4,0,2.8,Dissatisfactory
+10226,Footwear ,899,499,2,44.49,4,0,2.2,Dissatisfactory
+10227,Footwear ,1099,399,3,63.69,5,0,4,Satisfactory
+10228,Footwear ,599,499,2,16.69,3,0,3.1,Satisfactory
+10229,Footwear ,1599,800,3,49.97,4,0,3.1,Satisfactory
+10230,Footwear ,1299,599,3,53.89,5,0,2.5,Dissatisfactory
+10231,Footwear ,799,499,2,37.55,4,0,2.2,Dissatisfactory
+10232,Beauty and Personal Care ,499,265,1,46.89,4,0,2.8,Dissatisfactory
+10233,Pens & Stationery ,449,199,1,55.68,5,0,3.1,Satisfactory
+10234,Footwear ,999,349,2,65.07,5,0,3.1,Satisfactory
+10235,Jewellery ,379,189,1,50.13,5,0,3.4,Satisfactory
+10236,Jewellery ,399,235,1,41.1,4,0,3.7,Satisfactory
+10237,Jewellery ,599,309,2,48.41,4,0,3.4,Satisfactory
+10238,Jewellery ,499,325,1,34.87,4,0,2.2,Dissatisfactory
+10239,Jewellery ,500,200,2,60,5,0,3.4,Satisfactory
+10240,Jewellery ,399,199,1,50.13,5,0,2.8,Dissatisfactory
+10241,Jewellery ,499,299,1,40.08,4,0,3.4,Satisfactory
+10242,Jewellery ,1980,470,3,76.26,6,1,3.4,Satisfactory
+10243,Jewellery ,315,315,1,0,1,0,2.2,Dissatisfactory
+10244,Jewellery ,399,299,1,25.06,4,0,3.1,Satisfactory
+10245,Jewellery ,999,499,2,50.05,5,0,3.1,Satisfactory
+10246,Jewellery ,499,245,1,50.9,5,0,2.8,Dissatisfactory
+10247,Jewellery ,399,250,1,37.34,4,0,2.5,Dissatisfactory
+10248,Jewellery ,490,400,1,18.37,3,0,2.2,Dissatisfactory
+10249,Jewellery ,499,349,1,30.06,4,0,2.2,Dissatisfactory
+10250,Toys & School Supplies ,175,175,1,0,1,1,2.8,Dissatisfactory
+10251,Clothing ,1199,1199,3,0,1,0,2.2,Dissatisfactory
+10252,Jewellery ,660,430,2,34.85,4,0,2.2,Dissatisfactory
+10253,Jewellery ,499,339,1,32.06,4,0,2.8,Dissatisfactory
+10254,Jewellery ,599,299,2,50.08,5,0,2.5,Dissatisfactory
+10255,Jewellery ,378,378,1,0,1,0,1.6,Dissatisfactory
+10256,Jewellery ,700,190,2,72.86,6,0,4,Satisfactory
+10257,Clothing ,1418,1099,3,22.5,3,0,3.4,Satisfactory
+10258,Jewellery ,699,450,2,35.62,4,0,2.5,Dissatisfactory
+10259,Jewellery ,499,199,1,60.12,5,0,2.5,Dissatisfactory
+10260,Jewellery ,500,200,2,60,5,0,3.7,Satisfactory
+10261,Jewellery ,599,299,2,50.08,5,0,2.5,Dissatisfactory
+10262,Jewellery ,490,446,1,8.98,2,0,2.5,Dissatisfactory
+10263,Footwear ,2199,1199,3,45.48,4,0,2.5,Dissatisfactory
+10264,Footwear ,2199,1199,3,45.48,4,0,2.8,Dissatisfactory
+10265,Clothing ,15999,7883,7,50.73,5,0,2.5,Dissatisfactory
+10266,Clothing ,8995,7196,6,20,3,0,2.5,Dissatisfactory
+10267,Beauty and Personal Care ,4440,1999,4,54.98,5,0,3.4,Satisfactory
+10268,Computers ,18000,15485,7,13.97,3,0,3.7,Satisfactory
+10269,Jewellery ,600,269,2,55.17,5,1,2.8,Dissatisfactory
+10270,Computers ,3500,2475,4,29.29,4,0,2.5,Dissatisfactory
+10271,Jewellery ,195,165,1,15.38,3,0,1.9,Dissatisfactory
+10272,Jewellery ,399,239,1,40.1,4,0,3.4,Satisfactory
+10273,Computers ,2990,1990,4,33.44,4,0,3.1,Satisfactory
+10274,Beauty and Personal Care ,498,339,1,31.93,4,0,3.1,Satisfactory
+10275,Jewellery ,1150,375,3,67.39,5,0,3.1,Satisfactory
+10276,Computers ,7000,4250,5,39.29,4,1,2.2,Dissatisfactory
+10277,Computers ,3000,1773,4,40.9,4,0,3.1,Satisfactory
+10278,Jewellery ,695,371,2,46.62,4,0,3.1,Satisfactory
+10279,Beauty and Personal Care ,398,330,1,17.09,3,0,2.8,Dissatisfactory
+10280,Beauty and Personal Care ,335,268,1,20,3,0,1.6,Dissatisfactory
+10281,Jewellery ,299,195,1,34.78,4,0,2.8,Dissatisfactory
+10282,Beauty and Personal Care ,350,345,1,1.43,2,0,1.9,Dissatisfactory
+10283,Jewellery ,1099,375,3,65.88,5,0,3.4,Satisfactory
+10284,Computers ,2200,1350,3,38.64,4,0,3.1,Satisfactory
+10285,Toys & School Supplies ,299,179,1,40.13,4,0,3.1,Satisfactory
+10286,Jewellery ,500,378,2,24.4,3,0,2.2,Dissatisfactory
+10287,Computers ,2900,2100,4,27.59,4,0,2.5,Dissatisfactory
+10288,Computers ,2500,1300,4,48,4,0,3.4,Satisfactory
+10289,Beauty and Personal Care ,398,320,1,19.6,3,0,2.5,Dissatisfactory
+10290,Jewellery ,999,299,2,70.07,6,0,3.4,Satisfactory
+10291,Computers ,10000,5580,7,44.2,4,1,2.5,Dissatisfactory
+10292,Jewellery ,1000,199,3,80.1,6,0,4,Satisfactory
+10293,Computers ,3450,1999,4,42.06,4,0,2.2,Dissatisfactory
+10294,Beauty and Personal Care ,398,340,1,14.57,3,0,3.1,Satisfactory
+10295,Computers ,12499,12499,7,0,1,1,1.9,Dissatisfactory
+10296,Beauty and Personal Care ,398,284,1,28.64,4,0,2.5,Dissatisfactory
+10297,Computers ,29990,21290,7,29.01,4,0,1.9,Dissatisfactory
+10298,Computers ,9000,6300,6,30,4,0,2.8,Dissatisfactory
+10299,Computers ,3500,3399,4,2.89,2,0,2.5,Dissatisfactory
+10300,Computers ,2250,1635,3,27.33,4,1,2.2,Dissatisfactory
+10301,Beauty and Personal Care ,530,299,2,43.58,4,0,2.5,Dissatisfactory
+10302,Beauty and Personal Care ,500,399,2,20.2,3,0,1.6,Dissatisfactory
+10303,Computers ,8999,5199,6,42.23,4,0,3.1,Satisfactory
+10304,Computers ,10800,7550,7,30.09,4,0,2.5,Dissatisfactory
+10305,Computers ,2999,1749,4,41.68,4,0,3.7,Satisfactory
+10306,Computers ,3330,2000,4,39.94,4,0,3.4,Satisfactory
+10307,Jewellery ,987,299,2,69.71,5,1,2.5,Dissatisfactory
+10308,Jewellery ,1017,299,3,70.6,6,0,4,Satisfactory
+10309,Beauty and Personal Care ,390,272,1,30.26,4,0,2.2,Dissatisfactory
+10310,Computers ,8646,4800,6,44.48,4,0,3.1,Satisfactory
+10311,Computers ,22000,17973,7,18.3,3,1,2.8,Dissatisfactory
+10312,Toys & School Supplies ,249,160,1,35.74,4,0,2.2,Dissatisfactory
+10313,Computers ,1449,969,3,33.13,4,1,3.4,Satisfactory
+10314,Computers ,4500,4000,4,11.11,3,0,1.3,Dissatisfactory
+10315,Computers ,25000,13390,7,46.44,4,0,3.4,Satisfactory
+10316,Computers ,3500,1899,4,45.74,4,0,3.1,Satisfactory
+10317,Computers ,3499,2525,4,27.84,4,0,2.8,Dissatisfactory
+10318,Computers ,3950,1990,4,49.62,4,0,2.5,Dissatisfactory
+10319,Toys & School Supplies ,799,299,2,62.58,5,0,3.1,Satisfactory
+10320,Computers ,2200,1859,3,15.5,3,0,3.1,Satisfactory
+10321,Jewellery ,695,295,2,57.55,5,0,3.4,Satisfactory
+10322,Beauty and Personal Care ,380,375,1,1.32,2,0,1.6,Dissatisfactory
+10323,Toys & School Supplies ,199,149,1,25.13,4,0,2.5,Dissatisfactory
+10324,Beauty and Personal Care ,380,358,1,5.79,2,0,2.2,Dissatisfactory
+10325,Computers ,1999,1999,3,0,1,0,1.9,Dissatisfactory
+10326,Jewellery ,1299,380,3,70.75,6,0,2.8,Dissatisfactory
+10327,Jewellery ,1200,250,3,79.17,6,0,3.7,Satisfactory
+10328,Computers ,4200,2059,4,50.98,5,1,3.1,Satisfactory
+10329,Beauty and Personal Care ,350,280,1,20,3,0,2.5,Dissatisfactory
+10330,Toys & School Supplies ,375,275,1,26.67,4,0,3.1,Satisfactory
+10331,Computers ,1500,695,3,53.67,5,0,3.7,Satisfactory
+10332,Computers ,4399,2499,4,43.19,4,0,3.4,Satisfactory
+10333,Computers ,2499,1995,3,20.17,3,0,2.2,Dissatisfactory
+10334,Computers ,2300,1649,3,28.3,4,0,1.9,Dissatisfactory
+10335,Jewellery ,1200,480,3,60,5,0,3.1,Satisfactory
+10336,Beauty and Personal Care ,799,398,2,50.19,5,0,3.4,Satisfactory
+10337,Beauty and Personal Care ,350,295,1,15.71,3,0,2.2,Dissatisfactory
+10338,Computers ,3299,2498,4,24.28,3,1,1.9,Dissatisfactory
+10339,Computers ,2310,1025,3,55.63,5,0,2.5,Dissatisfactory
+10340,Beauty and Personal Care ,400,320,1,20,3,0,2.2,Dissatisfactory
+10341,Beauty and Personal Care ,555,310,2,44.14,4,0,1.9,Dissatisfactory
+10342,Beauty and Personal Care ,500,369,2,26.2,4,0,2.2,Dissatisfactory
+10343,Computers ,3699,1990,4,46.2,4,0,2.8,Dissatisfactory
+10344,Beauty and Personal Care ,555,310,2,44.14,4,0,2.5,Dissatisfactory
+10345,Computers ,6249,6249,5,0,1,1,2.5,Dissatisfactory
+10346,Beauty and Personal Care ,360,310,1,13.89,3,0,1.9,Dissatisfactory
+10347,Jewellery ,2999,199,4,93.36,7,0,4.3,Satisfactory
+10348,Computers ,5000,5000,5,0,1,1,2.2,Dissatisfactory
+10349,Computers ,3699,2499,4,32.44,4,0,3.1,Satisfactory
+10350,Computers ,4000,1600,4,60,5,0,3.1,Satisfactory
+10351,Computers ,7500,4239,6,43.48,4,0,3.1,Satisfactory
+10352,Computers ,2600,1875,4,27.88,4,0,1.9,Dissatisfactory
+10353,Computers ,15999,12316,7,23.02,3,1,2.5,Dissatisfactory
+10354,Computers ,2250,1200,3,46.67,4,1,3.1,Satisfactory
+10355,Jewellery ,695,395,2,43.17,4,0,2.8,Dissatisfactory
+10356,Computers ,6800,6399,5,5.9,2,1,1.6,Dissatisfactory
+10357,Beauty and Personal Care ,380,370,1,2.63,2,0,1.3,Dissatisfactory
+10358,Beauty and Personal Care ,380,295,1,22.37,3,0,2.2,Dissatisfactory
+10359,Computers ,2499,1330,3,46.78,4,1,3.7,Satisfactory
+10360,Beauty and Personal Care ,360,199,1,44.72,4,0,2.8,Dissatisfactory
+10361,Computers ,3199,2200,4,31.23,4,0,2.5,Dissatisfactory
+10362,Toys & School Supplies ,169,154,1,8.88,2,0,2.5,Dissatisfactory
+10363,Beauty and Personal Care ,598,326,2,45.48,4,0,3.4,Satisfactory
+10364,Jewellery ,495,396,1,20,3,0,2.5,Dissatisfactory
+10365,Beauty and Personal Care ,525,510,2,2.86,2,0,1.9,Dissatisfactory
+10366,Toys & School Supplies ,499,299,1,40.08,4,0,3.1,Satisfactory
+10367,Beauty and Personal Care ,398,325,1,18.34,3,0,2.5,Dissatisfactory
+10368,Computers ,2999,1350,4,54.98,5,0,3.4,Satisfactory
+10369,Computers ,15500,10556,7,31.9,4,1,1.9,Dissatisfactory
+10370,Computers ,2599,1199,4,53.87,5,1,3.1,Satisfactory
+10371,Jewellery ,450,380,1,15.56,3,0,2.5,Dissatisfactory
+10372,Beauty and Personal Care ,425,425,1,0,1,1,2.2,Dissatisfactory
+10373,Computers ,3999,2599,4,35.01,4,1,2.8,Dissatisfactory
+10374,Beauty and Personal Care ,350,310,1,11.43,3,0,2.2,Dissatisfactory
+10375,Computers ,2399,2399,3,0,1,1,2.5,Dissatisfactory
+10376,Computers ,1700,1250,3,26.47,4,0,2.5,Dissatisfactory
+10377,Computers ,2799,1799,4,35.73,4,0,2.8,Dissatisfactory
+10378,Computers ,3500,1315,4,62.43,5,0,3.7,Satisfactory
+10379,Computers ,1500,1390,3,7.33,2,0,2.2,Dissatisfactory
+10380,Computers ,1899,1395,3,26.54,4,1,2.2,Dissatisfactory
+10381,Computers ,1599,949,3,40.65,4,0,2.5,Dissatisfactory
+10382,Jewellery ,620,299,2,51.77,5,0,2.8,Dissatisfactory
+10383,Computers ,1399,929,3,33.6,4,0,2.5,Dissatisfactory
+10384,Computers ,3690,2000,4,45.8,4,0,2.2,Dissatisfactory
+10385,Toys & School Supplies ,299,199,1,33.44,4,0,3.1,Satisfactory
+10386,Beauty and Personal Care ,360,324,1,10,3,0,2.2,Dissatisfactory
+10387,Beauty and Personal Care ,480,345,1,28.13,4,0,1.9,Dissatisfactory
+10388,Beauty and Personal Care ,355,249,1,29.86,4,0,3.1,Satisfactory
+10389,Jewellery ,599,299,2,50.08,5,0,3.1,Satisfactory
+10390,Computers ,7999,5350,6,33.12,4,1,3.4,Satisfactory
+10391,Computers ,1800,1399,3,22.28,3,0,2.5,Dissatisfactory
+10392,Computers ,2700,2050,4,24.07,3,0,2.2,Dissatisfactory
+10393,Beauty and Personal Care ,360,284,1,21.11,3,0,2.8,Dissatisfactory
+10394,Beauty and Personal Care ,495,349,1,29.49,4,0,3.1,Satisfactory
+10395,Beauty and Personal Care ,398,388,1,2.51,2,0,1.6,Dissatisfactory
+10396,Toys & School Supplies ,799,399,2,50.06,5,0,3.4,Satisfactory
+10397,Computers ,2899,1531,4,47.19,4,0,3.1,Satisfactory
+10398,Computers ,1400,799,3,42.93,4,0,2.5,Dissatisfactory
+10399,Beauty and Personal Care ,540,450,2,16.67,3,0,2.2,Dissatisfactory
+10400,Beauty and Personal Care ,599,354,2,40.9,4,0,3.7,Satisfactory
+10401,Computers ,7500,3600,6,52,5,0,1.9,Dissatisfactory
+10402,Jewellery ,695,265,2,61.87,5,0,4,Satisfactory
+10403,Jewellery ,450,299,1,33.56,4,0,2.5,Dissatisfactory
+10404,Beauty and Personal Care ,999,425,2,57.46,5,0,2.8,Dissatisfactory
+10405,Computers ,2999,1850,4,38.31,4,0,2.8,Dissatisfactory
+10406,Computers ,2250,1599,3,28.93,4,0,3.1,Satisfactory
+10407,Jewellery ,300,99,1,67,5,0,2.8,Dissatisfactory
+10408,Computers ,6999,5600,5,19.99,3,0,2.5,Dissatisfactory
+10409,Jewellery ,449,404,1,10.02,3,0,1.9,Dissatisfactory
+10410,Computers ,2999,950,4,68.32,5,0,4,Satisfactory
+10411,Jewellery ,359,300,1,16.43,3,0,1.9,Dissatisfactory
+10412,Beauty and Personal Care ,360,310,1,13.89,3,0,2.2,Dissatisfactory
+10413,Beauty and Personal Care ,398,290,1,27.14,4,0,2.8,Dissatisfactory
+10414,Computers ,2500,1118,4,55.28,5,1,3.7,Satisfactory
+10415,Beauty and Personal Care ,360,337,1,6.39,2,0,2.5,Dissatisfactory
+10416,Computers ,3500,1705,4,51.29,5,0,2.8,Dissatisfactory
+10417,Jewellery ,645,484,2,24.96,3,0,1.9,Dissatisfactory
+10418,Computers ,3500,1649,4,52.89,5,0,2.8,Dissatisfactory
+10419,Computers ,1999,890,3,55.48,5,1,2.8,Dissatisfactory
+10420,Beauty and Personal Care ,350,290,1,17.14,3,0,2.8,Dissatisfactory
+10421,Beauty and Personal Care ,598,444,2,25.75,4,0,2.2,Dissatisfactory
+10422,Beauty and Personal Care ,380,340,1,10.53,3,0,2.8,Dissatisfactory
+10423,Toys & School Supplies ,249,180,1,27.71,4,0,3.4,Satisfactory
+10424,Computers ,5399,2150,5,60.18,5,1,3.7,Satisfactory
+10425,Pens & Stationery ,499,199,1,60.12,5,0,3.7,Satisfactory
+10426,Toys & School Supplies ,449,290,1,35.41,4,0,2.5,Dissatisfactory
+10427,Computers ,6400,5450,5,14.84,3,0,2.5,Dissatisfactory
+10428,Computers ,12900,9310,7,27.83,4,1,1.9,Dissatisfactory
+10429,Beauty and Personal Care ,570,475,2,16.67,3,0,2.2,Dissatisfactory
+10430,Toys & School Supplies ,999,219,2,78.08,6,0,3.7,Satisfactory
+10431,Computers ,3000,1718,4,42.73,4,0,2.8,Dissatisfactory
+10432,Jewellery ,349,299,1,14.33,3,0,2.5,Dissatisfactory
+10433,Computers ,2790,1899,4,31.94,4,1,3.1,Satisfactory
+10434,Computers ,1590,690,3,56.6,5,0,1.9,Dissatisfactory
+10435,Beauty and Personal Care ,355,249,1,29.86,4,0,3.4,Satisfactory
+10436,Computers ,2500,1367,4,45.32,4,1,2.8,Dissatisfactory
+10437,Jewellery ,1299,399,3,69.28,5,0,3.1,Satisfactory
+10438,Computers ,6129,4399,5,28.23,4,1,2.5,Dissatisfactory
+10439,Jewellery ,495,371,1,25.05,4,0,2.8,Dissatisfactory
+10440,Pens & Stationery ,399,299,1,25.06,4,0,2.2,Dissatisfactory
+10441,Computers ,2500,1790,4,28.4,4,0,3.4,Satisfactory
+10442,Toys & School Supplies ,499,275,1,44.89,4,0,2.5,Dissatisfactory
+10443,Beauty and Personal Care ,360,320,1,11.11,3,0,2.2,Dissatisfactory
+10444,Jewellery ,245,215,1,12.24,3,0,3.4,Satisfactory
+10445,Computers ,24040,14200,7,40.93,4,0,2.8,Dissatisfactory
+10446,Computers ,2999,2699,4,10,3,0,2.8,Dissatisfactory
+10447,Computers ,1999,1325,3,33.72,4,1,1.9,Dissatisfactory
+10448,Computers ,5555,4550,5,18.09,3,0,2.5,Dissatisfactory
+10449,Computers ,1499,1250,3,16.61,3,0,3.1,Satisfactory
+10450,Jewellery ,1200,250,3,79.17,6,0,3.1,Satisfactory
+10451,Computers ,3990,2499,4,37.37,4,0,2.5,Dissatisfactory
+10452,Beauty and Personal Care ,398,290,1,27.14,4,0,3.1,Satisfactory
+10453,Toys & School Supplies ,199,149,1,25.13,4,0,2.8,Dissatisfactory
+10454,Beauty and Personal Care ,380,340,1,10.53,3,0,1.9,Dissatisfactory
+10455,Computers ,3099,3099,4,0,1,1,1,Dissatisfactory
+10456,Beauty and Personal Care ,598,399,2,33.28,4,0,2.8,Dissatisfactory
+10457,Computers ,7105,6990,5,1.62,2,0,1.6,Dissatisfactory
+10458,Beauty and Personal Care ,525,519,2,1.14,2,0,1,Dissatisfactory
+10459,Beauty and Personal Care ,525,299,2,43.05,4,0,2.5,Dissatisfactory
+10460,Toys & School Supplies ,299,149,1,50.17,5,0,3.4,Satisfactory
+10461,Computers ,6570,5555,5,15.45,3,0,1.3,Dissatisfactory
+10462,Beauty and Personal Care ,598,444,2,25.75,4,0,3.1,Satisfactory
+10463,Computers ,1999,1080,3,45.97,4,0,3.1,Satisfactory
+10464,Beauty and Personal Care ,370,199,1,46.22,4,0,2.8,Dissatisfactory
+10465,Computers ,3999,3246,4,18.83,3,0,2.2,Dissatisfactory
+10466,Beauty and Personal Care ,130,99,1,23.85,3,0,2.5,Dissatisfactory
+10467,Computers ,3500,2198,4,37.2,4,1,2.5,Dissatisfactory
+10468,Computers ,2599,1999,4,23.09,3,0,1.9,Dissatisfactory
+10469,Computers ,14200,14200,7,0,1,0,2.2,Dissatisfactory
+10470,Computers ,2800,1105,4,60.54,5,0,2.5,Dissatisfactory
+10471,Computers ,2399,600,3,74.99,6,0,3.1,Satisfactory
+10472,Toys & School Supplies ,299,249,1,16.72,3,0,1.9,Dissatisfactory
+10473,Computers ,4420,2479,4,43.91,4,0,2.8,Dissatisfactory
+10474,Beauty and Personal Care ,360,340,1,5.56,2,0,1.6,Dissatisfactory
+10475,Computers ,1500,1030,3,31.33,4,0,2.5,Dissatisfactory
+10476,Beauty and Personal Care ,555,299,2,46.13,4,0,2.5,Dissatisfactory
+10477,Toys & School Supplies ,299,249,1,16.72,3,0,2.5,Dissatisfactory
+10478,Computers ,9500,6500,6,31.58,4,0,3.1,Satisfactory
+10479,Computers ,2500,999,4,60.04,5,0,2.2,Dissatisfactory
+10480,Computers ,5500,5500,5,0,1,0,2.2,Dissatisfactory
+10481,Beauty and Personal Care ,398,272,1,31.66,4,0,2.8,Dissatisfactory
+10482,Computers ,3999,1710,4,57.24,5,0,4,Satisfactory
+10483,Beauty and Personal Care ,398,388,1,2.51,2,0,2.2,Dissatisfactory
+10484,Beauty and Personal Care ,500,400,2,20,3,0,2.8,Dissatisfactory
+10485,Computers ,3300,1995,4,39.55,4,0,2.2,Dissatisfactory
+10486,Computers ,1199,1199,3,0,1,1,2.5,Dissatisfactory
+10487,Computers ,8199,8199,6,0,1,1,2.5,Dissatisfactory
+10488,Jewellery ,899,449,2,50.06,5,0,3.1,Satisfactory
+10489,Jewellery ,395,265,1,32.91,4,0,2.8,Dissatisfactory
+10490,Computers ,9999,5300,6,46.99,4,1,3.1,Satisfactory
+10491,Beauty and Personal Care ,316,290,1,8.23,2,0,2.8,Dissatisfactory
+10492,Computers ,1995,895,3,55.14,5,0,2.2,Dissatisfactory
+10493,Toys & School Supplies ,449,390,1,13.14,3,0,2.5,Dissatisfactory
+10494,Computers ,2800,1340,4,52.14,5,0,3.1,Satisfactory
+10495,Jewellery ,499,449,1,10.02,3,0,2.2,Dissatisfactory
+10496,Jewellery ,2300,449,3,80.48,6,0,3.1,Satisfactory
+10497,Computers ,7192,5700,5,20.75,3,0,2.5,Dissatisfactory
+10498,Computers ,9600,6190,6,35.52,4,1,2.8,Dissatisfactory
+10499,Computers ,1449,800,3,44.79,4,0,2.8,Dissatisfactory
+10500,Beauty and Personal Care ,380,349,1,8.16,2,0,1,Dissatisfactory
+10501,Jewellery ,1299,499,3,61.59,5,0,3.7,Satisfactory
+10502,Computers ,2999,1887,4,37.08,4,0,2.5,Dissatisfactory
+10503,Beauty and Personal Care ,540,349,2,35.37,4,0,1.9,Dissatisfactory
+10504,Computers ,6700,4850,5,27.61,4,1,1.6,Dissatisfactory
+10505,Beauty and Personal Care ,428,359,1,16.12,3,1,1.6,Dissatisfactory
+10506,Beauty and Personal Care ,950,398,2,58.11,5,0,2.2,Dissatisfactory
+10507,Beauty and Personal Care ,250,250,1,0,1,1,2.2,Dissatisfactory
+10508,Computers ,1999,1414,3,29.26,4,0,1.9,Dissatisfactory
+10509,Beauty and Personal Care ,498,275,1,44.78,4,0,3.4,Satisfactory
+10510,Jewellery ,599,299,2,50.08,5,0,3.1,Satisfactory
+10511,Beauty and Personal Care ,370,199,1,46.22,4,0,3.1,Satisfactory
+10512,Beauty and Personal Care ,380,360,1,5.26,2,0,2.5,Dissatisfactory
+10513,Jewellery ,895,215,2,75.98,6,0,3.7,Satisfactory
+10514,Computers ,21999,15200,7,30.91,4,1,2.8,Dissatisfactory
+10515,Beauty and Personal Care ,540,360,2,33.33,4,1,2.8,Dissatisfactory
+10516,Computers ,2450,1590,3,35.1,4,1,3.1,Satisfactory
+10517,Computers ,4200,1859,4,55.74,5,1,2.8,Dissatisfactory
+10518,Computers ,2999,1910,4,36.31,4,0,3.4,Satisfactory
+10519,Jewellery ,650,350,2,46.15,4,0,2.8,Dissatisfactory
+10520,Computers ,5999,3790,5,36.82,4,1,2.2,Dissatisfactory
+10521,Computers ,2450,999,3,59.22,5,0,3.1,Satisfactory
+10522,Beauty and Personal Care ,370,210,1,43.24,4,0,2.5,Dissatisfactory
+10523,Computers ,8610,2999,6,65.17,5,0,4,Satisfactory
+10524,Computers ,2850,1220,4,57.19,5,0,3.1,Satisfactory
+10525,Computers ,8000,2790,6,65.13,5,0,3.7,Satisfactory
+10526,Beauty and Personal Care ,370,210,1,43.24,4,0,2.8,Dissatisfactory
+10527,Computers ,2730,1079,4,60.48,5,0,3.4,Satisfactory
+10528,Beauty and Personal Care ,370,149,1,59.73,5,0,3.4,Satisfactory
+10529,Beauty and Personal Care ,499,249,1,50.1,5,0,2.2,Dissatisfactory
+10530,Computers ,3450,1950,4,43.48,4,0,2.8,Dissatisfactory
+10531,Beauty and Personal Care ,525,299,2,43.05,4,0,3.1,Satisfactory
+10532,Toys & School Supplies ,299,179,1,40.13,4,0,2.8,Dissatisfactory
+10533,Computers ,5990,4399,5,26.56,4,0,2.5,Dissatisfactory
+10534,Computers ,11500,8200,7,28.7,4,1,2.5,Dissatisfactory
+10535,Toys & School Supplies ,59,41,1,30.51,4,0,2.5,Dissatisfactory
+10536,Computers ,6499,4550,5,29.99,4,0,2.2,Dissatisfactory
+10537,Computers ,7490,7490,5,0,1,0,2.2,Dissatisfactory
+10538,Beauty and Personal Care ,540,448,2,17.04,3,0,1.6,Dissatisfactory
+10539,Computers ,3500,1675,4,52.14,5,1,3.1,Satisfactory
+10540,Computers ,1899,1299,3,31.6,4,0,2.8,Dissatisfactory
+10541,Beauty and Personal Care ,200,200,1,0,1,0,2.2,Dissatisfactory
+10542,Jewellery ,999,323,2,67.67,5,0,2.8,Dissatisfactory
+10543,Computers ,3399,1749,4,48.54,4,1,2.8,Dissatisfactory
+10544,Computers ,2499,1399,3,44.02,4,0,2.8,Dissatisfactory
+10545,Beauty and Personal Care ,360,310,1,13.89,3,0,2.5,Dissatisfactory
+10546,Beauty and Personal Care ,398,388,1,2.51,2,0,1.9,Dissatisfactory
+10547,Beauty and Personal Care ,398,355,1,10.8,3,0,2.5,Dissatisfactory
+10548,Computers ,2299,1350,3,41.28,4,0,3.4,Satisfactory
+10549,Computers ,1995,1680,3,15.79,3,0,1.6,Dissatisfactory
+10550,Toys & School Supplies ,599,349,2,41.74,4,0,2.2,Dissatisfactory
+10551,Computers ,4499,3499,4,22.23,3,0,3.1,Satisfactory
+10552,Beauty and Personal Care ,500,350,2,30,4,0,2.2,Dissatisfactory
+10553,Beauty and Personal Care ,500,389,2,22.2,3,0,1.6,Dissatisfactory
+10554,Computers ,5000,1899,5,62.02,5,0,3.1,Satisfactory
+10555,Computers ,12940,8800,7,31.99,4,0,3.1,Satisfactory
+10556,Computers ,3500,1913,4,45.34,4,0,2.8,Dissatisfactory
+10557,Beauty and Personal Care ,598,326,2,45.48,4,0,2.8,Dissatisfactory
+10558,Jewellery ,1099,499,3,54.6,5,0,2.8,Dissatisfactory
+10559,Computers ,3140,2069,4,34.11,4,0,3.1,Satisfactory
+10560,Beauty and Personal Care ,399,289,1,27.57,4,0,3.1,Satisfactory
+10561,Computers ,3499,2140,4,38.84,4,1,3.1,Satisfactory
+10562,Beauty and Personal Care ,398,290,1,27.14,4,0,3.1,Satisfactory
+10563,Computers ,6250,3480,5,44.32,4,0,2.8,Dissatisfactory
+10564,Footwear ,799,399,2,50.06,5,0,2.5,Dissatisfactory
+10565,Pens & Stationery ,299,138,1,53.85,5,0,2.8,Dissatisfactory
+10566,Footwear ,499,479,1,4.01,2,0,1.9,Dissatisfactory
+10567,Clothing ,1299,849,3,34.64,4,0,2.5,Dissatisfactory
+10568,Footwear ,319,249,1,21.94,3,0,1.9,Dissatisfactory
+10569,Clothing ,1999,999,3,50.03,5,0,3.7,Satisfactory
+10570,Clothing ,449,268,1,40.31,4,0,2.5,Dissatisfactory
+10571,Sports & Fitness ,685,675,2,1.46,2,0,2.2,Dissatisfactory
+10572,Sports & Fitness ,1520,1089,3,28.36,4,0,2.8,Dissatisfactory
+10573,Sports & Fitness ,450,438,1,2.67,2,0,1.6,Dissatisfactory
+10574,Clothing ,1499,599,3,60.04,5,0,3.1,Satisfactory
+10575,Clothing ,1445,1300,3,10.03,3,0,2.5,Dissatisfactory
+10576,Footwear ,1599,799,3,50.03,5,0,2.8,Dissatisfactory
+10577,Clothing ,999,625,2,37.44,4,0,2.5,Dissatisfactory
+10578,Footwear ,399,299,1,25.06,4,0,2.2,Dissatisfactory
+10579,Computers ,2499,1349,3,46.02,4,0,3.4,Satisfactory
+10580,Footwear ,499,399,1,20.04,3,0,2.2,Dissatisfactory
+10581,Footwear ,1199,399,3,66.72,5,0,3.4,Satisfactory
+10582,Footwear ,1199,399,3,66.72,5,0,3.1,Satisfactory
+10583,Computers ,3999,1799,4,55.01,5,0,3.4,Satisfactory
+10584,Computers ,3800,2636,4,30.63,4,0,2.2,Dissatisfactory
+10585,Clothing ,1299,899,3,30.79,4,0,2.2,Dissatisfactory
+10586,Footwear ,525,349,2,33.52,4,0,2.5,Dissatisfactory
+10587,Footwear ,525,349,2,33.52,4,0,2.8,Dissatisfactory
+10588,Footwear ,525,349,2,33.52,4,0,2.8,Dissatisfactory
+10589,Footwear ,495,345,1,30.3,4,0,3.1,Satisfactory
+10590,Computers ,2950,1299,4,55.97,5,0,3.4,Satisfactory
+10591,Computers ,3499,1499,4,57.16,5,0,2.8,Dissatisfactory
+10592,Computers ,4550,2478,4,45.54,4,0,3.4,Satisfactory
+10593,Computers ,2950,1299,4,55.97,5,0,1.9,Dissatisfactory
+10594,Watches ,750,750,2,0,1,1,1.9,Dissatisfactory
+10595,Watches ,950,950,2,0,1,0,2.5,Dissatisfactory
+10596,Watches ,750,750,2,0,1,0,1.3,Dissatisfactory
+10597,Watches ,799,799,2,0,1,1,2.5,Dissatisfactory
+10598,Footwear ,499,499,1,0,1,1,2.5,Dissatisfactory
+10599,Watches ,849,799,2,5.89,2,0,2.5,Dissatisfactory
+10600,Watches ,1295,1165,3,10.04,3,0,2.8,Dissatisfactory
+10601,Watches ,998,998,2,0,1,0,2.8,Dissatisfactory
+10602,Watches ,795,795,2,0,1,1,1,Dissatisfactory
+10603,Watches ,1095,1095,3,0,1,0,1.6,Dissatisfactory
+10604,Watches ,999,900,2,9.91,2,0,2.2,Dissatisfactory
+10605,Watches ,950,950,2,0,1,1,2.5,Dissatisfactory
+10606,Watches ,750,750,2,0,1,1,1.9,Dissatisfactory
+10607,Watches ,999,999,2,0,1,1,1,Dissatisfactory
+10608,Watches ,795,795,2,0,1,1,2.2,Dissatisfactory
+10609,Watches ,780,780,2,0,1,0,1.6,Dissatisfactory
+10610,Watches ,595,595,2,0,1,1,1.9,Dissatisfactory
+10611,Watches ,950,760,2,20,3,1,2.2,Dissatisfactory
+10612,Watches ,749,749,2,0,1,1,2.2,Dissatisfactory
+10613,Watches ,995,995,2,0,1,1,2.5,Dissatisfactory
+10614,Watches ,895,850,2,5.03,2,0,1.9,Dissatisfactory
+10615,Watches ,695,675,2,2.88,2,0,3.4,Satisfactory
+10616,Watches ,725,725,2,0,1,1,2.2,Dissatisfactory
+10617,Watches ,899,899,2,0,1,1,1.9,Dissatisfactory
+10618,Watches ,899,899,2,0,1,0,1.6,Dissatisfactory
+10619,Watches ,799,799,2,0,1,1,2.5,Dissatisfactory
+10620,Watches ,1075,965,3,10.23,3,0,2.8,Dissatisfactory
+10621,Watches ,995,995,2,0,1,1,2.5,Dissatisfactory
+10622,Watches ,1175,1060,3,9.79,2,0,1.9,Dissatisfactory
+10623,Watches ,995,995,2,0,1,1,1.9,Dissatisfactory
+10624,Watches ,895,800,2,10.61,3,0,2.5,Dissatisfactory
+10625,Watches ,799,799,2,0,1,0,1.3,Dissatisfactory
+10626,Watches ,995,895,2,10.05,3,0,2.5,Dissatisfactory
+10627,Watches ,950,950,2,0,1,1,1.9,Dissatisfactory
+10628,Watches ,649,649,2,0,1,1,1.6,Dissatisfactory
+10629,Watches ,995,995,2,0,1,0,1.9,Dissatisfactory
+10630,Watches ,675,675,2,0,1,1,1.9,Dissatisfactory
+10631,Watches ,850,825,2,2.94,2,0,1.9,Dissatisfactory
+10632,Watches ,999,999,2,0,1,1,1.6,Dissatisfactory
+10633,Watches ,999,999,2,0,1,1,1.6,Dissatisfactory
+10634,Watches ,899,899,2,0,1,1,1.6,Dissatisfactory
+10635,Watches ,1075,995,3,7.44,2,0,2.5,Dissatisfactory
+10636,Clothing ,1099,477,3,56.6,5,0,3.7,Satisfactory
+10637,Watches ,749,749,2,0,1,0,1.9,Dissatisfactory
+10638,Watches ,599,599,2,0,1,0,2.2,Dissatisfactory
+10639,Watches ,999,999,2,0,1,1,2.5,Dissatisfactory
+10640,Watches ,770,770,2,0,1,0,1.6,Dissatisfactory
+10641,Watches ,650,650,2,0,1,1,1.9,Dissatisfactory
+10642,Watches ,1125,1125,3,0,1,1,2.5,Dissatisfactory
+10643,Watches ,699,699,2,0,1,1,1.9,Dissatisfactory
+10644,Watches ,750,698,2,6.93,2,0,1.6,Dissatisfactory
+10645,Watches ,899,899,2,0,1,1,1.3,Dissatisfactory
+10646,Watches ,850,774,2,8.94,2,0,1,Dissatisfactory
+10647,Watches ,950,865,2,8.95,2,0,1.6,Dissatisfactory
+10648,Watches ,895,895,2,0,1,1,2.5,Dissatisfactory
+10649,Watches ,899,899,2,0,1,1,2.8,Dissatisfactory
+10650,Watches ,950,950,2,0,1,0,2.2,Dissatisfactory
+10651,Watches ,999,999,2,0,1,1,2.2,Dissatisfactory
+10652,Watches ,899,899,2,0,1,1,1.9,Dissatisfactory
+10653,Footwear ,999,499,2,50.05,5,0,3.1,Satisfactory
+10654,Watches ,575,575,2,0,1,1,2.2,Dissatisfactory
+10655,Footwear ,998,499,2,50,5,0,2.5,Dissatisfactory
+10656,Watches ,625,625,2,0,1,1,2.2,Dissatisfactory
+10657,Watches ,699,699,2,0,1,1,2.8,Dissatisfactory
+10658,Watches ,799,799,2,0,1,1,1.6,Dissatisfactory
+10659,Watches ,630,630,2,0,1,1,2.8,Dissatisfactory
+10660,Watches ,950,950,2,0,1,1,2.5,Dissatisfactory
+10661,Watches ,750,750,2,0,1,1,2.5,Dissatisfactory
+10662,Watches ,525,525,2,0,1,1,2.5,Dissatisfactory
+10663,Watches ,695,675,2,2.88,2,0,1.6,Dissatisfactory
+10664,Watches ,575,575,2,0,1,1,2.5,Dissatisfactory
+10665,Watches ,999,999,2,0,1,1,2.2,Dissatisfactory
+10666,Watches ,595,595,2,0,1,1,1.9,Dissatisfactory
+10667,Watches ,799,799,2,0,1,0,1.9,Dissatisfactory
+10668,Watches ,595,595,2,0,1,1,2.8,Dissatisfactory
+10669,Watches ,575,575,2,0,1,1,1.9,Dissatisfactory
+10670,Watches ,925,879,2,4.97,2,0,1.9,Dissatisfactory
+10671,Watches ,795,750,2,5.66,2,0,2.2,Dissatisfactory
+10672,Watches ,950,950,2,0,1,1,1.9,Dissatisfactory
+10673,Watches ,999,999,2,0,1,1,2.5,Dissatisfactory
+10674,Watches ,750,750,2,0,1,1,1,Dissatisfactory
+10675,Watches ,550,550,2,0,1,0,1,Dissatisfactory
+10676,Watches ,999,999,2,0,1,1,1.6,Dissatisfactory
+10677,Footwear ,999,399,2,60.06,5,0,2.8,Dissatisfactory
+10678,Watches ,825,825,2,0,1,1,1.6,Dissatisfactory
+10679,Watches ,549,549,2,0,1,1,1.9,Dissatisfactory
+10680,Watches ,599,599,2,0,1,1,3.1,Satisfactory
+10681,Watches ,899,899,2,0,1,1,2.2,Dissatisfactory
+10682,Watches ,999,999,2,0,1,1,2.5,Dissatisfactory
+10683,Watches ,595,476,2,20,3,0,2.5,Dissatisfactory
+10684,Watches ,999,999,2,0,1,1,2.2,Dissatisfactory
+10685,Watches ,999,999,2,0,1,1,1.6,Dissatisfactory
+10686,Jewellery ,1200,529,3,55.92,5,0,3.7,Satisfactory
+10687,Watches ,995,895,2,10.05,3,0,2.2,Dissatisfactory
+10688,Watches ,999,999,2,0,1,1,2.2,Dissatisfactory
+10689,Watches ,950,850,2,10.53,3,0,1.9,Dissatisfactory
+10690,Watches ,699,699,2,0,1,1,2.2,Dissatisfactory
+10691,Watches ,650,650,2,0,1,1,1.3,Dissatisfactory
+10692,Watches ,525,525,2,0,1,1,1.6,Dissatisfactory
+10693,Watches ,595,595,2,0,1,1,2.2,Dissatisfactory
+10694,Footwear ,450,450,1,0,1,0,2.2,Dissatisfactory
+10695,Watches ,725,700,2,3.45,2,0,2.5,Dissatisfactory
+10696,Watches ,800,800,2,0,1,1,1.9,Dissatisfactory
+10697,Footwear ,799,449,2,43.8,4,0,2.5,Dissatisfactory
+10698,Watches ,999,999,2,0,1,1,1.6,Dissatisfactory
+10699,Watches ,549,549,2,0,1,1,1.6,Dissatisfactory
+10700,Watches ,1099,1085,3,1.27,2,0,1.9,Dissatisfactory
+10701,Watches ,999,999,2,0,1,1,3.1,Satisfactory
+10702,Watches ,750,750,2,0,1,1,1.6,Dissatisfactory
+10703,Watches ,750,750,2,0,1,1,1.6,Dissatisfactory
+10704,Watches ,550,550,2,0,1,0,1.6,Dissatisfactory
+10705,Watches ,780,780,2,0,1,1,1.9,Dissatisfactory
+10706,Watches ,799,799,2,0,1,1,2.5,Dissatisfactory
+10707,Watches ,925,915,2,1.08,2,0,2.2,Dissatisfactory
+10708,Watches ,725,725,2,0,1,1,1,Dissatisfactory
+10709,Watches ,999,899,2,10.01,3,0,2.2,Dissatisfactory
+10710,Watches ,725,725,2,0,1,1,1.6,Dissatisfactory
+10711,Watches ,599,550,2,8.18,2,0,2.2,Dissatisfactory
+10712,Watches ,999,999,2,0,1,1,1.9,Dissatisfactory
+10713,Footwear ,1299,649,3,50.04,5,0,2.5,Dissatisfactory
+10714,Footwear ,1999,999,3,50.03,5,0,3.1,Satisfactory
+10715,Watches ,995,995,2,0,1,1,2.2,Dissatisfactory
+10716,Footwear ,1999,999,3,50.03,5,0,2.8,Dissatisfactory
+10717,Watches ,649,649,2,0,1,1,2.5,Dissatisfactory
+10718,Watches ,895,795,2,11.17,3,0,2.5,Dissatisfactory
+10719,Clothing ,1249,811,3,35.07,4,1,2.8,Dissatisfactory
+10720,Watches ,825,825,2,0,1,1,1,Dissatisfactory
+10721,Watches ,898,898,2,0,1,0,1.6,Dissatisfactory
+10722,Watches ,999,999,2,0,1,1,2.2,Dissatisfactory
+10723,Watches ,750,750,2,0,1,1,1.9,Dissatisfactory
+10724,Watches ,750,750,2,0,1,1,1.9,Dissatisfactory
+10725,Watches ,750,750,2,0,1,1,2.8,Dissatisfactory
+10726,Watches ,995,995,2,0,1,1,1.3,Dissatisfactory
+10727,Watches ,895,825,2,7.82,2,0,1.9,Dissatisfactory
+10728,Watches ,995,995,2,0,1,1,2.5,Dissatisfactory
+10729,Watches ,800,800,2,0,1,1,2.2,Dissatisfactory
+10730,Watches ,799,751,2,6.01,2,0,1.9,Dissatisfactory
+10731,Watches ,750,750,2,0,1,1,1.3,Dissatisfactory
+10732,Watches ,595,476,2,20,3,0,1.6,Dissatisfactory
+10733,Watches ,550,550,2,0,1,1,2.8,Dissatisfactory
+10734,Watches ,795,795,2,0,1,0,1.9,Dissatisfactory
+10735,Watches ,750,750,2,0,1,1,1.9,Dissatisfactory
+10736,Watches ,999,999,2,0,1,1,2.2,Dissatisfactory
+10737,Watches ,799,799,2,0,1,1,2.8,Dissatisfactory
+10738,Watches ,995,995,2,0,1,1,1.6,Dissatisfactory
+10739,Watches ,999,999,2,0,1,1,1.9,Dissatisfactory
+10740,Watches ,925,925,2,0,1,1,1.6,Dissatisfactory
+10741,Watches ,995,896,2,9.95,2,0,1.9,Dissatisfactory
+10742,Watches ,830,830,2,0,1,1,2.2,Dissatisfactory
+10743,Watches ,925,925,2,0,1,0,2.5,Dissatisfactory
+10744,Watches ,550,550,2,0,1,1,1.9,Dissatisfactory
+10745,Watches ,750,750,2,0,1,1,1.3,Dissatisfactory
+10746,Watches ,750,750,2,0,1,1,2.5,Dissatisfactory
+10747,Watches ,950,950,2,0,1,1,1.9,Dissatisfactory
+10748,Watches ,999,999,2,0,1,1,1.9,Dissatisfactory
+10749,Watches ,750,750,2,0,1,1,1.6,Dissatisfactory
+10750,Watches ,750,750,2,0,1,1,2.5,Dissatisfactory
+10751,Watches ,855,855,2,0,1,0,1.9,Dissatisfactory
+10752,Watches ,750,750,2,0,1,1,1.3,Dissatisfactory
+10753,Watches ,855,855,2,0,1,0,1.9,Dissatisfactory
+10754,Watches ,795,795,2,0,1,1,1.6,Dissatisfactory
+10755,Watches ,749,749,2,0,1,1,1.6,Dissatisfactory
+10756,Watches ,750,750,2,0,1,1,2.2,Dissatisfactory
+10757,Watches ,999,999,2,0,1,0,1.9,Dissatisfactory
+10758,Sports & Fitness ,900,270,2,70,6,0,3.4,Satisfactory
+10759,Clothing ,799,319,2,60.08,5,0,3.4,Satisfactory
+10760,Clothing ,2199,999,3,54.57,5,0,3.4,Satisfactory
+10761,Clothing ,399,319,1,20.05,3,0,3.1,Satisfactory
+10762,Clothing ,599,479,2,20.03,3,0,1.9,Dissatisfactory
+10763,Clothing ,399,319,1,20.05,3,0,2.8,Dissatisfactory
+10764,Clothing ,599,479,2,20.03,3,0,2.5,Dissatisfactory
+10765,Clothing ,399,319,1,20.05,3,0,1.9,Dissatisfactory
+10766,Clothing ,599,479,2,20.03,3,0,1.6,Dissatisfactory
+10767,Clothing ,599,269,2,55.09,5,0,3.1,Satisfactory
+10768,Footwear ,200,200,1,0,1,1,1.9,Dissatisfactory
+10769,Footwear ,599,229,2,61.77,5,0,3.7,Satisfactory
+10770,Clothing ,599,299,2,50.08,5,0,3.1,Satisfactory
+10771,Clothing ,599,479,2,20.03,3,0,2.2,Dissatisfactory
+10772,Clothing ,1100,439,3,60.09,5,0,3.1,Satisfactory
+10773,Footwear ,1750,999,3,42.91,4,0,2.8,Dissatisfactory
+10774,Clothing ,1899,799,3,57.93,5,0,3.1,Satisfactory
+10775,Clothing ,1149,349,3,69.63,5,0,3.7,Satisfactory
+10776,Clothing ,1965,1376,3,29.97,4,0,2.2,Dissatisfactory
+10777,Clothing ,1965,1376,3,29.97,4,0,2.5,Dissatisfactory
+10778,Clothing ,499,379,1,24.05,3,0,2.8,Dissatisfactory
+10779,Clothing ,570,400,2,29.82,4,0,2.8,Dissatisfactory
+10780,Clothing ,570,400,2,29.82,4,0,2.2,Dissatisfactory
+10781,Clothing ,570,400,2,29.82,4,0,1.9,Dissatisfactory
+10782,Clothing ,570,400,2,29.82,4,0,2.2,Dissatisfactory
+10783,Clothing ,570,400,2,29.82,4,0,2.8,Dissatisfactory
+10784,Clothing ,570,400,2,29.82,4,0,1.9,Dissatisfactory
+10785,Clothing ,570,400,2,29.82,4,0,3.1,Satisfactory
+10786,Clothing ,1799,699,3,61.15,5,0,3.4,Satisfactory
+10787,Clothing ,895,438,2,51.06,5,0,3.7,Satisfactory
+10788,Clothing ,1499,659,3,56.04,5,1,3.7,Satisfactory
+10789,Clothing ,1199,480,3,59.97,5,0,4,Satisfactory
+10790,Jewellery ,5769,599,5,89.62,6,0,3.4,Satisfactory
+10791,Mobiles & Accessories ,399,249,1,37.59,4,0,1.9,Dissatisfactory
+10792,Mobiles & Accessories ,299,199,1,33.44,4,0,2.2,Dissatisfactory
+10793,Mobiles & Accessories ,399,249,1,37.59,4,0,2.5,Dissatisfactory
+10794,Clothing ,799,799,2,0,1,1,1.9,Dissatisfactory
+10795,Jewellery ,11455,10880,7,5.02,2,0,2.2,Dissatisfactory
+10796,Clothing ,1699,1699,3,0,1,0,2.8,Dissatisfactory
+10797,Clothing ,1445,722,3,50.03,5,0,3.1,Satisfactory
+10798,Clothing ,1545,772,3,50.03,5,0,2.2,Dissatisfactory
+10799,Clothing ,1095,499,3,54.43,5,0,2.2,Dissatisfactory
+10800,Clothing ,1199,499,3,58.38,5,0,4,Satisfactory
+10801,Clothing ,1599,499,3,68.79,5,1,3.4,Satisfactory
+10802,Clothing ,1599,499,3,68.79,5,1,3.4,Satisfactory
+10803,Toys & School Supplies ,1370,1150,3,16.06,3,0,1.6,Dissatisfactory
+10804,Clothing ,599,499,2,16.69,3,0,2.5,Dissatisfactory
+10805,Jewellery ,6900,6624,5,4,2,0,1.9,Dissatisfactory
+10806,Jewellery ,7403,7403,5,0,1,0,1.9,Dissatisfactory
+10807,Pens & Stationery ,1999,1650,3,17.46,3,0,2.5,Dissatisfactory
+10808,Clothing ,949,699,2,26.34,4,0,2.5,Dissatisfactory
+10809,Jewellery ,2500,1125,4,55,5,0,2.8,Dissatisfactory
+10810,Footwear ,399,299,1,25.06,4,0,2.5,Dissatisfactory
+10811,"Bags, Wallets & Belts ",1699,1099,3,35.31,4,0,3.4,Satisfactory
+10812,Clothing ,699,299,2,57.22,5,0,2.8,Dissatisfactory
+10813,Computers ,38890,38890,7,0,1,1,2.5,Dissatisfactory
+10814,Computers ,35390,35390,7,0,1,1,1.9,Dissatisfactory
+10815,Clothing ,2199,1209,3,45.02,4,1,2.5,Dissatisfactory
+10816,Clothing ,599,399,2,33.39,4,0,2.5,Dissatisfactory
+10817,Clothing ,1100,595,3,45.91,4,0,3.1,Satisfactory
+10818,Clothing ,699,299,2,57.22,5,0,2.8,Dissatisfactory
+10819,Clothing ,699,299,2,57.22,5,0,3.1,Satisfactory
+10820,Clothing ,599,499,2,16.69,3,0,2.2,Dissatisfactory
+10821,Clothing ,600,405,2,32.5,4,0,3.1,Satisfactory
+10822,Clothing ,599,549,2,8.35,2,0,1.3,Dissatisfactory
+10823,Clothing ,699,299,2,57.22,5,0,3.4,Satisfactory
+10824,Clothing ,599,499,2,16.69,3,0,1.6,Dissatisfactory
+10825,Footwear ,1899,1299,3,31.6,4,0,2.5,Dissatisfactory
+10826,Footwear ,699,399,2,42.92,4,0,2.8,Dissatisfactory
+10827,Clothing ,1198,899,3,24.96,3,0,2.2,Dissatisfactory
+10828,Clothing ,250,219,1,12.4,3,0,1.9,Dissatisfactory
+10829,Clothing ,349,249,1,28.65,4,0,2.2,Dissatisfactory
+10830,Sports & Fitness ,1799,1440,3,19.96,3,0,1.9,Dissatisfactory
+10831,Sports & Fitness ,1899,1436,3,24.38,3,0,2.8,Dissatisfactory
+10832,Clothing ,699,299,2,57.22,5,0,3.4,Satisfactory
+10833,Clothing ,599,599,2,0,1,0,1.9,Dissatisfactory
+10834,Clothing ,699,699,2,0,1,0,1.9,Dissatisfactory
+10835,Clothing ,699,699,2,0,1,0,1.6,Dissatisfactory
+10836,Clothing ,349,249,1,28.65,4,0,2.5,Dissatisfactory
+10837,Clothing ,799,399,2,50.06,5,0,2.8,Dissatisfactory
+10838,Clothing ,430,195,1,54.65,5,0,3.1,Satisfactory
+10839,Sports & Fitness ,549,399,2,27.32,4,0,2.2,Dissatisfactory
+10840,Sports & Fitness ,13599,10999,7,19.12,3,0,2.2,Dissatisfactory
+10841,Clothing ,399,249,1,37.59,4,0,3.1,Satisfactory
+10842,Sports & Fitness ,7775,7075,6,9,2,0,1.6,Dissatisfactory
+10843,Clothing ,1599,749,3,53.16,5,0,2.8,Dissatisfactory
+10844,Clothing ,999,519,2,48.05,4,1,2.5,Dissatisfactory
+10845,Clothing ,450,320,1,28.89,4,0,2.2,Dissatisfactory
+10846,Footwear ,499,149,1,70.14,6,0,3.7,Satisfactory
+10847,Clothing ,1199,471,3,60.72,5,0,3.1,Satisfactory
+10848,Clothing ,1649,449,3,72.77,6,0,3.4,Satisfactory
+10849,Baby Care ,1799,959,3,46.69,4,0,3.7,Satisfactory
+10850,Sports & Fitness ,1200,590,3,50.83,5,0,2.2,Dissatisfactory
+10851,Clothing ,1999,599,3,70.04,6,0,3.1,Satisfactory
+10852,Sports & Fitness ,3499,2872,4,17.92,3,0,2.2,Dissatisfactory
+10853,Sports & Fitness ,3360,3360,4,0,1,1,2.2,Dissatisfactory
+10854,Clothing ,149,149,1,0,1,1,1.9,Dissatisfactory
+10855,Sports & Fitness ,595,595,2,0,1,0,1.9,Dissatisfactory
+10856,Sports & Fitness ,395,395,1,0,1,1,1.9,Dissatisfactory
+10857,Sports & Fitness ,4000,2099,4,47.53,4,0,3.4,Satisfactory
+10858,Sports & Fitness ,4500,4500,4,0,1,1,2.5,Dissatisfactory
+10859,Footwear ,398,249,1,37.44,4,0,3.1,Satisfactory
+10860,Footwear ,599,249,2,58.43,5,0,3.1,Satisfactory
+10861,Clothing ,150,150,1,0,1,0,2.2,Dissatisfactory
+10862,Mobiles & Accessories ,1816,99,3,94.55,7,1,4.3,Satisfactory
+10863,Mobiles & Accessories ,699,250,2,64.23,5,0,2.8,Dissatisfactory
+10864,Clothing ,1795,1795,3,0,1,1,1.6,Dissatisfactory
+10865,Pens & Stationery ,600,580,2,3.33,2,1,2.8,Dissatisfactory
+10866,Clothing ,435,200,1,54.02,5,0,2.5,Dissatisfactory
+10867,Clothing ,1799,1799,3,0,1,1,2.2,Dissatisfactory
+10868,Pens & Stationery ,2295,2295,3,0,1,1,1,Dissatisfactory
+10869,Clothing ,999,399,2,60.06,5,0,2.2,Dissatisfactory
+10870,Pens & Stationery ,590,590,2,0,1,1,1.3,Dissatisfactory
+10871,Clothing ,999,399,2,60.06,5,0,3.1,Satisfactory
+10872,Clothing ,1599,799,3,50.03,5,0,2.8,Dissatisfactory
+10873,Clothing ,1599,799,3,50.03,5,1,2.8,Dissatisfactory
+10874,Clothing ,999,425,2,57.46,5,0,2.8,Dissatisfactory
+10875,Clothing ,830,345,2,58.43,5,0,2.5,Dissatisfactory
+10876,Clothing ,1099,399,3,63.69,5,0,3.1,Satisfactory
+10877,Clothing ,799,699,2,12.52,3,0,2.8,Dissatisfactory
+10878,Clothing ,1199,499,3,58.38,5,0,2.8,Dissatisfactory
+10879,Clothing ,1500,699,3,53.4,5,0,3.1,Satisfactory
+10880,Jewellery ,1500,695,3,53.67,5,0,3.7,Satisfactory
+10881,Footwear ,1199,599,3,50.04,5,0,2.2,Dissatisfactory
+10882,Jewellery ,1339,525,3,60.79,5,0,3.4,Satisfactory
+10883,Clothing ,1395,999,3,28.39,4,0,2.8,Dissatisfactory
+10884,Clothing ,1199,395,3,67.06,5,0,3.4,Satisfactory
+10885,Clothing ,1299,779,3,40.03,4,1,2.5,Dissatisfactory
+10886,Footwear ,1400,599,3,57.21,5,0,3.7,Satisfactory
+10887,Beauty and Personal Care ,395,320,1,18.99,3,0,2.8,Dissatisfactory
+10888,Mobiles & Accessories ,1499,299,3,80.05,6,0,4,Satisfactory
+10889,Clothing ,1520,999,3,34.28,4,0,2.5,Dissatisfactory
+10890,Clothing ,990,395,2,60.1,5,0,3.1,Satisfactory
+10891,Clothing ,999,425,2,57.46,5,0,2.8,Dissatisfactory
+10892,Footwear ,2795,699,4,74.99,6,1,3.4,Satisfactory
+10893,Beauty and Personal Care ,295,265,1,10.17,3,0,1.9,Dissatisfactory
+10894,Beauty and Personal Care ,1300,1219,3,6.23,2,0,2.5,Dissatisfactory
+10895,Beauty and Personal Care ,395,395,1,0,1,0,1.6,Dissatisfactory
+10896,Beauty and Personal Care ,330,323,1,2.12,2,0,2.2,Dissatisfactory
+10897,Clothing ,1000,699,3,30.1,4,0,2.2,Dissatisfactory
+10898,Beauty and Personal Care ,1099,1099,3,0,1,0,2.2,Dissatisfactory
+10899,Footwear ,2495,699,3,71.98,6,1,3.4,Satisfactory
+10900,Clothing ,1599,395,3,75.3,6,0,3.7,Satisfactory
+10901,Footwear ,3495,3495,4,0,1,1,2.5,Dissatisfactory
+10902,Beauty and Personal Care ,570,558,2,2.11,2,0,1.6,Dissatisfactory
+10903,Beauty and Personal Care ,295,275,1,6.78,2,0,2.8,Dissatisfactory
+10904,Clothing ,900,395,2,56.11,5,0,3.4,Satisfactory
+10905,Jewellery ,1360,299,3,78.01,6,0,3.1,Satisfactory
+10906,Footwear ,2295,999,3,56.47,5,1,2.5,Dissatisfactory
+10907,Beauty and Personal Care ,1400,1344,3,4,2,0,1.6,Dissatisfactory
+10908,Footwear ,1895,799,3,57.84,5,1,3.1,Satisfactory
+10909,Beauty and Personal Care ,145,140,1,3.45,2,0,1.6,Dissatisfactory
+10910,Footwear ,1199,599,3,50.04,5,0,2.8,Dissatisfactory
+10911,Clothing ,1500,399,3,73.4,6,0,3.4,Satisfactory
+10912,Clothing ,349,199,1,42.98,4,0,2.8,Dissatisfactory
+10913,Clothing ,799,399,2,50.06,5,0,2.8,Dissatisfactory
+10914,Clothing ,999,199,2,80.08,6,0,3.4,Satisfactory
+10915,Clothing ,799,399,2,50.06,5,0,2.5,Dissatisfactory
+10916,Clothing ,1095,495,3,54.79,5,0,3.1,Satisfactory
+10917,Clothing ,500,275,2,45,4,0,2.8,Dissatisfactory
+10918,Jewellery ,1299,399,3,69.28,5,0,3.1,Satisfactory
+10919,Clothing ,849,424,2,50.06,5,0,2.8,Dissatisfactory
+10920,Clothing ,1399,387,3,72.34,6,0,3.4,Satisfactory
+10921,Clothing ,1095,328,3,70.05,6,0,2.8,Dissatisfactory
+10922,Clothing ,899,449,2,50.06,5,0,2.2,Dissatisfactory
+10923,Jewellery ,2450,490,3,80,6,0,4.6,Satisfactory
+10924,Clothing ,799,479,2,40.05,4,0,1.9,Dissatisfactory
+10925,Clothing ,1745,499,3,71.4,6,0,4.3,Satisfactory
+10926,Jewellery ,1491,399,3,73.24,6,0,3.1,Satisfactory
+10927,Clothing ,599,399,2,33.39,4,0,2.5,Dissatisfactory
+10928,Clothing ,999,499,2,50.05,5,0,2.8,Dissatisfactory
+10929,Clothing ,999,299,2,70.07,6,0,2.8,Dissatisfactory
+10930,Clothing ,599,300,2,49.92,4,0,3.1,Satisfactory
+10931,Clothing ,799,399,2,50.06,5,0,1.9,Dissatisfactory
+10932,Clothing ,1499,349,3,76.72,6,1,3.4,Satisfactory
+10933,Clothing ,999,399,2,60.06,5,0,2.2,Dissatisfactory
+10934,Clothing ,799,449,2,43.8,4,0,2.5,Dissatisfactory
+10935,Clothing ,999,449,2,55.06,5,1,2.8,Dissatisfactory
+10936,Clothing ,699,349,2,50.07,5,0,3.4,Satisfactory
+10937,Jewellery ,1491,399,3,73.24,6,0,3.1,Satisfactory
+10938,Clothing ,899,404,2,55.06,5,1,3.1,Satisfactory
+10939,Clothing ,799,399,2,50.06,5,1,2.8,Dissatisfactory
+10940,Clothing ,699,419,2,40.06,4,1,3.4,Satisfactory
+10941,Clothing ,795,397,2,50.06,5,0,2.8,Dissatisfactory
+10942,Clothing ,1500,399,3,73.4,6,0,3.7,Satisfactory
+10943,Jewellery ,1297,359,3,72.32,6,0,3.4,Satisfactory
+10944,Clothing ,1199,449,3,62.55,5,0,3.4,Satisfactory
+10945,Clothing ,1200,399,3,66.75,5,1,2.8,Dissatisfactory
+10946,Clothing ,899,299,2,66.74,5,0,3.7,Satisfactory
+10947,Clothing ,1200,499,3,58.42,5,0,3.7,Satisfactory
+10948,Clothing ,799,479,2,40.05,4,0,2.8,Dissatisfactory
+10949,Jewellery ,1378,399,3,71.04,6,0,3.7,Satisfactory
+10950,Clothing ,999,329,2,67.07,5,0,2.8,Dissatisfactory
+10951,Clothing ,1299,499,3,61.59,5,0,3.1,Satisfactory
+10952,Clothing ,999,499,2,50.05,5,0,3.1,Satisfactory
+10953,Jewellery ,1000,199,3,80.1,6,0,2.8,Dissatisfactory
+10954,Clothing ,799,399,2,50.06,5,0,3.1,Satisfactory
+10955,Clothing ,499,249,1,50.1,5,0,3.4,Satisfactory
+10956,Clothing ,799,449,2,43.8,4,0,3.7,Satisfactory
+10957,Jewellery ,1499,399,3,73.38,6,0,3.1,Satisfactory
+10958,Clothing ,999,499,2,50.05,5,0,3.7,Satisfactory
+10959,Clothing ,1000,499,3,50.1,5,0,3.1,Satisfactory
+10960,Clothing ,799,449,2,43.8,4,0,3.1,Satisfactory
+10961,Clothing ,999,499,2,50.05,5,0,3.7,Satisfactory
+10962,Clothing ,999,499,2,50.05,5,0,2.8,Dissatisfactory
+10963,Jewellery ,1585,429,3,72.93,6,0,4,Satisfactory
+10964,Clothing ,1099,349,3,68.24,5,0,3.7,Satisfactory
+10965,Clothing ,649,349,2,46.22,4,0,2.8,Dissatisfactory
+10966,Clothing ,725,375,2,48.28,4,0,3.1,Satisfactory
+10967,Clothing ,899,404,2,55.06,5,1,2.8,Dissatisfactory
+10968,Clothing ,699,419,2,40.06,4,0,2.8,Dissatisfactory
+10969,Clothing ,1399,499,3,64.33,5,0,2.8,Dissatisfactory
+10970,Clothing ,1399,387,3,72.34,6,0,4,Satisfactory
+10971,Clothing ,799,399,2,50.06,5,0,3.7,Satisfactory
+10972,Jewellery ,1774,469,3,73.56,6,0,4.6,Satisfactory
+10973,Clothing ,799,479,2,40.05,4,0,3.4,Satisfactory
+10974,Clothing ,949,474,2,50.05,5,0,3.1,Satisfactory
+10975,Clothing ,1040,350,3,66.35,5,0,3.4,Satisfactory
+10976,Clothing ,799,499,2,37.55,4,0,3.1,Satisfactory
+10977,Clothing ,899,449,2,50.06,5,0,3.7,Satisfactory
+10978,Clothing ,999,499,2,50.05,5,0,2.8,Dissatisfactory
+10979,Clothing ,899,449,2,50.06,5,1,2.8,Dissatisfactory
+10980,Clothing ,799,399,2,50.06,5,0,2.5,Dissatisfactory
+10981,Clothing ,799,359,2,55.07,5,1,3.1,Satisfactory
+10982,Clothing ,999,399,2,60.06,5,0,3.4,Satisfactory
+10983,Jewellery ,2367,473,3,80.02,6,0,3.7,Satisfactory
+10984,Clothing ,799,404,2,49.44,4,0,2.5,Dissatisfactory
+10985,Clothing ,500,250,2,50,5,0,2.8,Dissatisfactory
+10986,Clothing ,1899,490,3,74.2,6,0,3.7,Satisfactory
+10987,Jewellery ,1299,375,3,71.13,6,0,2.8,Dissatisfactory
+10988,Clothing ,999,379,2,62.06,5,0,3.1,Satisfactory
+10989,Clothing ,999,499,2,50.05,5,1,3.1,Satisfactory
+10990,Clothing ,599,370,2,38.23,4,0,2.2,Dissatisfactory
+10991,Clothing ,799,479,2,40.05,4,1,2.5,Dissatisfactory
+10992,Clothing ,999,478,2,52.15,5,0,2.8,Dissatisfactory
+10993,Clothing ,1185,830,3,29.96,4,0,2.5,Dissatisfactory
+10994,Clothing ,1300,349,3,73.15,6,0,2.8,Dissatisfactory
+10995,Clothing ,1899,490,3,74.2,6,0,2.8,Dissatisfactory
+10996,Jewellery ,700,655,2,6.43,2,0,1.9,Dissatisfactory
+10997,Clothing ,1099,494,3,55.05,5,0,3.4,Satisfactory
+10998,Clothing ,799,479,2,40.05,4,0,2.5,Dissatisfactory
+10999,Clothing ,999,499,2,50.05,5,0,2.8,Dissatisfactory
+11000,Clothing ,1499,497,3,66.84,5,0,3.4,Satisfactory
+11001,Clothing ,1150,399,3,65.3,5,0,3.7,Satisfactory
+11002,Clothing ,1900,590,3,68.95,5,0,3.7,Satisfactory
+11003,Clothing ,1900,590,3,68.95,5,0,4,Satisfactory
+11004,Clothing ,999,399,2,60.06,5,0,3.4,Satisfactory
+11005,Clothing ,749,449,2,40.05,4,0,2.2,Dissatisfactory
+11006,Clothing ,899,449,2,50.06,5,0,3.4,Satisfactory
+11007,Clothing ,1099,494,3,55.05,5,0,3.1,Satisfactory
+11008,Jewellery ,996,199,2,80.02,6,0,4,Satisfactory
+11009,Jewellery ,1491,399,3,73.24,6,0,4,Satisfactory
+11010,Clothing ,1000,499,3,50.1,5,0,3.4,Satisfactory
+11011,Jewellery ,809,199,2,75.4,6,0,3.4,Satisfactory
+11012,Clothing ,949,474,2,50.05,5,0,3.1,Satisfactory
+11013,Clothing ,999,399,2,60.06,5,0,3.4,Satisfactory
+11014,Jewellery ,1491,399,3,73.24,6,0,3.1,Satisfactory
+11015,Clothing ,599,299,2,50.08,5,0,2.5,Dissatisfactory
+11016,Clothing ,999,399,2,60.06,5,0,3.1,Satisfactory
+11017,Clothing ,899,449,2,50.06,5,0,1.9,Dissatisfactory
+11018,Clothing ,899,449,2,50.06,5,0,2.8,Dissatisfactory
+11019,Clothing ,1300,299,3,77,6,0,3.4,Satisfactory
+11020,Clothing ,799,399,2,50.06,5,0,2.8,Dissatisfactory
+11021,Clothing ,1299,387,3,70.21,6,0,3.4,Satisfactory
+11022,Clothing ,499,297,1,40.48,4,0,2.5,Dissatisfactory
+11023,Jewellery ,1680,449,3,73.27,6,0,4,Satisfactory
+11024,Clothing ,899,349,2,61.18,5,0,3.4,Satisfactory
+11025,Clothing ,899,449,2,50.06,5,0,3.4,Satisfactory
+11026,Clothing ,999,399,2,60.06,5,0,3.1,Satisfactory
+11027,Jewellery ,1563,399,3,74.47,6,1,2.8,Dissatisfactory
+11028,Clothing ,599,299,2,50.08,5,0,2.8,Dissatisfactory
+11029,Clothing ,1499,399,3,73.38,6,0,4.9,Satisfactory
+11030,Clothing ,1499,399,3,73.38,6,0,3.7,Satisfactory
+11031,Clothing ,799,404,2,49.44,4,0,2.5,Dissatisfactory
+11032,Clothing ,999,499,2,50.05,5,0,2.5,Dissatisfactory
+11033,Jewellery ,1299,399,3,69.28,5,0,3.7,Satisfactory
+11034,Clothing ,999,478,2,52.15,5,0,3.4,Satisfactory
+11035,Clothing ,799,399,2,50.06,5,0,2.8,Dissatisfactory
+11036,Clothing ,695,347,2,50.07,5,0,3.4,Satisfactory
+11037,Clothing ,1699,387,3,77.22,6,0,3.4,Satisfactory
+11038,Clothing ,999,499,2,50.05,5,0,3.4,Satisfactory
+11039,Clothing ,1399,387,3,72.34,6,0,3.4,Satisfactory
+11040,Clothing ,599,359,2,40.07,4,0,2.2,Dissatisfactory
+11041,Clothing ,1499,299,3,80.05,6,0,3.4,Satisfactory
+11042,Clothing ,1099,449,3,59.14,5,0,3.1,Satisfactory
+11043,Clothing ,899,404,2,55.06,5,1,2.8,Dissatisfactory
+11044,Clothing ,999,399,2,60.06,5,0,3.4,Satisfactory
+11045,Clothing ,599,299,2,50.08,5,0,2.2,Dissatisfactory
+11046,Clothing ,1399,297,3,78.77,6,1,3.7,Satisfactory
+11047,Clothing ,999,499,2,50.05,5,1,2.8,Dissatisfactory
+11048,Clothing ,1099,494,3,55.05,5,0,3.4,Satisfactory
+11049,Clothing ,799,399,2,50.06,5,1,3.7,Satisfactory
+11050,Clothing ,999,499,2,50.05,5,0,2.8,Dissatisfactory
+11051,Clothing ,899,404,2,55.06,5,1,3.1,Satisfactory
+11052,Clothing ,999,399,2,60.06,5,0,3.1,Satisfactory
+11053,Clothing ,899,329,2,63.4,5,0,3.4,Satisfactory
+11054,Clothing ,999,399,2,60.06,5,0,3.4,Satisfactory
+11055,Clothing ,500,275,2,45,4,0,3.4,Satisfactory
+11056,Jewellery ,999,999,2,0,1,0,1.3,Dissatisfactory
+11057,Clothing ,850,425,2,50,5,0,3.1,Satisfactory
+11058,Clothing ,1099,499,3,54.6,5,0,2.8,Dissatisfactory
+11059,Jewellery ,1000,300,3,70,6,0,3.1,Satisfactory
+11060,Clothing ,1319,499,3,62.17,5,0,4.3,Satisfactory
+11061,Jewellery ,1348,369,3,72.63,6,0,2.8,Dissatisfactory
+11062,Clothing ,699,349,2,50.07,5,0,2.5,Dissatisfactory
+11063,Clothing ,999,499,2,50.05,5,0,2.5,Dissatisfactory
+11064,Clothing ,999,404,2,59.56,5,0,3.1,Satisfactory
+11065,Jewellery ,1397,389,3,72.15,6,0,3.1,Satisfactory
+11066,Clothing ,799,399,2,50.06,5,0,2.8,Dissatisfactory
+11067,Clothing ,1200,499,3,58.42,5,0,3.1,Satisfactory
+11068,Clothing ,799,404,2,49.44,4,0,3.7,Satisfactory
+11069,Clothing ,1899,490,3,74.2,6,0,3.1,Satisfactory
+11070,Clothing ,1899,490,3,74.2,6,0,3.1,Satisfactory
+11071,Clothing ,799,404,2,49.44,4,0,3.4,Satisfactory
+11072,Jewellery ,1378,399,3,71.04,6,0,3.1,Satisfactory
+11073,Clothing ,799,404,2,49.44,4,0,2.8,Dissatisfactory
+11074,Jewellery ,1000,299,3,70.1,6,0,3.4,Satisfactory
+11075,Clothing ,1099,499,3,54.6,5,0,3.1,Satisfactory
+11076,Clothing ,999,399,2,60.06,5,0,2.8,Dissatisfactory
+11077,Clothing ,799,399,2,50.06,5,0,3.1,Satisfactory
+11078,Jewellery ,1750,449,3,74.34,6,0,3.4,Satisfactory
+11079,Clothing ,799,399,2,50.06,5,0,2.5,Dissatisfactory
+11080,Jewellery ,1299,325,3,74.98,6,0,3.7,Satisfactory
+11081,Clothing ,995,485,2,51.26,5,0,3.1,Satisfactory
+11082,Clothing ,1499,490,3,67.31,5,0,3.4,Satisfactory
+11083,Clothing ,1099,495,3,54.96,5,0,3.7,Satisfactory
+11084,Clothing ,1745,499,3,71.4,6,0,3.7,Satisfactory
+11085,Jewellery ,1100,220,3,80,6,0,3.4,Satisfactory
+11086,Jewellery ,1619,323,3,80.05,6,0,3.4,Satisfactory
+11087,Clothing ,799,399,2,50.06,5,0,2.5,Dissatisfactory
+11088,Clothing ,899,329,2,63.4,5,0,4,Satisfactory
+11089,Clothing ,799,316,2,60.45,5,0,2.8,Dissatisfactory
+11090,Clothing ,1399,297,3,78.77,6,0,3.4,Satisfactory
+11091,"Bags, Wallets & Belts ",1499,649,3,56.7,5,0,2.8,Dissatisfactory
+11092,Mobiles & Accessories ,1350,1010,3,25.19,4,0,2.8,Dissatisfactory
+11093,Toys & School Supplies ,1999,1199,3,40.02,4,0,3.1,Satisfactory
+11094,Clothing ,1059,599,3,43.44,4,0,3.1,Satisfactory
+11095,Toys & School Supplies ,6999,4199,5,40.01,4,0,3.4,Satisfactory
+11096,"Bags, Wallets & Belts ",3999,1699,4,57.51,5,0,2.5,Dissatisfactory
+11097,Jewellery ,49999,44000,7,12,3,0,1.9,Dissatisfactory
+11098,Clothing ,799,399,2,50.06,5,1,2.8,Dissatisfactory
+11099,"Bags, Wallets & Belts ",1499,499,3,66.71,5,0,4,Satisfactory
+11100,Sports & Fitness ,2999,1049,4,65.02,5,0,3.1,Satisfactory
+11101,"Bags, Wallets & Belts ",1299,499,3,61.59,5,0,3.4,Satisfactory
+11102,Mobiles & Accessories ,1350,1010,3,25.19,4,0,2.5,Dissatisfactory
+11103,Toys & School Supplies ,4995,4995,4,0,1,1,1.6,Dissatisfactory
+11104,Mobiles & Accessories ,2495,1999,3,19.88,3,0,2.8,Dissatisfactory
+11105,"Bags, Wallets & Belts ",1340,1072,3,20,3,1,2.8,Dissatisfactory
+11106,Toys & School Supplies ,3230,3230,4,0,1,0,1.9,Dissatisfactory
+11107,Mobiles & Accessories ,1699,1299,3,23.54,3,0,1.3,Dissatisfactory
+11108,"Bags, Wallets & Belts ",1499,575,3,61.64,5,1,3.4,Satisfactory
+11109,Mobiles & Accessories ,2499,1749,3,30.01,4,1,1.9,Dissatisfactory
+11110,Mobiles & Accessories ,2599,1499,4,42.32,4,0,2.8,Dissatisfactory
+11111,Home Furnishing ,1999,1104,3,44.77,4,1,3.1,Satisfactory
+11112,"Bags, Wallets & Belts ",1299,399,3,69.28,5,0,3.1,Satisfactory
+11113,Baby Care ,980,599,2,38.88,4,0,2.8,Dissatisfactory
+11114,Toys & School Supplies ,5749,4059,5,29.4,4,0,2.5,Dissatisfactory
+11115,Sports & Fitness ,395,290,1,26.58,4,0,2.5,Dissatisfactory
+11116,Mobiles & Accessories ,1699,1199,3,29.43,4,1,1.9,Dissatisfactory
+11117,"Bags, Wallets & Belts ",1200,492,3,59,5,0,3.1,Satisfactory
+11118,Sports & Fitness ,1349,899,3,33.36,4,0,2.8,Dissatisfactory
+11119,Mobiles & Accessories ,1599,1199,3,25.02,4,1,3.4,Satisfactory
+11120,Mobiles & Accessories ,1999,1499,3,25.01,4,1,3.1,Satisfactory
+11121,Jewellery ,49999,43950,7,12.1,3,0,2.8,Dissatisfactory
+11122,Clothing ,699,349,2,50.07,5,1,3.4,Satisfactory
+11123,Baby Care ,399,199,1,50.13,5,0,4,Satisfactory
+11124,Mobiles & Accessories ,1499,1369,3,8.67,2,0,2.2,Dissatisfactory
+11125,Toys & School Supplies ,2399,2399,3,0,1,0,1.9,Dissatisfactory
+11126,Mobiles & Accessories ,2199,1099,3,50.02,5,0,2.2,Dissatisfactory
+11127,"Bags, Wallets & Belts ",1999,599,3,70.04,6,0,3.1,Satisfactory
+11128,Mobiles & Accessories ,1490,1350,3,9.4,2,0,2.8,Dissatisfactory
+11129,Home Furnishing ,299,299,1,0,1,0,1.3,Dissatisfactory
+11130,Beauty and Personal Care ,2499,1299,3,48.02,4,0,2.8,Dissatisfactory
+11131,Beauty and Personal Care ,575,575,2,0,1,1,3.1,Satisfactory
+11132,Computers ,4395,3220,4,26.73,4,0,2.5,Dissatisfactory
+11133,Clothing ,699,454,2,35.05,4,0,1.9,Dissatisfactory
+11134,Clothing ,995,995,2,0,1,0,1.9,Dissatisfactory
+11135,Clothing ,699,299,2,57.22,5,0,3.1,Satisfactory
+11136,Clothing ,600,380,2,36.67,4,0,2.5,Dissatisfactory
+11137,Clothing ,695,695,2,0,1,1,1.6,Dissatisfactory
+11138,Clothing ,899,449,2,50.06,5,1,3.4,Satisfactory
+11139,Clothing ,800,415,2,48.13,4,0,3.1,Satisfactory
+11140,Clothing ,1295,698,3,46.1,4,0,2.8,Dissatisfactory
+11141,Clothing ,810,399,2,50.74,5,0,2.2,Dissatisfactory
+11142,Clothing ,899,899,2,0,1,1,1,Dissatisfactory
+11143,Clothing ,699,454,2,35.05,4,0,2.8,Dissatisfactory
+11144,Clothing ,699,418,2,40.2,4,0,2.5,Dissatisfactory
+11145,Clothing ,799,478,2,40.18,4,0,2.5,Dissatisfactory
+11146,Clothing ,849,678,2,20.14,3,0,2.8,Dissatisfactory
+11147,Clothing ,398,398,1,0,1,1,1.3,Dissatisfactory
+11148,Clothing ,448,349,1,22.1,3,0,2.2,Dissatisfactory
+11149,Clothing ,899,299,2,66.74,5,0,2.8,Dissatisfactory
+11150,Clothing ,1099,499,3,54.6,5,0,2.8,Dissatisfactory
+11151,Clothing ,599,399,2,33.39,4,0,3.1,Satisfactory
+11152,Clothing ,699,418,2,40.2,4,0,3.7,Satisfactory
+11153,Clothing ,849,299,2,64.78,5,0,2.5,Dissatisfactory
+11154,Clothing ,775,775,2,0,1,0,1.3,Dissatisfactory
+11155,Clothing ,599,399,2,33.39,4,0,2.5,Dissatisfactory
+11156,Clothing ,1599,1599,3,0,1,1,3.1,Satisfactory
+11157,Clothing ,799,249,2,68.84,5,0,2.8,Dissatisfactory
+11158,Clothing ,1099,499,3,54.6,5,0,2.5,Dissatisfactory
+11159,Clothing ,749,399,2,46.73,4,0,3.4,Satisfactory
+11160,Clothing ,1399,839,3,40.03,4,1,3.1,Satisfactory
+11161,Clothing ,1199,299,3,75.06,6,0,3.7,Satisfactory
+11162,Clothing ,775,609,2,21.42,3,0,2.2,Dissatisfactory
+11163,Clothing ,599,599,2,0,1,1,2.2,Dissatisfactory
+11164,Clothing ,849,764,2,10.01,3,0,2.2,Dissatisfactory
+11165,Clothing ,598,299,2,50,5,0,2.5,Dissatisfactory
+11166,Clothing ,1049,499,3,52.43,5,0,3.4,Satisfactory
+11167,Clothing ,1499,499,3,66.71,5,0,3.1,Satisfactory
+11168,Clothing ,745,699,2,6.17,2,0,1.9,Dissatisfactory
+11169,Clothing ,845,799,2,5.44,2,0,1.9,Dissatisfactory
+11170,Clothing ,799,399,2,50.06,5,0,2.8,Dissatisfactory
+11171,Clothing ,599,419,2,30.05,4,0,2.2,Dissatisfactory
+11172,Clothing ,699,454,2,35.05,4,0,2.8,Dissatisfactory
+11173,Clothing ,699,299,2,57.22,5,0,2.5,Dissatisfactory
+11174,Clothing ,599,599,2,0,1,1,1.6,Dissatisfactory
+11175,Clothing ,749,448,2,40.19,4,0,2.8,Dissatisfactory
+11176,Clothing ,999,499,2,50.05,5,0,3.1,Satisfactory
+11177,Clothing ,599,599,2,0,1,1,2.2,Dissatisfactory
+11178,Clothing ,1599,1599,3,0,1,1,1.6,Dissatisfactory
+11179,Clothing ,500,500,2,0,1,0,2.2,Dissatisfactory
+11180,Clothing ,699,454,2,35.05,4,0,2.5,Dissatisfactory
+11181,Clothing ,799,399,2,50.06,5,0,3.1,Satisfactory
+11182,Clothing ,155,155,1,0,1,0,1.6,Dissatisfactory
+11183,Clothing ,1199,958,3,20.1,3,0,2.2,Dissatisfactory
+11184,Clothing ,1099,499,3,54.6,5,0,3.7,Satisfactory
+11185,Clothing ,450,450,1,0,1,1,3.1,Satisfactory
+11186,Clothing ,749,399,2,46.73,4,0,2.8,Dissatisfactory
+11187,Clothing ,760,329,2,56.71,5,0,3.4,Satisfactory
+11188,Clothing ,799,480,2,39.92,4,0,3.7,Satisfactory
+11189,Clothing ,899,718,2,20.13,3,0,2.5,Dissatisfactory
+11190,Clothing ,398,398,1,0,1,1,1.3,Dissatisfactory
+11191,Clothing ,699,399,2,42.92,4,0,3.1,Satisfactory
+11192,Clothing ,749,399,2,46.73,4,0,3.1,Satisfactory
+11193,Clothing ,749,499,2,33.38,4,0,3.1,Satisfactory
+11194,Clothing ,899,299,2,66.74,5,0,3.7,Satisfactory
+11195,Clothing ,1299,1299,3,0,1,1,2.2,Dissatisfactory
+11196,Clothing ,1699,1699,3,0,1,1,2.8,Dissatisfactory
+11197,Clothing ,600,600,2,0,1,0,1.6,Dissatisfactory
+11198,Clothing ,1599,1599,3,0,1,1,1.6,Dissatisfactory
+11199,Clothing ,599,419,2,30.05,4,0,2.8,Dissatisfactory
+11200,Clothing ,599,419,2,30.05,4,0,2.5,Dissatisfactory
+11201,Clothing ,1079,499,3,53.75,5,0,3.1,Satisfactory
+11202,Clothing ,1599,1599,3,0,1,1,2.2,Dissatisfactory
+11203,Clothing ,599,349,2,41.74,4,0,3.4,Satisfactory
+11204,Clothing ,749,499,2,33.38,4,0,2.5,Dissatisfactory
+11205,Clothing ,699,299,2,57.22,5,0,3.1,Satisfactory
+11206,Clothing ,760,299,2,60.66,5,0,2.5,Dissatisfactory
+11207,Clothing ,598,299,2,50,5,0,2.2,Dissatisfactory
+11208,Clothing ,548,399,2,27.19,4,0,1.9,Dissatisfactory
+11209,Clothing ,999,445,2,55.46,5,0,3.7,Satisfactory
+11210,Watches ,999,329,2,67.07,5,0,3.1,Satisfactory
+11211,Watches ,350,199,1,43.14,4,0,2.5,Dissatisfactory
+11212,Clothing ,1499,599,3,60.04,5,0,3.4,Satisfactory
+11213,Clothing ,640,640,2,0,1,0,2.2,Dissatisfactory
+11214,Clothing ,1399,599,3,57.18,5,1,3.1,Satisfactory
+11215,Footwear ,1599,956,3,40.21,4,1,2.5,Dissatisfactory
+11216,Jewellery ,650,297,2,54.31,5,0,2.5,Dissatisfactory
+11217,"Bags, Wallets & Belts ",599,179,2,70.12,6,0,2.8,Dissatisfactory
+11218,Clothing ,1299,779,3,40.03,4,0,2.8,Dissatisfactory
+11219,"Bags, Wallets & Belts ",2995,299,4,90.02,7,0,2.8,Dissatisfactory
+11220,"Bags, Wallets & Belts ",699,127,2,81.83,6,0,3.1,Satisfactory
+11221,Home Furnishing ,950,840,2,11.58,3,0,2.2,Dissatisfactory
+11222,Home Furnishing ,950,840,2,11.58,3,0,2.5,Dissatisfactory
+11223,Home Furnishing ,2450,1000,3,59.18,5,0,2.5,Dissatisfactory
+11224,Watches ,2399,1050,3,56.23,5,0,3.1,Satisfactory
+11225,Clothing ,4799,2399,4,50.01,5,0,2.8,Dissatisfactory
+11226,Watches ,2500,1295,4,48.2,4,0,3.1,Satisfactory
+11227,Watches ,2500,1395,4,44.2,4,0,3.1,Satisfactory
+11228,Watches ,2500,1395,4,44.2,4,0,2.8,Dissatisfactory
+11229,Watches ,1999,799,3,60.03,5,0,3.1,Satisfactory
+11230,Watches ,1999,799,3,60.03,5,0,2.5,Dissatisfactory
+11231,Footwear ,1299,599,3,53.89,5,0,3.1,Satisfactory
+11232,Clothing ,899,539,2,40.04,4,0,3.1,Satisfactory
+11233,Watches ,650,275,2,57.69,5,0,3.1,Satisfactory
+11234,Baby Care ,850,529,2,37.76,4,0,2.8,Dissatisfactory
+11235,Baby Care ,1999,550,3,72.49,6,0,2.5,Dissatisfactory
+11236,Mobiles & Accessories ,399,175,1,56.14,5,0,3.4,Satisfactory
+11237,Mobiles & Accessories ,999,399,2,60.06,5,0,3.4,Satisfactory
+11238,Mobiles & Accessories ,549,149,2,72.86,6,0,3.4,Satisfactory
+11239,Mobiles & Accessories ,199,79,1,60.3,5,0,3.7,Satisfactory
+11240,Mobiles & Accessories ,399,199,1,50.13,5,0,3.1,Satisfactory
+11241,Mobiles & Accessories ,999,598,2,40.14,4,0,2.5,Dissatisfactory
+11242,Footwear ,1499,749,3,50.03,5,0,3.1,Satisfactory
+11243,Baby Care ,638,425,2,33.39,4,0,2.5,Dissatisfactory
+11244,Clothing ,1490,990,3,33.56,4,0,2.2,Dissatisfactory
+11245,Watches ,899,289,2,67.85,5,0,2.5,Dissatisfactory
+11246,Home Furnishing ,799,599,2,25.03,4,0,2.5,Dissatisfactory
+11247,Watches ,345,199,1,42.32,4,0,1.9,Dissatisfactory
+11248,Watches ,999,449,2,55.06,5,0,2.8,Dissatisfactory
+11249,Clothing ,1299,909,3,30.02,4,0,3.1,Satisfactory
+11250,Clothing ,699,449,2,35.77,4,0,2.8,Dissatisfactory
+11251,Clothing ,1999,349,3,82.54,6,0,2.8,Dissatisfactory
+11252,Beauty and Personal Care ,1400,840,3,40,4,0,3.1,Satisfactory
+11253,Toys & School Supplies ,1199,785,3,34.53,4,0,2.8,Dissatisfactory
+11254,Clothing ,799,299,2,62.58,5,0,2.5,Dissatisfactory
+11255,Toys & School Supplies ,1200,799,3,33.42,4,0,3.1,Satisfactory
+11256,Clothing ,549,389,2,29.14,4,0,1.3,Dissatisfactory
+11257,Toys & School Supplies ,849,699,2,17.67,3,0,2.5,Dissatisfactory
+11258,Clothing ,549,289,2,47.36,4,0,3.1,Satisfactory
+11259,Clothing ,999,549,2,45.05,4,0,2.5,Dissatisfactory
+11260,Clothing ,299,275,1,8.03,2,0,2.2,Dissatisfactory
+11261,Clothing ,1795,1795,3,0,1,1,1.6,Dissatisfactory
+11262,Watches ,275,199,1,27.64,4,0,3.1,Satisfactory
+11263,Footwear ,599,439,2,26.71,4,0,3.1,Satisfactory
+11264,"Bags, Wallets & Belts ",399,359,1,10.03,3,0,2.8,Dissatisfactory
+11265,Footwear ,1790,1074,3,40,4,0,3.1,Satisfactory
+11266,"Bags, Wallets & Belts ",599,433,2,27.71,4,0,2.2,Dissatisfactory
+11267,Footwear ,1695,999,3,41.06,4,1,2.5,Dissatisfactory
+11268,Jewellery ,3898,2860,4,26.63,4,0,2.5,Dissatisfactory
+11269,Pens & Stationery ,960,960,2,0,1,0,2.2,Dissatisfactory
+11270,Pens & Stationery ,1140,1095,3,3.95,2,0,1.9,Dissatisfactory
+11271,Jewellery ,1600,399,3,75.06,6,0,2.8,Dissatisfactory
+11272,Mobiles & Accessories ,599,599,2,0,1,0,1.3,Dissatisfactory
+11273,Mobiles & Accessories ,799,250,2,68.71,5,0,3.1,Satisfactory
+11274,Mobiles & Accessories ,599,499,2,16.69,3,0,1.9,Dissatisfactory
+11275,Mobiles & Accessories ,249,249,1,0,1,0,1.9,Dissatisfactory
+11276,Pens & Stationery ,150,145,1,3.33,2,0,1.3,Dissatisfactory
+11277,Jewellery ,2480,1880,3,24.19,3,0,2.8,Dissatisfactory
+11278,Jewellery ,1480,1350,3,8.78,2,0,1.9,Dissatisfactory
+11279,Jewellery ,1380,1242,3,10,3,0,2.8,Dissatisfactory
+11280,Clothing ,399,200,1,49.87,4,1,3.1,Satisfactory
+11281,Clothing ,399,200,1,49.87,4,1,3.1,Satisfactory
+11282,Jewellery ,1380,966,3,30,4,0,2.8,Dissatisfactory
+11283,Jewellery ,3280,1895,4,42.23,4,0,3.1,Satisfactory
+11284,Jewellery ,1980,1386,3,30,4,0,2.8,Dissatisfactory
+11285,Clothing ,699,349,2,50.07,5,0,2.8,Dissatisfactory
+11286,Jewellery ,4850,2250,4,53.61,5,0,3.7,Satisfactory
+11287,Jewellery ,4850,2250,4,53.61,5,0,3.1,Satisfactory
+11288,Jewellery ,2500,1200,4,52,5,0,2.8,Dissatisfactory
+11289,Jewellery ,1550,1550,3,0,1,1,1.9,Dissatisfactory
+11290,Jewellery ,4200,2199,4,47.64,4,0,3.1,Satisfactory
+11291,Mobiles & Accessories ,999,180,2,81.98,6,0,4,Satisfactory
+11292,Mobiles & Accessories ,799,299,2,62.58,5,0,2.8,Dissatisfactory
+11293,Mobiles & Accessories ,1299,199,3,84.68,6,0,3.1,Satisfactory
+11294,Mobiles & Accessories ,799,399,2,50.06,5,0,2.8,Dissatisfactory
+11295,Mobiles & Accessories ,699,129,2,81.55,6,0,4,Satisfactory
+11296,Mobiles & Accessories ,699,299,2,57.22,5,0,3.4,Satisfactory
+11297,Mobiles & Accessories ,999,499,2,50.05,5,0,3.4,Satisfactory
+11298,Jewellery ,3130,1249,4,60.1,5,0,3.7,Satisfactory
+11299,"Bags, Wallets & Belts ",1800,769,3,57.28,5,0,2.8,Dissatisfactory
+11300,"Bags, Wallets & Belts ",899,539,2,40.04,4,0,2.5,Dissatisfactory
+11301,"Bags, Wallets & Belts ",1700,748,3,56,5,0,3.4,Satisfactory
+11302,"Bags, Wallets & Belts ",3500,1498,4,57.2,5,0,3.1,Satisfactory
+11303,"Bags, Wallets & Belts ",899,499,2,44.49,4,0,2.8,Dissatisfactory
+11304,Clothing ,299,299,1,0,1,0,1.9,Dissatisfactory
+11305,Clothing ,1499,299,3,80.05,6,0,2.5,Dissatisfactory
+11306,Clothing ,1899,760,3,59.98,5,0,3.1,Satisfactory
+11307,Pens & Stationery ,995,995,2,0,1,0,1,Dissatisfactory
+11308,Clothing ,599,349,2,41.74,4,0,3.4,Satisfactory
+11309,Footwear ,5499,3989,5,27.46,4,1,2.8,Dissatisfactory
+11310,Jewellery ,3294,1317,4,60.02,5,0,2.8,Dissatisfactory
+11311,Clothing ,1900,680,3,64.21,5,0,3.7,Satisfactory
+11312,Clothing ,1090,980,3,10.09,3,0,1.9,Dissatisfactory
+11313,Clothing ,799,479,2,40.05,4,0,3.1,Satisfactory
+11314,Clothing ,799,479,2,40.05,4,0,1.9,Dissatisfactory
+11315,Clothing ,799,479,2,40.05,4,0,2.8,Dissatisfactory
+11316,Clothing ,799,479,2,40.05,4,0,2.8,Dissatisfactory
+11317,Clothing ,799,479,2,40.05,4,0,2.8,Dissatisfactory
+11318,Clothing ,799,479,2,40.05,4,0,3.7,Satisfactory
+11319,Clothing ,799,479,2,40.05,4,0,2.8,Dissatisfactory
+11320,Clothing ,799,479,2,40.05,4,0,3.1,Satisfactory
+11321,Clothing ,799,479,2,40.05,4,0,2.8,Dissatisfactory
+11322,Clothing ,749,449,2,40.05,4,0,3.1,Satisfactory
+11323,Clothing ,749,449,2,40.05,4,0,2.2,Dissatisfactory
+11324,Clothing ,749,449,2,40.05,4,0,3.1,Satisfactory
+11325,Clothing ,749,449,2,40.05,4,0,2.8,Dissatisfactory
+11326,Clothing ,749,449,2,40.05,4,0,3.4,Satisfactory
+11327,Clothing ,749,449,2,40.05,4,0,3.1,Satisfactory
+11328,Clothing ,749,449,2,40.05,4,0,3.1,Satisfactory
+11329,Clothing ,499,270,1,45.89,4,0,2.5,Dissatisfactory
+11330,Footwear ,1695,1695,3,0,1,0,1.6,Dissatisfactory
+11331,Clothing ,3499,1450,4,58.56,5,0,3.4,Satisfactory
+11332,Clothing ,8999,849,6,90.57,7,0,4,Satisfactory
+11333,Watches ,3495,3125,4,10.59,3,0,3.1,Satisfactory
+11334,Watches ,2495,2245,3,10.02,3,0,1.9,Dissatisfactory
+11335,Watches ,4200,3310,4,21.19,3,0,3.4,Satisfactory
+11336,Footwear ,1995,1995,3,0,1,0,1.6,Dissatisfactory
+11337,Footwear ,2099,2099,3,0,1,1,1.6,Dissatisfactory
+11338,Footwear ,2499,1249,3,50.02,5,0,2.5,Dissatisfactory
+11339,Footwear ,1699,1529,3,10.01,3,0,1.9,Dissatisfactory
+11340,Footwear ,2499,1922,3,23.09,3,0,2.5,Dissatisfactory
+11341,Footwear ,1799,1599,3,11.12,3,0,2.5,Dissatisfactory
+11342,Footwear ,2288,1601,3,30.03,4,0,2.2,Dissatisfactory
+11343,Footwear ,2699,1199,4,55.58,5,0,3.4,Satisfactory
+11344,Footwear ,1190,1190,3,0,1,0,1.3,Dissatisfactory
+11345,Footwear ,2699,1299,4,51.87,5,0,2.5,Dissatisfactory
+11346,Footwear ,1999,1999,3,0,1,0,1.6,Dissatisfactory
+11347,Footwear ,2695,1899,4,29.54,4,0,1.6,Dissatisfactory
+11348,Footwear ,1999,1999,3,0,1,0,2.5,Dissatisfactory
+11349,Footwear ,2599,1819,4,30.01,4,0,3.4,Satisfactory
+11350,Footwear ,1699,1699,3,0,1,0,1.6,Dissatisfactory
+11351,Footwear ,1995,1536,3,23.01,3,0,1.9,Dissatisfactory
+11352,Footwear ,999,499,2,50.05,5,0,2.8,Dissatisfactory
+11353,Footwear ,1199,599,3,50.04,5,0,3.4,Satisfactory
+11354,Footwear ,1950,1950,3,0,1,0,1.3,Dissatisfactory
+11355,Footwear ,2299,1149,3,50.02,5,0,4,Satisfactory
+11356,Footwear ,1999,1099,3,45.02,4,0,3.1,Satisfactory
+11357,Footwear ,2100,1800,3,14.29,3,0,1.9,Dissatisfactory
+11358,Footwear ,1899,1899,3,0,1,1,2.8,Dissatisfactory
+11359,Footwear ,2499,999,3,60.02,5,0,2.8,Dissatisfactory
+11360,Footwear ,2485,2485,3,0,1,1,2.8,Dissatisfactory
+11361,Footwear ,2099,2099,3,0,1,1,1.9,Dissatisfactory
+11362,Footwear ,2100,1800,3,14.29,3,0,2.2,Dissatisfactory
+11363,Footwear ,2599,1819,4,30.01,4,0,2.2,Dissatisfactory
+11364,Footwear ,1999,1999,3,0,1,0,1.6,Dissatisfactory
+11365,Footwear ,2499,1249,3,50.02,5,0,3.1,Satisfactory
+11366,Footwear ,4499,1799,4,60.01,5,0,3.4,Satisfactory
+11367,Footwear ,2299,2299,3,0,1,1,1.9,Dissatisfactory
+11368,Footwear ,2295,1951,3,14.99,3,1,2.5,Dissatisfactory
+11369,Footwear ,2288,1601,3,30.03,4,0,3.1,Satisfactory
+11370,Footwear ,2099,2099,3,0,1,1,1.6,Dissatisfactory
+11371,Footwear ,499,399,1,20.04,3,0,2.2,Dissatisfactory
+11372,Footwear ,499,399,1,20.04,3,0,2.8,Dissatisfactory
+11373,Home Furnishing ,1499,398,3,73.45,6,1,3.1,Satisfactory
+11374,Footwear ,2999,1599,4,46.68,4,0,3.4,Satisfactory
+11375,Computers ,329,259,1,21.28,3,0,2.5,Dissatisfactory
+11376,Sports & Fitness ,1085,809,3,25.44,4,0,2.2,Dissatisfactory
+11377,Footwear ,1499,799,3,46.7,4,0,2.8,Dissatisfactory
+11378,Footwear ,899,899,2,0,1,0,1.9,Dissatisfactory
+11379,Sports & Fitness ,549,389,2,29.14,4,0,2.8,Dissatisfactory
+11380,Sports & Fitness ,1299,1299,3,0,1,1,2.5,Dissatisfactory
+11381,Clothing ,895,295,2,67.04,5,0,3.1,Satisfactory
+11382,Sports & Fitness ,520,520,2,0,1,1,1.6,Dissatisfactory
+11383,Sports & Fitness ,955,955,2,0,1,1,1.6,Dissatisfactory
+11384,Clothing ,1299,649,3,50.04,5,1,2.8,Dissatisfactory
+11385,Sports & Fitness ,1099,1099,3,0,1,1,1.6,Dissatisfactory
+11386,Computers ,3199,2999,4,6.25,2,0,2.8,Dissatisfactory
+11387,Computers ,999,75,2,92.49,7,0,3.4,Satisfactory
+11388,Computers ,1299,799,3,38.49,4,0,1.9,Dissatisfactory
+11389,Computers ,999,849,2,15.02,3,0,2.2,Dissatisfactory
+11390,Footwear ,1999,999,3,50.03,5,0,3.1,Satisfactory
+11391,Footwear ,1999,999,3,50.03,5,0,3.1,Satisfactory
+11392,Footwear ,1999,999,3,50.03,5,0,2.8,Dissatisfactory
+11393,Footwear ,1999,999,3,50.03,5,0,2.5,Dissatisfactory
+11394,Computers ,329,259,1,21.28,3,0,2.5,Dissatisfactory
+11395,Computers ,299,166,1,44.48,4,0,2.2,Dissatisfactory
+11396,Computers ,999,85,2,91.49,7,0,4,Satisfactory
+11397,Computers ,899,699,2,22.25,3,0,2.5,Dissatisfactory
+11398,Computers ,1660,1555,3,6.33,2,0,2.2,Dissatisfactory
+11399,Computers ,329,259,1,21.28,3,0,2.5,Dissatisfactory
+11400,Computers ,599,129,2,78.46,6,0,3.1,Satisfactory
+11401,Computers ,329,259,1,21.28,3,0,1.9,Dissatisfactory
+11402,Footwear ,3799,1519,4,60.02,5,0,3.4,Satisfactory
+11403,Sports & Fitness ,1099,999,3,9.1,2,0,1.9,Dissatisfactory
+11404,Computers ,399,199,1,50.13,5,0,2.8,Dissatisfactory
+11405,Computers ,1299,799,3,38.49,4,0,3.1,Satisfactory
+11406,Computers ,1199,149,3,87.57,6,0,3.4,Satisfactory
+11407,Computers ,250,100,1,60,5,0,3.4,Satisfactory
+11408,Sports & Fitness ,699,559,2,20.03,3,0,2.5,Dissatisfactory
+11409,Computers ,699,549,2,21.46,3,0,1.9,Dissatisfactory
+11410,Footwear ,2999,1449,4,51.68,5,0,2.8,Dissatisfactory
+11411,Footwear ,1449,529,3,63.49,5,0,3.1,Satisfactory
+11412,Footwear ,999,449,2,55.06,5,0,3.4,Satisfactory
+11413,Footwear ,1958,699,3,64.3,5,0,3.1,Satisfactory
+11414,Footwear ,2499,999,3,60.02,5,0,3.7,Satisfactory
+11415,Footwear ,1499,799,3,46.7,4,1,2.8,Dissatisfactory
+11416,Footwear ,2220,599,3,73.02,6,1,3.1,Satisfactory
+11417,Clothing ,1499,349,3,76.72,6,0,3.7,Satisfactory
+11418,Clothing ,850,299,2,64.82,5,0,3.1,Satisfactory
+11419,Footwear ,3499,1799,4,48.59,4,0,2.5,Dissatisfactory
+11420,Clothing ,1899,549,3,71.09,6,0,3.4,Satisfactory
+11421,Clothing ,2599,674,4,74.07,6,0,3.7,Satisfactory
+11422,Clothing ,1599,1279,3,20.01,3,0,2.5,Dissatisfactory
+11423,Clothing ,2495,899,3,63.97,5,0,2.8,Dissatisfactory
+11424,Clothing ,2080,399,3,80.82,6,0,3.7,Satisfactory
+11425,Clothing ,1295,1295,3,0,1,1,1.6,Dissatisfactory
+11426,Clothing ,1520,1216,3,20,3,0,2.2,Dissatisfactory
+11427,Clothing ,1155,1155,3,0,1,0,2.5,Dissatisfactory
+11428,Mobiles & Accessories ,3999,2999,4,25.01,4,0,3.1,Satisfactory
+11429,Beauty and Personal Care ,700,399,2,43,4,0,2.5,Dissatisfactory
+11430,Clothing ,1199,449,3,62.55,5,0,2.8,Dissatisfactory
+11431,Clothing ,2650,650,4,75.47,6,0,2.8,Dissatisfactory
+11432,Clothing ,2099,799,3,61.93,5,0,3.4,Satisfactory
+11433,Clothing ,1025,1025,3,0,1,0,1.9,Dissatisfactory
+11434,Clothing ,999,499,2,50.05,5,0,3.1,Satisfactory
+11435,Clothing ,1899,759,3,60.03,5,0,2.8,Dissatisfactory
+11436,Clothing ,1299,599,3,53.89,5,0,3.4,Satisfactory
+11437,Clothing ,999,499,2,50.05,5,0,3.4,Satisfactory
+11438,Clothing ,1000,449,3,55.1,5,0,3.1,Satisfactory
+11439,Clothing ,2099,449,3,78.61,6,0,3.4,Satisfactory
+11440,Clothing ,1699,764,3,55.03,5,0,2.5,Dissatisfactory
+11441,Clothing ,1199,499,3,58.38,5,0,3.7,Satisfactory
+11442,Clothing ,1000,449,3,55.1,5,0,3.1,Satisfactory
+11443,Clothing ,999,399,2,60.06,5,0,3.7,Satisfactory
+11444,Jewellery ,499,199,1,60.12,5,0,2.8,Dissatisfactory
+11445,Footwear ,2699,989,4,63.36,5,0,3.4,Satisfactory
+11446,Home Furnishing ,800,369,2,53.88,5,0,2.2,Dissatisfactory
+11447,Home Furnishing ,999,999,2,0,1,0,1.6,Dissatisfactory
+11448,Footwear ,999,449,2,55.06,5,0,3.4,Satisfactory
+11449,Footwear ,999,449,2,55.06,5,0,3.4,Satisfactory
+11450,Home Furnishing ,735,680,2,7.48,2,0,2.2,Dissatisfactory
+11451,Home Furnishing ,720,375,2,47.92,4,0,3.4,Satisfactory
+11452,Jewellery ,2499,649,3,74.03,6,0,4,Satisfactory
+11453,Home Furnishing ,1850,999,3,46,4,0,2.5,Dissatisfactory
+11454,Baby Care ,699,440,2,37.05,4,0,1.9,Dissatisfactory
+11455,Home Furnishing ,599,599,2,0,1,0,1.3,Dissatisfactory
+11456,Home Furnishing ,999,699,2,30.03,4,0,2.5,Dissatisfactory
+11457,Jewellery ,998,199,2,80.06,6,0,2.8,Dissatisfactory
+11458,Home Furnishing ,1299,1299,3,0,1,0,2.2,Dissatisfactory
+11459,Home Furnishing ,490,280,1,42.86,4,0,2.5,Dissatisfactory
+11460,Home Furnishing ,689,689,2,0,1,0,1.9,Dissatisfactory
+11461,Clothing ,1299,779,3,40.03,4,0,3.4,Satisfactory
+11462,Jewellery ,1499,599,3,60.04,5,0,2.8,Dissatisfactory
+11463,Clothing ,1599,959,3,40.03,4,0,3.1,Satisfactory
+11464,Clothing ,1599,959,3,40.03,4,0,2.5,Dissatisfactory
+11465,Jewellery ,1799,499,3,72.26,6,0,2.8,Dissatisfactory
+11466,Home Furnishing ,999,583,2,41.64,4,1,3.7,Satisfactory
+11467,Baby Care ,699,429,2,38.63,4,0,3.4,Satisfactory
+11468,Home Furnishing ,1299,599,3,53.89,5,0,3.1,Satisfactory
+11469,Home Furnishing ,458,207,1,54.8,5,0,3.1,Satisfactory
+11470,Clothing ,1099,499,3,54.6,5,0,3.7,Satisfactory
+11471,Jewellery ,700,365,2,47.86,4,0,3.7,Satisfactory
+11472,Jewellery ,2499,999,3,60.02,5,0,3.1,Satisfactory
+11473,Jewellery ,349,349,1,0,1,0,1.9,Dissatisfactory
+11474,Jewellery ,2800,2150,4,23.21,3,0,2.5,Dissatisfactory
+11475,Clothing ,1195,999,3,16.4,3,0,3.1,Satisfactory
+11476,Clothing ,1145,999,3,12.75,3,0,2.5,Dissatisfactory
+11477,Clothing ,1495,1271,3,14.98,3,0,1.9,Dissatisfactory
+11478,Home Furnishing ,1495,1195,3,20.07,3,0,2.5,Dissatisfactory
+11479,Home Furnishing ,449,249,1,44.54,4,0,4,Satisfactory
+11480,Home Furnishing ,490,280,1,42.86,4,0,4,Satisfactory
+11481,Jewellery ,1099,385,3,64.97,5,0,4.9,Satisfactory
+11482,Jewellery ,199,199,1,0,1,0,2.5,Dissatisfactory
+11483,Home Furnishing ,999,999,2,0,1,0,1.9,Dissatisfactory
+11484,Jewellery ,2700,1080,4,60,5,0,3.7,Satisfactory
+11485,Clothing ,1499,475,3,68.31,5,0,3.4,Satisfactory
+11486,Pens & Stationery ,990,990,2,0,1,0,1.9,Dissatisfactory
+11487,Home Furnishing ,549,514,2,6.38,2,0,2.5,Dissatisfactory
+11488,Home Furnishing ,1199,1199,3,0,1,0,1.9,Dissatisfactory
+11489,Home Furnishing ,1199,1199,3,0,1,0,1.3,Dissatisfactory
+11490,Footwear ,499,275,1,44.89,4,0,3.4,Satisfactory
+11491,Clothing ,899,399,2,55.62,5,0,2.8,Dissatisfactory
+11492,Footwear ,999,949,2,5.01,2,0,2.2,Dissatisfactory
+11493,Footwear ,499,499,1,0,1,0,2.2,Dissatisfactory
+11494,Footwear ,249,249,1,0,1,0,2.2,Dissatisfactory
+11495,Sports & Fitness ,578,578,2,0,1,1,2.2,Dissatisfactory
+11496,Footwear ,299,230,1,23.08,3,0,2.8,Dissatisfactory
+11497,Clothing ,540,316,2,41.48,4,0,2.5,Dissatisfactory
+11498,Footwear ,408,408,1,0,1,0,1.6,Dissatisfactory
+11499,Footwear ,391,391,1,0,1,0,1.9,Dissatisfactory
+11500,Mobiles & Accessories ,2499,1299,3,48.02,4,0,3.1,Satisfactory
+11501,Clothing ,549,272,2,50.46,5,0,3.4,Satisfactory
+11502,Clothing ,279,249,1,10.75,3,0,1.9,Dissatisfactory
+11503,Mobiles & Accessories ,999,499,2,50.05,5,0,3.1,Satisfactory
+11504,Footwear ,399,191,1,52.13,5,0,2.8,Dissatisfactory
+11505,Mobiles & Accessories ,1299,399,3,69.28,5,0,3.7,Satisfactory
+11506,Toys & School Supplies ,1499,899,3,40.03,4,0,2.8,Dissatisfactory
+11507,Beauty and Personal Care ,225,210,1,6.67,2,0,1.9,Dissatisfactory
+11508,Home Furnishing ,2295,984,3,57.12,5,0,3.7,Satisfactory
+11509,"Bags, Wallets & Belts ",1499,599,3,60.04,5,0,3.1,Satisfactory
+11510,Toys & School Supplies ,3799,3299,4,13.16,3,0,2.5,Dissatisfactory
+11511,Beauty and Personal Care ,255,180,1,29.41,4,0,2.5,Dissatisfactory
+11512,"Bags, Wallets & Belts ",1999,649,3,67.53,5,0,4,Satisfactory
+11513,Home Furnishing ,1990,1475,3,25.88,4,0,3.4,Satisfactory
+11514,Footwear ,4999,2999,4,40.01,4,0,3.1,Satisfactory
+11515,Home Furnishing ,2997,999,4,66.67,5,0,3.7,Satisfactory
+11516,Toys & School Supplies ,7499,4499,5,40.01,4,0,3.1,Satisfactory
+11517,"Bags, Wallets & Belts ",990,899,2,9.19,2,0,1.9,Dissatisfactory
+11518,"Bags, Wallets & Belts ",2999,599,4,80.03,6,0,4.9,Satisfactory
+11519,Beauty and Personal Care ,210,210,1,0,1,0,1.3,Dissatisfactory
+11520,"Bags, Wallets & Belts ",1198,549,3,54.17,5,1,3.1,Satisfactory
+11521,"Bags, Wallets & Belts ",1499,524,3,65.04,5,0,3.1,Satisfactory
+11522,Footwear ,1799,1799,3,0,1,1,1.6,Dissatisfactory
+11523,Toys & School Supplies ,6000,4499,5,25.02,4,0,2.5,Dissatisfactory
+11524,Home Furnishing ,2997,999,4,66.67,5,0,3.1,Satisfactory
+11525,Clothing ,699,699,2,0,1,0,2.2,Dissatisfactory
+11526,Clothing ,1299,584,3,55.04,5,0,3.1,Satisfactory
+11527,Clothing ,1599,399,3,75.05,6,0,3.7,Satisfactory
+11528,"Bags, Wallets & Belts ",1499,599,3,60.04,5,0,3.1,Satisfactory
+11529,"Bags, Wallets & Belts ",1599,599,3,62.54,5,1,3.4,Satisfactory
+11530,"Bags, Wallets & Belts ",1250,499,3,60.08,5,0,3.4,Satisfactory
+11531,Home Furnishing ,1797,599,3,66.67,5,0,3.7,Satisfactory
+11532,Baby Care ,999,499,2,50.05,5,0,3.1,Satisfactory
+11533,Baby Care ,1699,809,3,52.38,5,0,3.7,Satisfactory
+11534,Baby Care ,1599,719,3,55.03,5,0,3.4,Satisfactory
+11535,Baby Care ,3499,1529,4,56.3,5,0,2.5,Dissatisfactory
+11536,Clothing ,1150,569,3,50.52,5,0,2.8,Dissatisfactory
+11537,Clothing ,599,299,2,50.08,5,0,2.5,Dissatisfactory
+11538,Clothing ,499,299,1,40.08,4,0,3.1,Satisfactory
+11539,Clothing ,499,399,1,20.04,3,0,1.9,Dissatisfactory
+11540,Clothing ,1999,999,3,50.03,5,0,2.5,Dissatisfactory
+11541,Clothing ,799,519,2,35.04,4,0,2.8,Dissatisfactory
+11542,"Bags, Wallets & Belts ",150,95,1,36.67,4,0,2.5,Dissatisfactory
+11543,Footwear ,599,440,2,26.54,4,0,1.3,Dissatisfactory
+11544,Home Furnishing ,5199,3599,5,30.78,4,0,2.8,Dissatisfactory
+11545,Clothing ,1899,1044,3,45.02,4,0,2.8,Dissatisfactory
+11546,Clothing ,5995,5995,5,0,1,0,2.2,Dissatisfactory
+11547,Mobiles & Accessories ,399,249,1,37.59,4,0,2.5,Dissatisfactory
+11548,Clothing ,900,399,2,55.67,5,0,2.5,Dissatisfactory
+11549,Computers ,2999,1248,4,58.39,5,0,3.7,Satisfactory
+11550,Beauty and Personal Care ,550,350,2,36.36,4,0,3.1,Satisfactory
+11551,Clothing ,1399,839,3,40.03,4,1,3.4,Satisfactory
+11552,Clothing ,1699,679,3,60.04,5,0,3.1,Satisfactory
+11553,Clothing ,2499,899,3,64.03,5,0,3.7,Satisfactory
+11554,Clothing ,1549,929,3,40.03,4,1,3.1,Satisfactory
+11555,Clothing ,2999,999,4,66.69,5,0,2.8,Dissatisfactory
+11556,Clothing ,1250,850,3,32,4,0,3.4,Satisfactory
+11557,Clothing ,3250,839,4,74.18,6,0,2.8,Dissatisfactory
+11558,Clothing ,1299,779,3,40.03,4,0,2.8,Dissatisfactory
+11559,Clothing ,1549,620,3,59.97,5,0,2.8,Dissatisfactory
+11560,Clothing ,2499,999,3,60.02,5,0,2.8,Dissatisfactory
+11561,Clothing ,1899,760,3,59.98,5,1,3.7,Satisfactory
+11562,Clothing ,2499,897,3,64.11,5,0,3.1,Satisfactory
+11563,Clothing ,1995,799,3,59.95,5,0,2.8,Dissatisfactory
+11564,Clothing ,1990,796,3,60,5,0,3.4,Satisfactory
+11565,Clothing ,1995,799,3,59.95,5,0,3.1,Satisfactory
+11566,Clothing ,2499,997,3,60.1,5,0,3.1,Satisfactory
+11567,Clothing ,2499,997,3,60.1,5,0,2.2,Dissatisfactory
+11568,Clothing ,899,899,2,0,1,0,2.2,Dissatisfactory
+11569,Clothing ,2499,997,3,60.1,5,0,2.8,Dissatisfactory
+11570,Clothing ,2999,899,4,70.02,6,0,3.4,Satisfactory
+11571,Clothing ,1999,699,3,65.03,5,0,3.4,Satisfactory
+11572,Clothing ,1899,799,3,57.93,5,0,2.8,Dissatisfactory
+11573,Clothing ,1599,959,3,40.03,4,1,3.1,Satisfactory
+11574,Clothing ,2499,797,3,68.11,5,0,3.7,Satisfactory
+11575,Clothing ,2599,999,4,61.56,5,0,2.8,Dissatisfactory
+11576,Clothing ,2499,997,3,60.1,5,0,3.1,Satisfactory
+11577,Clothing ,2890,749,4,74.08,6,0,3.1,Satisfactory
+11578,Clothing ,1799,720,3,59.98,5,0,2.8,Dissatisfactory
+11579,Clothing ,2499,849,3,66.03,5,0,3.1,Satisfactory
+11580,Clothing ,899,699,2,22.25,3,0,2.2,Dissatisfactory
+11581,Clothing ,1599,699,3,56.29,5,0,3.4,Satisfactory
+11582,Clothing ,2499,997,3,60.1,5,0,2.2,Dissatisfactory
+11583,Clothing ,1599,959,3,40.03,4,1,2.5,Dissatisfactory
+11584,Clothing ,1569,699,3,55.45,5,0,2.8,Dissatisfactory
+11585,Clothing ,1299,649,3,50.04,5,0,2.8,Dissatisfactory
+11586,Clothing ,999,699,2,30.03,4,0,2.8,Dissatisfactory
+11587,Clothing ,1499,899,3,40.03,4,1,2.8,Dissatisfactory
+11588,Clothing ,1995,799,3,59.95,5,0,3.4,Satisfactory
+11589,Clothing ,1699,680,3,59.98,5,0,2.8,Dissatisfactory
+11590,Clothing ,2499,777,3,68.91,5,0,3.4,Satisfactory
+11591,Clothing ,1799,799,3,55.59,5,0,3.4,Satisfactory
+11592,Clothing ,1899,690,3,63.67,5,0,3.1,Satisfactory
+11593,Clothing ,2959,897,4,69.69,5,0,2.5,Dissatisfactory
+11594,Clothing ,2499,697,3,72.11,6,0,4.3,Satisfactory
+11595,Baby Care ,1299,999,3,23.09,3,0,2.8,Dissatisfactory
+11596,Footwear ,1499,499,3,66.71,5,0,4.6,Satisfactory
+11597,Footwear ,1199,449,3,62.55,5,0,3.7,Satisfactory
+11598,Footwear ,1499,499,3,66.71,5,0,3.1,Satisfactory
+11599,Footwear ,2799,995,4,64.45,5,0,3.4,Satisfactory
+11600,Footwear ,1499,499,3,66.71,5,0,3.7,Satisfactory
+11601,Footwear ,999,699,2,30.03,4,0,2.2,Dissatisfactory
+11602,Footwear ,899,349,2,61.18,5,0,2.8,Dissatisfactory
+11603,Footwear ,1099,899,3,18.2,3,0,2.5,Dissatisfactory
+11604,Baby Care ,1190,595,3,50,5,0,3.4,Satisfactory
+11605,Footwear ,899,899,2,0,1,0,2.5,Dissatisfactory

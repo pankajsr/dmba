@@ -1,0 +1,1100 @@
+Card_ID,StoreLocation,Monthly Visit Frequency,Customer_Gender,Local_Resident,Store_Distance,Avg Basket-Value,Avg Basket-Items,Promo_Item_Purchase
+150474,Delhi,>5 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+183509,Delhi,>5 Times,Male,Yes,<1 Km,Large Basket,5-8,5
+102910,Jaipur,>5 Times,Male,Yes,<1 Km,Large Basket,13-16,5
+101593,Delhi,>5 Times,Male,Yes,<1 Km,Large Basket,13-16,5
+140156,Delhi,>5 Times,Male,Yes,<1 Km,Large Basket,>16,5
+123930,Delhi,>5 Times,Male,No,<1 Km,Large Basket,1-4,5
+175003,Delhi,>5 Times,Male,No,<1 Km,Large Basket,5-8,5
+124312,Jaipur,>5 Times,Male,No,<1 Km,Large Basket,5-8,5
+111608,Banglore,3-5 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+188051,Delhi,3-5 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+148099,Banglore,3-5 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+104259,Banglore,3-5 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+165520,Banglore,3-5 Times,Male,Yes,<1 Km,Large Basket,5-8,5
+145531,Delhi,3-5 Times,Male,Yes,<1 Km,Large Basket,>16,5
+131122,Banglore,3-5 Times,Male,Yes,<1 Km,Large Basket,>16,5
+106110,Mumbai,3-5 Times,Male,Yes,<1 Km,Large Basket,>16,5
+155144,Banglore,>5 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+148283,Delhi,>5 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+166849,Banglore,>5 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+122086,Mumbai,>5 Times,Male,Yes,<1 Km,Mid Size Basket,5-8,5
+105708,Banglore,>5 Times,Male,Yes,<1 Km,Mid Size Basket,5-8,5
+177191,Banglore,>5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+124221,Delhi,>5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+177197,Banglore,>5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+183668,Delhi,>5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+129673,Delhi,>5 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+109984,Jaipur,3-5 Times,Male,No,<1 Km,Large Basket,1-4,5
+190130,Delhi,3-5 Times,Male,No,<1 Km,Large Basket,1-4,5
+176789,Banglore,3-5 Times,Male,No,<1 Km,Large Basket,1-4,5
+119191,Banglore,3-5 Times,Male,No,<1 Km,Large Basket,5-8,5
+174193,Delhi,3-5 Times,Male,No,<1 Km,Large Basket,>16,5
+125030,Delhi,3-5 Times,Male,No,<1 Km,Large Basket,>16,5
+150427,Banglore,3-5 Times,Male,No,<1 Km,Large Basket,>16,5
+190157,Banglore,1-2 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+182480,Delhi,1-2 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+130424,Banglore,1-2 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+138008,Banglore,1-2 Times,Male,Yes,<1 Km,Large Basket,1-4,5
+122552,Delhi,1-2 Times,Male,Yes,<1 Km,Large Basket,5-8,5
+111342,Delhi,1-2 Times,Male,Yes,<1 Km,Large Basket,13-16,5
+145314,Delhi,1-2 Times,Male,Yes,<1 Km,Large Basket,13-16,5
+182287,Delhi,1-2 Times,Male,Yes,<1 Km,Large Basket,13-16,5
+181175,Mumbai,1-2 Times,Male,Yes,<1 Km,Large Basket,>16,5
+149302,Chennai,1-2 Times,Male,Yes,<1 Km,Large Basket,>16,5
+138894,Banglore,>5 Times,Male,No,<1 Km,Mid Size Basket,5-8,5
+115567,Delhi,>5 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+122173,Banglore,>5 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+107377,Mumbai,>5 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+181250,Banglore,>5 Times,Male,No,<1 Km,Mid Size Basket,>16,5
+105266,Banglore,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,5-8,5
+114476,Chennai,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,5-8,5
+166577,Banglore,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+125374,Jaipur,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+150416,Delhi,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+163890,Banglore,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+118331,Banglore,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+196825,Delhi,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+164582,Delhi,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+145591,Banglore,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+188918,Banglore,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+155897,Jaipur,3-5 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+106827,Delhi,1-2 Times,Male,No,<1 Km,Large Basket,1-4,5
+116168,Delhi,1-2 Times,Male,No,<1 Km,Large Basket,1-4,5
+119255,Delhi,1-2 Times,Male,No,<1 Km,Large Basket,5-8,5
+127777,Banglore,1-2 Times,Male,No,<1 Km,Large Basket,5-8,5
+172111,Delhi,1-2 Times,Male,No,<1 Km,Large Basket,5-8,5
+167147,Delhi,1-2 Times,Male,No,<1 Km,Large Basket,>16,5
+125466,Delhi,1-2 Times,Male,No,<1 Km,Large Basket,>16,5
+154262,Chennai,1-2 Times,Male,No,<1 Km,Large Basket,>16,5
+163037,Banglore,>5 Times,Male,Yes,<1 Km,Small Basket,1-4,5
+194599,Mumbai,>5 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+190070,Banglore,>5 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+191858,Mumbai,>5 Times,Male,Yes,<1 Km,Small Basket,13-16,5
+151577,Mumbai,3-5 Times,Male,No,<1 Km,Mid Size Basket,1-4,5
+126868,Mumbai,3-5 Times,Male,No,<1 Km,Mid Size Basket,1-4,5
+146539,Jaipur,3-5 Times,Male,No,<1 Km,Mid Size Basket,5-8,5
+176579,Chennai,3-5 Times,Male,No,<1 Km,Mid Size Basket,5-8,5
+152719,Delhi,3-5 Times,Male,No,<1 Km,Mid Size Basket,5-8,5
+164627,Banglore,3-5 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+143469,Delhi,3-5 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+106823,Banglore,3-5 Times,Male,No,<1 Km,Mid Size Basket,>16,5
+110008,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+186701,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+139659,Jaipur,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+173110,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+130723,Chennai,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+137759,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+134285,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,1-4,5
+153222,Chennai,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,5-8,5
+131636,Banglore,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,5-8,5
+150805,Banglore,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+193566,Banglore,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,13-16,5
+157684,Delhi,>5 Times,Male,No,<1 Km,Small Basket,1-4,5
+141958,Chennai,>5 Times,Male,No,<1 Km,Small Basket,1-4,5
+165739,Banglore,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+160648,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+150104,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+180538,Jaipur,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+191336,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+106021,Banglore,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+134644,Delhi,1-2 Times,Male,Yes,<1 Km,Mid Size Basket,>16,5
+118579,Banglore,>5 Times,Male,No,<1 Km,Small Basket,5-8,5
+188751,Chennai,>5 Times,Male,No,<1 Km,Small Basket,>16,5
+193481,Banglore,>5 Times,Male,No,<1 Km,Small Basket,>16,5
+134726,Delhi,3-5 Times,Male,Yes,<1 Km,Small Basket,1-4,5
+179034,Delhi,3-5 Times,Male,Yes,<1 Km,Small Basket,1-4,5
+146189,Chennai,3-5 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+102483,Banglore,3-5 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+154989,Banglore,3-5 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+154972,Mumbai,3-5 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+198140,Chennai,3-5 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+183398,Banglore,3-5 Times,Male,Yes,<1 Km,Small Basket,13-16,5
+187559,Delhi,3-5 Times,Male,Yes,<1 Km,Small Basket,13-16,5
+136325,Delhi,3-5 Times,Male,Yes,<1 Km,Small Basket,>16,5
+102729,Banglore,3-5 Times,Male,Yes,<1 Km,Small Basket,>16,5
+136620,Mumbai,1-2 Times,Male,No,<1 Km,Mid Size Basket,1-4,5
+181833,Delhi,1-2 Times,Male,No,<1 Km,Mid Size Basket,1-4,5
+189665,Banglore,1-2 Times,Male,No,<1 Km,Mid Size Basket,1-4,5
+186145,Delhi,1-2 Times,Male,No,<1 Km,Mid Size Basket,1-4,5
+154678,Delhi,1-2 Times,Male,No,<1 Km,Mid Size Basket,1-4,5
+159815,Delhi,1-2 Times,Male,No,<1 Km,Mid Size Basket,5-8,5
+133903,Mumbai,1-2 Times,Male,No,<1 Km,Mid Size Basket,5-8,5
+138758,Chennai,1-2 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+186669,Delhi,1-2 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+133613,Mumbai,1-2 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+100839,Banglore,1-2 Times,Male,No,<1 Km,Mid Size Basket,13-16,5
+167309,Banglore,1-2 Times,Male,No,<1 Km,Mid Size Basket,>16,5
+166519,Delhi,1-2 Times,Male,No,<1 Km,Mid Size Basket,>16,5
+147351,Mumbai,1-2 Times,Male,No,<1 Km,Mid Size Basket,>16,5
+167368,Banglore,3-5 Times,Male,No,<1 Km,Small Basket,1-4,5
+146478,Jaipur,3-5 Times,Male,No,<1 Km,Small Basket,1-4,5
+102863,Banglore,3-5 Times,Male,No,<1 Km,Small Basket,1-4,5
+105001,Delhi,3-5 Times,Male,No,<1 Km,Small Basket,1-4,5
+157692,Delhi,3-5 Times,Male,No,<1 Km,Small Basket,5-8,5
+124751,Jaipur,3-5 Times,Male,No,<1 Km,Small Basket,5-8,5
+189552,Banglore,3-5 Times,Male,No,<1 Km,Small Basket,5-8,5
+101520,Jaipur,3-5 Times,Male,No,<1 Km,Small Basket,5-8,5
+124350,Jaipur,3-5 Times,Male,No,<1 Km,Small Basket,5-8,5
+184373,Delhi,3-5 Times,Male,No,<1 Km,Small Basket,>16,5
+145307,Banglore,3-5 Times,Male,No,<1 Km,Small Basket,>16,5
+109671,Mumbai,3-5 Times,Male,No,<1 Km,Small Basket,>16,5
+173349,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,1-4,5
+188117,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,1-4,5
+150250,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,1-4,5
+107205,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+138716,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+150884,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+154990,Delhi,1-2 Times,Male,Yes,<1 Km,Small Basket,5-8,5
+168684,Delhi,1-2 Times,Male,Yes,<1 Km,Small Basket,13-16,5
+140966,Delhi,1-2 Times,Male,Yes,<1 Km,Small Basket,13-16,5
+142622,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,>16,5
+182567,Banglore,1-2 Times,Male,Yes,<1 Km,Small Basket,>16,5
+105571,Delhi,1-2 Times,Male,Yes,<1 Km,Small Basket,>16,5
+151951,Banglore,1-2 Times,Male,No,<1 Km,Small Basket,1-4,5
+122916,Mumbai,1-2 Times,Male,No,<1 Km,Small Basket,5-8,5
+185687,Delhi,1-2 Times,Male,No,<1 Km,Small Basket,13-16,5
+148116,Delhi,1-2 Times,Male,No,<1 Km,Small Basket,13-16,5
+132554,Mumbai,1-2 Times,Male,No,<1 Km,Small Basket,13-16,5
+179118,Chennai,1-2 Times,Male,No,<1 Km,Small Basket,>16,5
+148560,Mumbai,>5 Times,Male,Yes,1-3 Kms,Large Basket,1-4,2
+101469,Delhi,>5 Times,Male,Yes,1-3 Kms,Large Basket,5-8,2
+156384,Jaipur,>5 Times,Male,No,1-3 Kms,Large Basket,5-8,2
+193473,Banglore,>5 Times,Male,No,1-3 Kms,Large Basket,5-8,2
+177264,Banglore,>5 Times,Male,No,1-3 Kms,Large Basket,5-8,2
+183991,Mumbai,>5 Times,Male,No,1-3 Kms,Large Basket,>16,2
+128325,Mumbai,3-5 Times,Male,Yes,1-3 Kms,Large Basket,1-4,2
+138713,Mumbai,3-5 Times,Male,Yes,1-3 Kms,Large Basket,5-8,2
+100819,Jaipur,3-5 Times,Male,Yes,1-3 Kms,Large Basket,13-16,2
+104831,Mumbai,3-5 Times,Male,Yes,1-3 Kms,Large Basket,>16,2
+145884,Chennai,3-5 Times,Male,Yes,1-3 Kms,Large Basket,>16,2
+148552,Delhi,>5 Times,Male,Yes,1-3 Kms,Mid Size Basket,5-8,2
+197256,Mumbai,>5 Times,Male,Yes,1-3 Kms,Mid Size Basket,5-8,2
+184193,Delhi,3-5 Times,Male,No,1-3 Kms,Large Basket,1-4,2
+198522,Delhi,3-5 Times,Male,No,1-3 Kms,Large Basket,1-4,2
+105800,Delhi,3-5 Times,Male,No,1-3 Kms,Large Basket,1-4,2
+161987,Delhi,3-5 Times,Male,No,1-3 Kms,Large Basket,1-4,2
+149408,Banglore,3-5 Times,Male,No,1-3 Kms,Large Basket,5-8,2
+108018,Mumbai,3-5 Times,Male,No,1-3 Kms,Large Basket,5-8,2
+153301,Jaipur,3-5 Times,Male,No,1-3 Kms,Large Basket,13-16,2
+112360,Jaipur,3-5 Times,Male,No,1-3 Kms,Large Basket,13-16,2
+184411,Mumbai,3-5 Times,Male,No,1-3 Kms,Large Basket,>16,2
+191976,Banglore,3-5 Times,Male,No,1-3 Kms,Large Basket,>16,2
+178334,Jaipur,3-5 Times,Male,No,1-3 Kms,Large Basket,>16,2
+174020,Banglore,1-2 Times,Male,Yes,1-3 Kms,Large Basket,1-4,2
+104579,Mumbai,1-2 Times,Male,Yes,1-3 Kms,Large Basket,1-4,2
+137567,Mumbai,1-2 Times,Male,Yes,1-3 Kms,Large Basket,5-8,2
+102947,Mumbai,1-2 Times,Male,Yes,1-3 Kms,Large Basket,5-8,2
+176091,Mumbai,1-2 Times,Male,Yes,1-3 Kms,Large Basket,13-16,2
+123372,Mumbai,1-2 Times,Male,Yes,1-3 Kms,Large Basket,13-16,2
+115754,Jaipur,1-2 Times,Male,Yes,1-3 Kms,Large Basket,13-16,2
+130890,Mumbai,>5 Times,Male,No,1-3 Kms,Mid Size Basket,1-4,2
+129024,Chennai,1-2 Times,Male,Yes,1-3 Kms,Large Basket,>16,2
+121230,Chennai,>5 Times,Male,No,1-3 Kms,Mid Size Basket,5-8,2
+145808,Delhi,>5 Times,Male,No,1-3 Kms,Mid Size Basket,13-16,2
+187760,Jaipur,>5 Times,Male,No,1-3 Kms,Mid Size Basket,13-16,2
+104291,Mumbai,3-5 Times,Male,Yes,1-3 Kms,Mid Size Basket,1-4,2
+112459,Banglore,3-5 Times,Male,Yes,1-3 Kms,Mid Size Basket,1-4,2
+197768,Jaipur,3-5 Times,Male,Yes,1-3 Kms,Mid Size Basket,5-8,2
+139259,Jaipur,3-5 Times,Male,Yes,1-3 Kms,Mid Size Basket,13-16,2
+173295,Delhi,3-5 Times,Male,Yes,1-3 Kms,Mid Size Basket,13-16,2
+143053,Jaipur,1-2 Times,Male,No,1-3 Kms,Large Basket,1-4,1
+100130,Banglore,1-2 Times,Male,No,1-3 Kms,Large Basket,1-4,1
+110421,Banglore,1-2 Times,Male,No,1-3 Kms,Large Basket,5-8,1
+123253,Banglore,1-2 Times,Male,No,1-3 Kms,Large Basket,5-8,1
+193256,Jaipur,1-2 Times,Male,No,1-3 Kms,Large Basket,5-8,1
+120323,Chennai,1-2 Times,Male,No,1-3 Kms,Large Basket,5-8,1
+121562,Mumbai,1-2 Times,Male,No,1-3 Kms,Large Basket,>16,2
+128947,Delhi,>5 Times,Male,Yes,1-3 Kms,Small Basket,1-4,2
+181910,Delhi,>5 Times,Male,Yes,1-3 Kms,Small Basket,5-8,2
+136713,Mumbai,>5 Times,Male,Yes,1-3 Kms,Small Basket,5-8,2
+195696,Banglore,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,5-8,2
+147458,Mumbai,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,5-8,2
+194701,Delhi,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,13-16,2
+192187,Chennai,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,13-16,2
+120159,Delhi,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,13-16,2
+126531,Mumbai,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,>16,2
+178415,Mumbai,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,>16,2
+184067,Banglore,3-5 Times,Male,No,1-3 Kms,Mid Size Basket,>16,2
+151504,Delhi,1-2 Times,Male,Yes,1-3 Kms,Mid Size Basket,1-4,2
+101487,Chennai,1-2 Times,Male,Yes,1-3 Kms,Mid Size Basket,13-16,2
+193311,Banglore,>5 Times,Male,No,1-3 Kms,Small Basket,5-8,2
+125865,Mumbai,>5 Times,Male,No,1-3 Kms,Small Basket,5-8,2
+143509,Banglore,3-5 Times,Male,Yes,1-3 Kms,Small Basket,1-4,2
+108058,Banglore,3-5 Times,Male,Yes,1-3 Kms,Small Basket,13-16,2
+185929,Mumbai,3-5 Times,Male,Yes,1-3 Kms,Small Basket,13-16,2
+177602,Delhi,3-5 Times,Male,Yes,1-3 Kms,Small Basket,>16,2
+169398,Banglore,1-2 Times,Male,No,1-3 Kms,Mid Size Basket,1-4,1
+136425,Mumbai,1-2 Times,Male,No,1-3 Kms,Mid Size Basket,1-4,1
+198307,Mumbai,1-2 Times,Male,No,1-3 Kms,Mid Size Basket,5-8,1
+132636,Banglore,1-2 Times,Male,No,1-3 Kms,Mid Size Basket,5-8,1
+118382,Banglore,1-2 Times,Male,No,1-3 Kms,Mid Size Basket,5-8,1
+181596,Chennai,1-2 Times,Male,No,1-3 Kms,Mid Size Basket,>16,2
+120702,Banglore,3-5 Times,Male,No,1-3 Kms,Small Basket,5-8,2
+164326,Chennai,3-5 Times,Male,No,1-3 Kms,Small Basket,5-8,2
+139279,Delhi,3-5 Times,Male,No,1-3 Kms,Small Basket,13-16,2
+187066,Banglore,3-5 Times,Male,No,1-3 Kms,Small Basket,>16,2
+113743,Banglore,1-2 Times,Male,Yes,1-3 Kms,Small Basket,5-8,2
+124419,Banglore,1-2 Times,Male,Yes,1-3 Kms,Small Basket,13-16,2
+154206,Banglore,1-2 Times,Male,Yes,1-3 Kms,Small Basket,13-16,2
+131953,Jaipur,1-2 Times,Male,Yes,1-3 Kms,Small Basket,>16,2
+163732,Jaipur,1-2 Times,Male,No,1-3 Kms,Small Basket,1-4,1
+138170,Mumbai,>5 Times,Female,Yes,<1 Km,Large Basket,1-4,1
+105075,Delhi,>5 Times,Female,Yes,<1 Km,Large Basket,1-4,1
+184896,Chennai,>5 Times,Female,Yes,<1 Km,Large Basket,1-4,1
+139196,Banglore,>5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+108444,Delhi,>5 Times,Female,Yes,<1 Km,Large Basket,>16,1
+143947,Banglore,>5 Times,Female,Yes,<1 Km,Large Basket,>16,1
+104831,Mumbai,>5 Times,Female,Yes,<1 Km,Large Basket,>16,1
+190324,Chennai,>5 Times,Female,No,<1 Km,Large Basket,1-4,1
+124844,Chennai,>5 Times,Female,No,<1 Km,Large Basket,1-4,1
+162913,Delhi,>5 Times,Female,No,<1 Km,Large Basket,5-8,1
+105747,Jaipur,>5 Times,Female,No,<1 Km,Large Basket,13-16,1
+139711,Delhi,>5 Times,Female,No,<1 Km,Large Basket,13-16,1
+164608,Mumbai,>5 Times,Female,No,<1 Km,Large Basket,>16,1
+182984,Jaipur,3-5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+174576,Mumbai,3-5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+115209,Delhi,3-5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+183360,Chennai,3-5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+113641,Mumbai,3-5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+143483,Banglore,3-5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+135870,Banglore,3-5 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+132816,Jaipur,3-5 Times,Female,Yes,<1 Km,Large Basket,13-16,1
+159958,Banglore,3-5 Times,Female,Yes,<1 Km,Large Basket,13-16,1
+134877,Mumbai,3-5 Times,Female,Yes,<1 Km,Large Basket,13-16,1
+180726,Delhi,3-5 Times,Female,Yes,<1 Km,Large Basket,13-16,1
+116707,Mumbai,3-5 Times,Female,Yes,<1 Km,Large Basket,>16,1
+106324,Banglore,>5 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+166279,Banglore,>5 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+197231,Banglore,>5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+117184,Chennai,>5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+196946,Banglore,>5 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+124164,Mumbai,>5 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+132672,Delhi,>5 Times,Female,Yes,<1 Km,Mid Size Basket,>16,1
+120476,Delhi,3-5 Times,Female,No,<1 Km,Large Basket,1-4,1
+142609,Banglore,3-5 Times,Female,No,<1 Km,Large Basket,1-4,1
+179928,Delhi,3-5 Times,Female,No,<1 Km,Large Basket,1-4,1
+108858,Jaipur,3-5 Times,Female,No,<1 Km,Large Basket,1-4,1
+128762,Delhi,3-5 Times,Female,No,<1 Km,Large Basket,1-4,1
+168311,Mumbai,3-5 Times,Female,No,<1 Km,Large Basket,13-16,1
+180907,Banglore,3-5 Times,Female,No,<1 Km,Large Basket,13-16,1
+164753,Jaipur,3-5 Times,Female,No,<1 Km,Large Basket,13-16,1
+117864,Delhi,3-5 Times,Female,No,<1 Km,Large Basket,>16,1
+192988,Delhi,1-2 Times,Female,Yes,<1 Km,Large Basket,1-4,1
+172463,Chennai,1-2 Times,Female,Yes,<1 Km,Large Basket,1-4,1
+192478,Mumbai,1-2 Times,Female,Yes,<1 Km,Large Basket,1-4,1
+154642,Delhi,1-2 Times,Female,Yes,<1 Km,Large Basket,1-4,1
+121909,Jaipur,1-2 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+112416,Chennai,1-2 Times,Female,Yes,<1 Km,Large Basket,5-8,1
+181658,Delhi,1-2 Times,Female,Yes,<1 Km,Large Basket,13-16,1
+128761,Mumbai,>5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+141539,Mumbai,>5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+166474,Mumbai,1-2 Times,Female,Yes,<1 Km,Large Basket,>16,1
+139117,Mumbai,1-2 Times,Female,Yes,<1 Km,Large Basket,>16,1
+135972,Banglore,1-2 Times,Female,Yes,<1 Km,Large Basket,>16,1
+126300,Chennai,>5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+167373,Banglore,>5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+107407,Banglore,>5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+164525,Mumbai,>5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+122506,Banglore,>5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+149404,Banglore,>5 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+172970,Delhi,>5 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+197644,Chennai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+110671,Banglore,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+145619,Banglore,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+168103,Mumbai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+122995,Banglore,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+146871,Mumbai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+145356,Delhi,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+157868,Mumbai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+182493,Chennai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+188608,Mumbai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+177069,Chennai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+182097,Chennai,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,>16,1
+172102,Banglore,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,>16,1
+187872,Jaipur,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,>16,1
+187538,Jaipur,3-5 Times,Female,Yes,<1 Km,Mid Size Basket,>16,1
+111071,Jaipur,1-2 Times,Female,No,<1 Km,Large Basket,1-4,1
+124147,Banglore,1-2 Times,Female,No,<1 Km,Large Basket,5-8,1
+117423,Delhi,1-2 Times,Female,No,<1 Km,Large Basket,5-8,1
+134536,Jaipur,1-2 Times,Female,No,<1 Km,Large Basket,13-16,1
+151887,Mumbai,1-2 Times,Female,No,<1 Km,Large Basket,>16,1
+109912,Delhi,>5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+173504,Banglore,>5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+144363,Banglore,>5 Times,Female,Yes,<1 Km,Small Basket,>16,1
+186934,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+126578,Jaipur,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+106401,Banglore,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+110108,Jaipur,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+160809,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+170913,Delhi,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+121188,Mumbai,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+177834,Delhi,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+175421,Banglore,3-5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+167965,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+100061,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+121157,Banglore,3-5 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+140654,Mumbai,3-5 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+191296,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+168985,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+139995,Banglore,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+181836,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+129645,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+151235,Jaipur,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+173745,Chennai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+154738,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+128101,Banglore,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+132504,Delhi,>5 Times,Female,No,<1 Km,Small Basket,1-4,1
+127078,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,1-4,1
+138855,Delhi,>5 Times,Female,No,<1 Km,Small Basket,1-4,1
+182399,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,5-8,1
+144723,Banglore,>5 Times,Female,No,<1 Km,Small Basket,5-8,1
+177516,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,13-16,1
+136446,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,13-16,1
+126108,Banglore,>5 Times,Female,No,<1 Km,Small Basket,>16,1
+136621,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,>16,1
+148427,Delhi,3-5 Times,Female,Yes,<1 Km,Small Basket,1-4,1
+140104,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,1-4,1
+149928,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+160924,Jaipur,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+101386,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+127935,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+136716,Jaipur,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+104805,Banglore,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+174205,Chennai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+126424,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+111387,Chennai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+184955,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+155776,Chennai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+174623,Delhi,3-5 Times,Female,Yes,<1 Km,Small Basket,>16,1
+176845,Chennai,>5 Times,Male,Yes,3-5 Kms,Large Basket,1-4,1
+144879,Banglore,>5 Times,Male,Yes,3-5 Kms,Large Basket,5-8,1
+103637,Chennai,>5 Times,Male,Yes,3-5 Kms,Large Basket,13-16,1
+119708,Mumbai,>5 Times,Male,Yes,3-5 Kms,Large Basket,13-16,1
+149078,Banglore,>5 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+111319,Jaipur,>5 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+167719,Mumbai,>5 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+175707,Banglore,1-2 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+156245,Delhi,1-2 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+163255,Mumbai,1-2 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+128650,Delhi,1-2 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+110930,Mumbai,1-2 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+186940,Jaipur,1-2 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+130675,Mumbai,1-2 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+110019,Delhi,1-2 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+116647,Jaipur,1-2 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+143827,Mumbai,1-2 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+107525,Banglore,1-2 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+103970,Mumbai,1-2 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+118570,Delhi,1-2 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+143678,Mumbai,3-5 Times,Female,No,<1 Km,Small Basket,1-4,1
+173827,Delhi,3-5 Times,Female,No,<1 Km,Small Basket,1-4,1
+154546,Chennai,3-5 Times,Female,No,<1 Km,Small Basket,1-4,1
+130748,Mumbai,3-5 Times,Female,No,<1 Km,Small Basket,5-8,1
+133359,Banglore,3-5 Times,Female,No,<1 Km,Small Basket,5-8,1
+191326,Banglore,3-5 Times,Female,No,<1 Km,Small Basket,5-8,1
+133949,Banglore,3-5 Times,Female,No,<1 Km,Small Basket,13-16,1
+174660,Chennai,3-5 Times,Female,No,<1 Km,Small Basket,>16,1
+167118,Banglore,3-5 Times,Female,No,<1 Km,Small Basket,>16,1
+159545,Delhi,3-5 Times,Female,No,<1 Km,Small Basket,>16,1
+188788,Mumbai,>5 Times,Male,No,3-5 Kms,Large Basket,1-4,1
+177549,Mumbai,>5 Times,Male,No,3-5 Kms,Large Basket,>16,1
+168517,Chennai,1-2 Times,Female,Yes,<1 Km,Small Basket,1-4,1
+143925,Mumbai,1-2 Times,Female,Yes,<1 Km,Small Basket,1-4,1
+131988,Chennai,1-2 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+193378,Mumbai,1-2 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+194672,Delhi,1-2 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+124869,Chennai,1-2 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+102642,Chennai,1-2 Times,Female,Yes,<1 Km,Small Basket,>16,1
+196210,Banglore,1-2 Times,Female,Yes,<1 Km,Small Basket,>16,1
+110931,Mumbai,1-2 Times,Female,Yes,<1 Km,Small Basket,>16,1
+156870,Mumbai,3-5 Times,Male,Yes,3-5 Kms,Large Basket,13-16,1
+104906,Jaipur,3-5 Times,Male,Yes,3-5 Kms,Large Basket,13-16,1
+118007,Jaipur,3-5 Times,Male,Yes,3-5 Kms,Large Basket,13-16,1
+164665,Delhi,3-5 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+192726,Jaipur,3-5 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+195612,Mumbai,>5 Times,Male,Yes,3-5 Kms,Mid Size Basket,1-4,1
+121609,Chennai,>5 Times,Male,Yes,3-5 Kms,Mid Size Basket,1-4,1
+164470,Chennai,>5 Times,Male,Yes,3-5 Kms,Mid Size Basket,5-8,1
+125729,Banglore,>5 Times,Male,Yes,3-5 Kms,Mid Size Basket,13-16,1
+157873,Jaipur,>5 Times,Male,Yes,3-5 Kms,Mid Size Basket,>16,1
+132064,Banglore,>5 Times,Male,Yes,3-5 Kms,Mid Size Basket,>16,1
+197379,Mumbai,1-2 Times,Female,No,<1 Km,Small Basket,5-8,1
+123121,Mumbai,1-2 Times,Female,No,<1 Km,Small Basket,13-16,1
+144724,Mumbai,1-2 Times,Female,No,<1 Km,Small Basket,13-16,1
+172982,Delhi,1-2 Times,Female,No,<1 Km,Small Basket,>16,1
+196221,Banglore,3-5 Times,Male,No,3-5 Kms,Large Basket,1-4,1
+155602,Chennai,3-5 Times,Male,No,3-5 Kms,Large Basket,1-4,1
+161314,Chennai,3-5 Times,Male,No,3-5 Kms,Large Basket,1-4,1
+130203,Chennai,3-5 Times,Male,No,3-5 Kms,Large Basket,13-16,1
+176875,Mumbai,3-5 Times,Male,No,3-5 Kms,Large Basket,>16,1
+161572,Banglore,1-2 Times,Male,Yes,3-5 Kms,Large Basket,1-4,1
+197958,Chennai,1-2 Times,Male,Yes,3-5 Kms,Large Basket,1-4,1
+159481,Chennai,1-2 Times,Male,Yes,3-5 Kms,Large Basket,5-8,1
+154572,Chennai,1-2 Times,Male,Yes,3-5 Kms,Large Basket,5-8,1
+182451,Banglore,1-2 Times,Male,Yes,3-5 Kms,Large Basket,5-8,1
+158858,Mumbai,1-2 Times,Male,Yes,3-5 Kms,Large Basket,13-16,1
+191052,Jaipur,1-2 Times,Male,Yes,3-5 Kms,Large Basket,13-16,1
+194428,Mumbai,1-2 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+190130,Banglore,1-2 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+114841,Jaipur,1-2 Times,Male,Yes,3-5 Kms,Large Basket,>16,1
+153009,Delhi,3-5 Times,Male,Yes,3-5 Kms,Mid Size Basket,1-4,1
+190053,Chennai,3-5 Times,Male,Yes,3-5 Kms,Mid Size Basket,1-4,1
+175602,Delhi,3-5 Times,Male,Yes,3-5 Kms,Mid Size Basket,5-8,1
+169953,Delhi,3-5 Times,Male,Yes,3-5 Kms,Mid Size Basket,13-16,1
+133880,Delhi,3-5 Times,Male,Yes,3-5 Kms,Mid Size Basket,>16,1
+141130,Delhi,3-5 Times,Male,Yes,3-5 Kms,Mid Size Basket,>16,1
+185886,Mumbai,3-5 Times,Male,Yes,3-5 Kms,Mid Size Basket,>16,1
+193594,Mumbai,1-2 Times,Male,No,3-5 Kms,Large Basket,1-4,1
+120921,Mumbai,1-2 Times,Male,No,3-5 Kms,Large Basket,1-4,1
+176378,Banglore,1-2 Times,Male,No,3-5 Kms,Large Basket,5-8,1
+173696,Banglore,1-2 Times,Male,No,3-5 Kms,Large Basket,13-16,1
+128754,Delhi,>5 Times,Male,Yes,3-5 Kms,Small Basket,5-8,1
+153298,Mumbai,>5 Times,Male,Yes,3-5 Kms,Small Basket,13-16,1
+156198,Banglore,>5 Times,Male,Yes,3-5 Kms,Small Basket,13-16,1
+101579,Delhi,>5 Times,Male,Yes,3-5 Kms,Small Basket,13-16,1
+191616,Banglore,>5 Times,Male,Yes,3-5 Kms,Small Basket,>16,1
+130626,Jaipur,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,1-4,1
+104478,Chennai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,1-4,1
+125279,Mumbai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,1-4,1
+192450,Jaipur,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,1-4,1
+145219,Jaipur,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+168620,Chennai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+169993,Mumbai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+100594,Chennai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+151851,Mumbai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,13-16,1
+190299,Mumbai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,13-16,1
+134658,Banglore,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,13-16,1
+151296,Banglore,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,>16,1
+100216,Chennai,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,>16,1
+173766,Delhi,3-5 Times,Male,No,3-5 Kms,Mid Size Basket,>16,1
+133950,Mumbai,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,1-4,1
+133466,Jaipur,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,1-4,1
+180758,Mumbai,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,1-4,1
+102931,Mumbai,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,5-8,1
+163829,Chennai,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,5-8,1
+172355,Jaipur,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,5-8,1
+148472,Delhi,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,5-8,1
+162011,Delhi,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,13-16,1
+164916,Delhi,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,13-16,1
+120465,Delhi,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,13-16,1
+184991,Mumbai,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,13-16,1
+106789,Mumbai,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,13-16,1
+139758,Banglore,>5 Times,Male,No,3-5 Kms,Small Basket,1-4,1
+140041,Delhi,>5 Times,Male,No,3-5 Kms,Small Basket,1-4,1
+189541,Banglore,>5 Times,Male,No,3-5 Kms,Small Basket,1-4,1
+185866,Banglore,1-2 Times,Male,Yes,3-5 Kms,Mid Size Basket,>16,1
+134311,Chennai,>5 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+122986,Chennai,>5 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+172696,Banglore,3-5 Times,Male,Yes,3-5 Kms,Small Basket,1-4,1
+167252,Mumbai,3-5 Times,Male,Yes,3-5 Kms,Small Basket,1-4,1
+183396,Banglore,3-5 Times,Male,Yes,3-5 Kms,Small Basket,13-16,1
+138493,Banglore,3-5 Times,Male,Yes,3-5 Kms,Small Basket,13-16,1
+129146,Chennai,3-5 Times,Male,Yes,3-5 Kms,Small Basket,13-16,1
+181938,Mumbai,3-5 Times,Male,Yes,3-5 Kms,Small Basket,13-16,1
+180844,Jaipur,3-5 Times,Male,Yes,3-5 Kms,Small Basket,>16,1
+193011,Banglore,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,1-4,1
+167388,Banglore,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+178699,Mumbai,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+187523,Banglore,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+186123,Mumbai,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,5-8,1
+168688,Mumbai,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,13-16,1
+169601,Delhi,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,13-16,1
+132069,Jaipur,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,13-16,1
+141468,Jaipur,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,>16,1
+185548,Delhi,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,>16,1
+186643,Delhi,1-2 Times,Male,No,3-5 Kms,Mid Size Basket,>16,1
+154118,Mumbai,3-5 Times,Male,No,3-5 Kms,Small Basket,1-4,1
+190047,Banglore,3-5 Times,Male,No,3-5 Kms,Small Basket,1-4,1
+184422,Jaipur,3-5 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+198394,Banglore,3-5 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+146941,Jaipur,3-5 Times,Male,No,3-5 Kms,Small Basket,13-16,1
+165912,Banglore,3-5 Times,Male,No,3-5 Kms,Small Basket,13-16,1
+134108,Delhi,3-5 Times,Male,No,3-5 Kms,Small Basket,>16,1
+194658,Delhi,1-2 Times,Male,Yes,3-5 Kms,Small Basket,1-4,1
+161008,Banglore,1-2 Times,Male,Yes,3-5 Kms,Small Basket,>16,1
+136731,Mumbai,1-2 Times,Male,No,3-5 Kms,Small Basket,1-4,1
+160705,Mumbai,1-2 Times,Male,No,3-5 Kms,Small Basket,1-4,1
+105524,Mumbai,1-2 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+128659,Jaipur,1-2 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+168128,Delhi,1-2 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+148245,Delhi,1-2 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+114042,Banglore,1-2 Times,Male,No,3-5 Kms,Small Basket,5-8,1
+188604,Mumbai,1-2 Times,Male,No,3-5 Kms,Small Basket,13-16,1
+180388,Chennai,1-2 Times,Male,No,3-5 Kms,Small Basket,>16,1
+122993,Mumbai,>5 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+172457,Chennai,>5 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+191650,Banglore,>5 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+178035,Delhi,>5 Times,Female,Yes,1-3 Kms,Large Basket,13-16,1
+142953,Mumbai,>5 Times,Female,Yes,1-3 Kms,Large Basket,>16,1
+169852,Banglore,>5 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+101178,Mumbai,>5 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+106753,Delhi,>5 Times,Female,No,1-3 Kms,Large Basket,13-16,1
+109357,Mumbai,>5 Times,Female,No,1-3 Kms,Large Basket,>16,1
+122403,Delhi,3-5 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+138709,Banglore,3-5 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+107603,Delhi,3-5 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+114037,Chennai,3-5 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+187224,Banglore,3-5 Times,Female,Yes,1-3 Kms,Large Basket,5-8,1
+165861,Delhi,3-5 Times,Female,Yes,1-3 Kms,Large Basket,13-16,1
+154913,Delhi,3-5 Times,Female,Yes,1-3 Kms,Large Basket,>16,1
+159963,Delhi,3-5 Times,Female,Yes,1-3 Kms,Large Basket,>16,1
+112488,Jaipur,>5 Times,Female,Yes,1-3 Kms,Mid Size Basket,1-4,1
+124863,Delhi,>5 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+144101,Mumbai,>5 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+150472,Banglore,3-5 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+115315,Mumbai,3-5 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+138245,Chennai,3-5 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+132667,Mumbai,3-5 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+141965,Mumbai,3-5 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+109646,Jaipur,3-5 Times,Female,No,1-3 Kms,Large Basket,5-8,1
+157629,Mumbai,3-5 Times,Female,No,1-3 Kms,Large Basket,5-8,1
+167714,Mumbai,3-5 Times,Female,No,1-3 Kms,Large Basket,13-16,1
+127998,Delhi,3-5 Times,Female,No,1-3 Kms,Large Basket,13-16,1
+137145,Delhi,3-5 Times,Female,No,1-3 Kms,Large Basket,>16,1
+179780,Banglore,3-5 Times,Female,No,1-3 Kms,Large Basket,>16,1
+107058,Delhi,1-2 Times,Female,Yes,1-3 Kms,Large Basket,1-4,1
+155785,Mumbai,1-2 Times,Female,Yes,1-3 Kms,Large Basket,5-8,1
+133613,Mumbai,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,1-4,1
+189175,Delhi,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,1-4,1
+174186,Mumbai,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,1-4,1
+153381,Mumbai,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+189045,Mumbai,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+108995,Banglore,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,13-16,1
+136270,Delhi,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,>16,1
+128971,Delhi,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,>16,1
+159899,Mumbai,3-5 Times,Female,Yes,1-3 Kms,Mid Size Basket,>16,1
+110327,Mumbai,1-2 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+128106,Banglore,1-2 Times,Female,No,1-3 Kms,Large Basket,1-4,1
+188208,Mumbai,1-2 Times,Female,No,1-3 Kms,Large Basket,5-8,1
+141280,Delhi,1-2 Times,Female,No,1-3 Kms,Large Basket,5-8,1
+152906,Mumbai,1-2 Times,Female,No,1-3 Kms,Large Basket,>16,1
+109984,Mumbai,1-2 Times,Female,No,1-3 Kms,Large Basket,>16,1
+127452,Jaipur,1-2 Times,Female,No,1-3 Kms,Large Basket,>16,1
+185958,Banglore,>5 Times,Female,Yes,1-3 Kms,Small Basket,1-4,1
+148324,Mumbai,>5 Times,Female,Yes,1-3 Kms,Small Basket,13-16,1
+185290,Chennai,3-5 Times,Female,No,1-3 Kms,Mid Size Basket,>16,1
+141036,Delhi,3-5 Times,Female,No,1-3 Kms,Mid Size Basket,>16,1
+197525,Banglore,1-2 Times,Female,Yes,1-3 Kms,Mid Size Basket,1-4,1
+146215,Mumbai,1-2 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+112229,Jaipur,1-2 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+149622,Mumbai,1-2 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+173002,Banglore,1-2 Times,Female,Yes,1-3 Kms,Mid Size Basket,5-8,1
+138563,Jaipur,1-2 Times,Female,Yes,1-3 Kms,Mid Size Basket,13-16,1
+174434,Delhi,>5 Times,Female,No,1-3 Kms,Small Basket,13-16,1
+180190,Mumbai,3-5 Times,Female,Yes,1-3 Kms,Small Basket,1-4,1
+117941,Banglore,3-5 Times,Female,Yes,1-3 Kms,Small Basket,13-16,1
+167851,Delhi,3-5 Times,Female,Yes,1-3 Kms,Small Basket,>16,1
+153271,Mumbai,>5 Times,Male,Yes,>5 Kms,Large Basket,5-8,1
+102183,Chennai,>5 Times,Male,Yes,>5 Kms,Large Basket,>16,1
+141089,Delhi,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,1-4,1
+130019,Banglore,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,5-8,1
+191470,Jaipur,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,5-8,1
+167219,Jaipur,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,13-16,1
+100229,Mumbai,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,13-16,1
+168440,Mumbai,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,13-16,1
+154446,Delhi,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,13-16,1
+110719,Banglore,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,>16,1
+148475,Mumbai,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,>16,1
+150260,Delhi,1-2 Times,Female,No,1-3 Kms,Mid Size Basket,>16,1
+154881,Delhi,3-5 Times,Female,No,1-3 Kms,Small Basket,1-4,1
+129711,Banglore,3-5 Times,Female,No,1-3 Kms,Small Basket,1-4,1
+140755,Banglore,3-5 Times,Female,No,1-3 Kms,Small Basket,1-4,1
+115055,Delhi,3-5 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+143037,Banglore,3-5 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+126556,Banglore,3-5 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+112167,Delhi,3-5 Times,Female,No,1-3 Kms,Small Basket,13-16,1
+168535,Delhi,3-5 Times,Female,No,1-3 Kms,Small Basket,>16,1
+180906,Delhi,>5 Times,Male,No,>5 Kms,Large Basket,5-8,1
+102693,Jaipur,>5 Times,Male,No,>5 Kms,Large Basket,13-16,1
+186523,Chennai,1-2 Times,Female,Yes,1-3 Kms,Small Basket,1-4,1
+137700,Mumbai,1-2 Times,Female,Yes,1-3 Kms,Small Basket,5-8,1
+191922,Jaipur,1-2 Times,Female,Yes,1-3 Kms,Small Basket,5-8,1
+109221,Delhi,1-2 Times,Female,Yes,1-3 Kms,Small Basket,13-16,1
+104604,Mumbai,3-5 Times,Male,Yes,>5 Kms,Large Basket,1-4,1
+192798,Delhi,3-5 Times,Male,Yes,>5 Kms,Large Basket,5-8,1
+103940,Mumbai,3-5 Times,Male,Yes,>5 Kms,Large Basket,13-16,1
+148039,Banglore,3-5 Times,Male,Yes,>5 Kms,Large Basket,13-16,1
+153691,Banglore,3-5 Times,Male,Yes,>5 Kms,Large Basket,13-16,1
+177856,Mumbai,3-5 Times,Male,Yes,>5 Kms,Large Basket,13-16,1
+193310,Banglore,3-5 Times,Male,Yes,>5 Kms,Large Basket,13-16,1
+133982,Delhi,3-5 Times,Male,Yes,>5 Kms,Large Basket,>16,1
+104671,Jaipur,3-5 Times,Male,Yes,>5 Kms,Large Basket,>16,1
+114332,Mumbai,3-5 Times,Male,Yes,>5 Kms,Large Basket,>16,1
+113122,Mumbai,>5 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+128270,Banglore,>5 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+158220,Mumbai,1-2 Times,Female,No,1-3 Kms,Small Basket,1-4,1
+137261,Delhi,1-2 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+175295,Chennai,1-2 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+187723,Chennai,1-2 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+165827,Mumbai,1-2 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+142484,Mumbai,1-2 Times,Female,No,1-3 Kms,Small Basket,5-8,1
+157105,Mumbai,1-2 Times,Female,No,1-3 Kms,Small Basket,13-16,1
+196866,Banglore,1-2 Times,Female,No,1-3 Kms,Small Basket,13-16,1
+160959,Delhi,1-2 Times,Female,No,1-3 Kms,Small Basket,13-16,1
+144455,Chennai,3-5 Times,Male,No,>5 Kms,Large Basket,1-4,1
+124709,Mumbai,3-5 Times,Male,No,>5 Kms,Large Basket,1-4,1
+198774,Delhi,3-5 Times,Male,No,>5 Kms,Large Basket,5-8,1
+146777,Chennai,3-5 Times,Male,No,>5 Kms,Large Basket,5-8,1
+100315,Delhi,3-5 Times,Male,No,>5 Kms,Large Basket,5-8,1
+186979,Mumbai,3-5 Times,Male,No,>5 Kms,Large Basket,5-8,1
+175278,Delhi,3-5 Times,Male,No,>5 Kms,Large Basket,13-16,1
+164797,Banglore,3-5 Times,Male,No,>5 Kms,Large Basket,13-16,1
+138613,Chennai,3-5 Times,Male,No,>5 Kms,Large Basket,>16,1
+150755,Delhi,3-5 Times,Male,No,>5 Kms,Large Basket,>16,1
+144489,Delhi,3-5 Times,Male,No,>5 Kms,Large Basket,>16,1
+139283,Delhi,1-2 Times,Male,Yes,>5 Kms,Large Basket,1-4,1
+195028,Mumbai,1-2 Times,Male,Yes,>5 Kms,Large Basket,5-8,1
+183021,Mumbai,1-2 Times,Male,Yes,>5 Kms,Large Basket,13-16,1
+152940,Mumbai,1-2 Times,Male,Yes,>5 Kms,Large Basket,13-16,1
+183740,Banglore,>5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+115273,Mumbai,>5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+123400,Delhi,1-2 Times,Male,Yes,>5 Kms,Large Basket,>16,1
+116105,Mumbai,1-2 Times,Male,Yes,>5 Kms,Large Basket,>16,1
+182897,Delhi,1-2 Times,Male,Yes,>5 Kms,Large Basket,>16,1
+174615,Mumbai,>5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+170232,Delhi,>5 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+170883,Banglore,>5 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+193802,Mumbai,>5 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+108966,Jaipur,>5 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+163465,Delhi,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+114606,Delhi,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+185068,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+180801,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,5-8,1
+184730,Jaipur,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,5-8,1
+169465,Jaipur,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,5-8,1
+106700,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+172240,Mumbai,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+112982,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+165884,Delhi,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+141203,Chennai,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+123892,Delhi,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+116402,Jaipur,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+132743,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+180808,Delhi,1-2 Times,Male,No,>5 Kms,Large Basket,1-4,1
+169098,Delhi,1-2 Times,Male,No,>5 Kms,Large Basket,1-4,1
+171801,Mumbai,1-2 Times,Male,No,>5 Kms,Large Basket,13-16,1
+129763,Jaipur,>5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+173669,Mumbai,>5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+100684,Mumbai,>5 Times,Male,Yes,>5 Kms,Small Basket,5-8,1
+131386,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+183205,Delhi,3-5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+105483,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+169951,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+168703,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+169871,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+145988,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+160347,Jaipur,3-5 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+140215,Chennai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+165397,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+157793,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+112335,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+188011,Delhi,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+133384,Delhi,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+126620,Banglore,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+192884,Delhi,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+198676,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+123387,Chennai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+175933,Chennai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+136329,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+159151,Banglore,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+140311,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+150880,Delhi,>5 Times,Male,No,>5 Kms,Small Basket,5-8,1
+162560,Delhi,>5 Times,Male,No,>5 Kms,Small Basket,5-8,1
+172879,Mumbai,3-5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+126872,Mumbai,3-5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+168574,Banglore,3-5 Times,Male,Yes,>5 Kms,Small Basket,5-8,1
+141978,Chennai,3-5 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+167272,Jaipur,3-5 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+151399,Delhi,3-5 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+116695,Delhi,1-2 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+149259,Delhi,1-2 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+125915,Banglore,1-2 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+118686,Banglore,1-2 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+183847,Banglore,1-2 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+153583,Mumbai,1-2 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+159892,Mumbai,1-2 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+178099,Delhi,1-2 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+125439,Delhi,1-2 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+197710,Mumbai,1-2 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+196454,Chennai,1-2 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+137978,Mumbai,3-5 Times,Male,No,>5 Kms,Small Basket,1-4,1
+142721,Banglore,3-5 Times,Male,No,>5 Kms,Small Basket,1-4,1
+196192,Chennai,3-5 Times,Male,No,>5 Kms,Small Basket,1-4,1
+158172,Jaipur,3-5 Times,Male,No,>5 Kms,Small Basket,1-4,1
+177358,Delhi,3-5 Times,Male,No,>5 Kms,Small Basket,5-8,1
+158606,Delhi,3-5 Times,Male,No,>5 Kms,Small Basket,13-16,1
+160942,Banglore,3-5 Times,Male,No,>5 Kms,Small Basket,13-16,1
+188617,Delhi,3-5 Times,Male,No,>5 Kms,Small Basket,13-16,1
+128759,Mumbai,3-5 Times,Male,No,>5 Kms,Small Basket,>16,1
+156428,Chennai,3-5 Times,Male,No,>5 Kms,Small Basket,>16,1
+174579,Jaipur,3-5 Times,Male,No,>5 Kms,Small Basket,>16,1
+159529,Chennai,3-5 Times,Male,No,>5 Kms,Small Basket,>16,1
+194560,Mumbai,1-2 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+186235,Banglore,1-2 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+151684,Banglore,1-2 Times,Male,Yes,>5 Kms,Small Basket,5-8,1
+106382,Jaipur,1-2 Times,Male,Yes,>5 Kms,Small Basket,5-8,1
+173712,Delhi,1-2 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+134066,Delhi,1-2 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+101754,Mumbai,1-2 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+181155,Jaipur,1-2 Times,Male,Yes,>5 Kms,Small Basket,>16,1
+179217,Mumbai,1-2 Times,Male,No,>5 Kms,Small Basket,5-8,1
+128072,Delhi,1-2 Times,Male,No,>5 Kms,Small Basket,5-8,1
+112067,Mumbai,1-2 Times,Male,No,>5 Kms,Small Basket,5-8,1
+168180,Delhi,1-2 Times,Male,No,>5 Kms,Small Basket,>16,1
+117080,Banglore,1-2 Times,Male,No,>5 Kms,Small Basket,>16,1
+122613,Banglore,>5 Times,Female,Yes,3-5 Kms,Large Basket,1-4,1
+152592,Delhi,>5 Times,Female,Yes,3-5 Kms,Large Basket,13-16,1
+184857,Delhi,>5 Times,Female,No,3-5 Kms,Large Basket,5-8,1
+111878,Delhi,>5 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+166452,Chennai,>5 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+170344,Mumbai,>5 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+184238,Mumbai,>5 Times,Female,No,3-5 Kms,Large Basket,>16,1
+177455,Delhi,3-5 Times,Female,Yes,3-5 Kms,Large Basket,1-4,1
+189471,Delhi,3-5 Times,Female,Yes,3-5 Kms,Large Basket,1-4,1
+180981,Banglore,3-5 Times,Female,Yes,3-5 Kms,Large Basket,1-4,1
+191859,Banglore,3-5 Times,Female,Yes,3-5 Kms,Large Basket,5-8,1
+191228,Banglore,3-5 Times,Female,Yes,3-5 Kms,Large Basket,5-8,1
+164942,Delhi,3-5 Times,Female,Yes,3-5 Kms,Large Basket,13-16,1
+154447,Mumbai,3-5 Times,Female,Yes,3-5 Kms,Large Basket,13-16,1
+155948,Banglore,3-5 Times,Female,Yes,3-5 Kms,Large Basket,13-16,1
+119676,Delhi,3-5 Times,Female,Yes,3-5 Kms,Large Basket,13-16,1
+198283,Delhi,3-5 Times,Female,Yes,3-5 Kms,Large Basket,>16,1
+163072,Mumbai,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,1-4,1
+194622,Jaipur,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,1-4,1
+146628,Mumbai,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,5-8,1
+191746,Banglore,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,5-8,1
+179265,Delhi,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+162786,Mumbai,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+173056,Banglore,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+197918,Mumbai,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,>16,1
+164020,Banglore,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,>16,1
+179681,Mumbai,>5 Times,Female,Yes,3-5 Kms,Mid Size Basket,>16,1
+115979,Banglore,3-5 Times,Female,No,3-5 Kms,Large Basket,1-4,1
+118833,Mumbai,3-5 Times,Female,No,3-5 Kms,Large Basket,5-8,1
+119724,Delhi,3-5 Times,Female,No,3-5 Kms,Large Basket,5-8,1
+118792,Mumbai,3-5 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+117995,Chennai,3-5 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+149511,Mumbai,3-5 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+153894,Mumbai,3-5 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+147143,Jaipur,3-5 Times,Female,No,3-5 Kms,Large Basket,>16,1
+107076,Delhi,3-5 Times,Female,No,3-5 Kms,Large Basket,>16,1
+165720,Delhi,3-5 Times,Female,No,3-5 Kms,Large Basket,>16,1
+109729,Jaipur,1-2 Times,Female,Yes,3-5 Kms,Large Basket,1-4,1
+189854,Delhi,1-2 Times,Female,Yes,3-5 Kms,Large Basket,5-8,1
+150663,Chennai,1-2 Times,Female,Yes,3-5 Kms,Large Basket,>16,1
+124695,Delhi,1-2 Times,Female,Yes,3-5 Kms,Large Basket,>16,1
+131756,Jaipur,1-2 Times,Female,Yes,3-5 Kms,Large Basket,>16,1
+187036,Chennai,3-5 Times,Female,Yes,3-5 Kms,Mid Size Basket,1-4,1
+180270,Mumbai,3-5 Times,Female,Yes,3-5 Kms,Mid Size Basket,1-4,1
+131792,Delhi,3-5 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+168606,Mumbai,3-5 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+108758,Mumbai,3-5 Times,Female,Yes,3-5 Kms,Mid Size Basket,>16,1
+145338,Delhi,3-5 Times,Female,Yes,3-5 Kms,Mid Size Basket,>16,1
+153312,Chennai,1-2 Times,Female,No,3-5 Kms,Large Basket,5-8,1
+141032,Mumbai,1-2 Times,Female,No,3-5 Kms,Large Basket,5-8,1
+181940,Jaipur,1-2 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+129908,Delhi,1-2 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+184525,Mumbai,1-2 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+124966,Mumbai,1-2 Times,Female,No,3-5 Kms,Large Basket,13-16,1
+100947,Jaipur,1-2 Times,Female,No,3-5 Kms,Large Basket,>16,1
+168972,Delhi,1-2 Times,Female,No,3-5 Kms,Large Basket,>16,1
+150796,Delhi,>5 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+165406,Jaipur,>5 Times,Female,Yes,3-5 Kms,Small Basket,>16,1
+188257,Delhi,>5 Times,Female,Yes,3-5 Kms,Small Basket,>16,1
+108875,Mumbai,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+144837,Chennai,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+175126,Mumbai,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+169166,Banglore,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+106014,Mumbai,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+141770,Banglore,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,5-8,1
+189657,Delhi,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,5-8,1
+141942,Delhi,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,13-16,1
+163565,Banglore,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,13-16,1
+125055,Mumbai,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,13-16,1
+179136,Chennai,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,13-16,1
+187377,Jaipur,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,13-16,1
+124889,Jaipur,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,>16,1
+151252,Mumbai,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,>16,1
+152891,Jaipur,3-5 Times,Female,No,3-5 Kms,Mid Size Basket,>16,1
+101533,Mumbai,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,1-4,1
+131957,Chennai,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,5-8,1
+177615,Chennai,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,5-8,1
+173535,Mumbai,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+100566,Jaipur,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+101818,Chennai,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+192632,Chennai,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+143319,Delhi,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+145008,Banglore,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+195768,Delhi,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,13-16,1
+155082,Banglore,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,>16,1
+103426,Delhi,1-2 Times,Female,Yes,3-5 Kms,Mid Size Basket,>16,1
+132575,Banglore,>5 Times,Female,No,3-5 Kms,Small Basket,5-8,1
+175599,Banglore,>5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+107983,Jaipur,>5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+137597,Jaipur,>5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+185730,Mumbai,>5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+193578,Delhi,3-5 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+135866,Mumbai,3-5 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+163051,Jaipur,3-5 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+108045,Mumbai,3-5 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+185059,Delhi,3-5 Times,Female,Yes,3-5 Kms,Small Basket,>16,1
+136444,Chennai,3-5 Times,Female,Yes,3-5 Kms,Small Basket,>16,1
+117907,Mumbai,3-5 Times,Female,Yes,3-5 Kms,Small Basket,>16,1
+120512,Chennai,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+123939,Mumbai,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+141862,Delhi,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+108853,Chennai,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+153286,Chennai,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,1-4,1
+169339,Jaipur,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,5-8,1
+132661,Chennai,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,5-8,1
+160646,Delhi,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,13-16,1
+157394,Banglore,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,13-16,1
+111229,Delhi,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,>16,1
+131826,Mumbai,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,>16,1
+181914,Mumbai,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,>16,1
+142752,Jaipur,1-2 Times,Female,No,3-5 Kms,Mid Size Basket,>16,1
+143874,Delhi,3-5 Times,Female,No,3-5 Kms,Small Basket,1-4,1
+123188,Mumbai,3-5 Times,Female,No,3-5 Kms,Small Basket,5-8,1
+177179,Chennai,3-5 Times,Female,No,3-5 Kms,Small Basket,5-8,1
+131543,Mumbai,3-5 Times,Female,No,3-5 Kms,Small Basket,5-8,1
+185752,Delhi,3-5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+188745,Banglore,3-5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+129266,Mumbai,3-5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+133258,Banglore,3-5 Times,Female,No,3-5 Kms,Small Basket,13-16,1
+130793,Chennai,3-5 Times,Female,No,3-5 Kms,Small Basket,>16,1
+126518,Chennai,1-2 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+118681,Jaipur,1-2 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+138965,Chennai,1-2 Times,Female,Yes,3-5 Kms,Small Basket,1-4,1
+187566,Mumbai,1-2 Times,Female,No,3-5 Kms,Small Basket,1-4,1
+133909,Banglore,1-2 Times,Female,No,3-5 Kms,Small Basket,1-4,1
+121177,Jaipur,1-2 Times,Female,No,3-5 Kms,Small Basket,1-4,1
+186771,Delhi,1-2 Times,Female,No,3-5 Kms,Small Basket,>16,1
+139143,Mumbai,1-2 Times,Female,No,3-5 Kms,Small Basket,>16,1
+136654,Mumbai,>5 Times,Female,Yes,>5 Kms,Large Basket,1-4,1
+177988,Delhi,>5 Times,Female,Yes,>5 Kms,Large Basket,1-4,1
+191463,Chennai,>5 Times,Female,Yes,>5 Kms,Large Basket,1-4,1
+118701,Mumbai,>5 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+119362,Jaipur,>5 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+159308,Mumbai,>5 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+145230,Delhi,>5 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+115594,Chennai,>5 Times,Female,Yes,>5 Kms,Large Basket,13-16,1
+194641,Mumbai,>5 Times,Female,Yes,>5 Kms,Large Basket,13-16,1
+109706,Jaipur,>5 Times,Female,No,>5 Kms,Large Basket,1-4,1
+180137,Delhi,>5 Times,Female,No,>5 Kms,Large Basket,1-4,1
+147026,Mumbai,>5 Times,Female,No,>5 Kms,Large Basket,1-4,1
+100112,Jaipur,>5 Times,Female,No,>5 Kms,Large Basket,5-8,1
+128136,Banglore,>5 Times,Female,No,>5 Kms,Large Basket,13-16,1
+168149,Jaipur,>5 Times,Female,No,>5 Kms,Large Basket,>16,1
+140634,Delhi,>5 Times,Female,No,>5 Kms,Large Basket,>16,1
+101538,Delhi,3-5 Times,Female,Yes,>5 Kms,Large Basket,1-4,1
+173482,Mumbai,3-5 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+171752,Banglore,3-5 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+136458,Mumbai,3-5 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+140104,Mumbai,3-5 Times,Female,Yes,>5 Kms,Large Basket,13-16,1
+133160,Mumbai,3-5 Times,Female,Yes,>5 Kms,Large Basket,>16,1
+170251,Jaipur,3-5 Times,Female,Yes,>5 Kms,Large Basket,>16,1
+158597,Jaipur,>5 Times,Female,Yes,>5 Kms,Mid Size Basket,1-4,1
+150474,Banglore,>5 Times,Female,Yes,>5 Kms,Mid Size Basket,5-8,1
+124544,Mumbai,>5 Times,Female,Yes,>5 Kms,Mid Size Basket,13-16,1
+127227,Banglore,>5 Times,Female,Yes,>5 Kms,Mid Size Basket,13-16,1
+104930,Chennai,>5 Times,Female,Yes,>5 Kms,Mid Size Basket,13-16,1
+103010,Banglore,>5 Times,Female,Yes,>5 Kms,Mid Size Basket,>16,1
+162251,Delhi,3-5 Times,Female,No,>5 Kms,Large Basket,1-4,1
+167065,Banglore,3-5 Times,Female,No,>5 Kms,Large Basket,1-4,1
+109146,Delhi,3-5 Times,Female,No,>5 Kms,Large Basket,5-8,1
+112970,Banglore,3-5 Times,Female,No,>5 Kms,Large Basket,13-16,1
+126279,Jaipur,3-5 Times,Female,No,>5 Kms,Large Basket,13-16,1
+169306,Delhi,3-5 Times,Female,No,>5 Kms,Large Basket,13-16,1
+119791,Mumbai,3-5 Times,Female,No,>5 Kms,Large Basket,>16,1
+195420,Banglore,3-5 Times,Female,No,>5 Kms,Large Basket,>16,1
+147414,Banglore,3-5 Times,Female,No,>5 Kms,Large Basket,>16,1
+152859,Mumbai,1-2 Times,Female,Yes,>5 Kms,Large Basket,1-4,1
+108785,Mumbai,1-2 Times,Female,Yes,>5 Kms,Large Basket,1-4,1
+142235,Delhi,1-2 Times,Female,Yes,>5 Kms,Large Basket,5-8,1
+172459,Delhi,1-2 Times,Female,Yes,>5 Kms,Large Basket,13-16,1
+110387,Jaipur,1-2 Times,Female,Yes,>5 Kms,Large Basket,13-16,1
+128425,Mumbai,1-2 Times,Female,Yes,>5 Kms,Large Basket,13-16,1
+103506,Mumbai,>5 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+142637,Chennai,1-2 Times,Female,Yes,>5 Kms,Large Basket,>16,1
+136006,Jaipur,1-2 Times,Female,Yes,>5 Kms,Large Basket,>16,1
+153021,Banglore,1-2 Times,Female,Yes,>5 Kms,Large Basket,>16,1
+151780,Mumbai,>5 Times,Female,No,>5 Kms,Mid Size Basket,5-8,1
+109541,Delhi,>5 Times,Female,No,>5 Kms,Mid Size Basket,13-16,1
+162413,Jaipur,>5 Times,Female,No,>5 Kms,Mid Size Basket,>16,1
+136013,Mumbai,>5 Times,Female,No,>5 Kms,Mid Size Basket,>16,1
+140819,Mumbai,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,1-4,1
+101486,Delhi,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,1-4,1
+116094,Banglore,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,1-4,1
+142161,Delhi,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,5-8,1
+176668,Mumbai,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,5-8,1
+196061,Jaipur,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,13-16,1
+169577,Mumbai,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,>16,1
+196920,Mumbai,3-5 Times,Female,Yes,>5 Kms,Mid Size Basket,>16,1
+101373,Delhi,1-2 Times,Female,No,>5 Kms,Large Basket,1-4,1
+148720,Delhi,1-2 Times,Female,No,>5 Kms,Large Basket,5-8,1
+139872,Jaipur,1-2 Times,Female,No,>5 Kms,Large Basket,13-16,1
+106332,Banglore,1-2 Times,Female,No,>5 Kms,Large Basket,13-16,1
+160055,Mumbai,1-2 Times,Female,No,>5 Kms,Large Basket,13-16,1
+186128,Delhi,1-2 Times,Female,No,>5 Kms,Large Basket,>16,1
+122718,Jaipur,>5 Times,Female,Yes,>5 Kms,Small Basket,1-4,1
+186008,Chennai,>5 Times,Female,Yes,>5 Kms,Small Basket,1-4,1
+154091,Chennai,>5 Times,Female,Yes,>5 Kms,Small Basket,5-8,1
+150504,Chennai,>5 Times,Female,Yes,>5 Kms,Small Basket,5-8,1
+141685,Chennai,>5 Times,Female,Yes,>5 Kms,Small Basket,13-16,1
+101569,Delhi,>5 Times,Female,Yes,>5 Kms,Small Basket,13-16,1
+117869,Delhi,3-5 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+148396,Jaipur,3-5 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+171869,Chennai,3-5 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+144494,Jaipur,3-5 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+159845,Banglore,3-5 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+187442,Mumbai,3-5 Times,Female,No,>5 Kms,Mid Size Basket,13-16,1
+120815,Chennai,3-5 Times,Female,No,>5 Kms,Mid Size Basket,13-16,1
+148918,Chennai,3-5 Times,Female,No,>5 Kms,Mid Size Basket,13-16,1
+131584,Delhi,3-5 Times,Female,No,>5 Kms,Mid Size Basket,13-16,1
+176371,Mumbai,3-5 Times,Female,No,>5 Kms,Mid Size Basket,>16,1
+154607,Banglore,3-5 Times,Female,No,>5 Kms,Mid Size Basket,>16,1
+156749,Banglore,3-5 Times,Female,No,>5 Kms,Mid Size Basket,>16,1
+102746,Chennai,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,1-4,1
+116009,Banglore,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,1-4,1
+149714,Mumbai,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,5-8,1
+184680,Jaipur,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,5-8,1
+192699,Delhi,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,13-16,1
+155022,Banglore,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,13-16,1
+189912,Mumbai,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,>16,1
+125275,Mumbai,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,>16,1
+195244,Chennai,1-2 Times,Female,Yes,>5 Kms,Mid Size Basket,>16,1
+140126,Banglore,>5 Times,Female,No,>5 Kms,Small Basket,5-8,1
+140430,Chennai,3-5 Times,Female,Yes,>5 Kms,Small Basket,5-8,1
+146584,Jaipur,3-5 Times,Female,Yes,>5 Kms,Small Basket,13-16,1
+117541,Delhi,3-5 Times,Female,Yes,>5 Kms,Small Basket,>16,1
+135577,Banglore,1-2 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+119126,Jaipur,1-2 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+196763,Mumbai,1-2 Times,Female,No,>5 Kms,Mid Size Basket,1-4,1
+159154,Delhi,1-2 Times,Female,No,>5 Kms,Mid Size Basket,5-8,1
+169962,Mumbai,1-2 Times,Female,No,>5 Kms,Mid Size Basket,5-8,1
+140102,Delhi,1-2 Times,Female,No,>5 Kms,Mid Size Basket,13-16,1
+102349,Mumbai,1-2 Times,Female,No,>5 Kms,Mid Size Basket,13-16,1
+110624,Mumbai,1-2 Times,Female,No,>5 Kms,Mid Size Basket,>16,1
+118410,Banglore,3-5 Times,Female,No,>5 Kms,Small Basket,1-4,1
+182794,Banglore,3-5 Times,Female,No,>5 Kms,Small Basket,1-4,1
+108612,Mumbai,3-5 Times,Female,No,>5 Kms,Small Basket,5-8,1
+166333,Mumbai,3-5 Times,Female,No,>5 Kms,Small Basket,13-16,1
+163349,Delhi,3-5 Times,Female,No,>5 Kms,Small Basket,>16,1
+122681,Banglore,1-2 Times,Female,Yes,>5 Kms,Small Basket,1-4,1
+101147,Mumbai,1-2 Times,Female,Yes,>5 Kms,Small Basket,1-4,1
+153699,Delhi,1-2 Times,Female,Yes,>5 Kms,Small Basket,1-4,1
+172686,Mumbai,1-2 Times,Female,Yes,>5 Kms,Small Basket,1-4,1
+190120,Mumbai,1-2 Times,Female,Yes,>5 Kms,Small Basket,1-4,1
+138832,Jaipur,1-2 Times,Female,Yes,>5 Kms,Small Basket,5-8,1
+190672,Delhi,1-2 Times,Female,Yes,>5 Kms,Small Basket,5-8,1
+153555,Mumbai,1-2 Times,Female,Yes,>5 Kms,Small Basket,5-8,1
+117757,Delhi,1-2 Times,Female,Yes,>5 Kms,Small Basket,13-16,1
+142891,Delhi,1-2 Times,Female,Yes,>5 Kms,Small Basket,>16,1
+159961,Banglore,1-2 Times,Female,Yes,>5 Kms,Small Basket,>16,1
+161860,Jaipur,1-2 Times,Female,No,>5 Kms,Small Basket,13-16,1
+165052,Chennai,1-2 Times,Female,No,>5 Kms,Small Basket,13-16,1
+102717,Banglore,1-2 Times,Female,No,>5 Kms,Small Basket,13-16,1
+182070,Mumbai,1-2 Times,Female,No,>5 Kms,Small Basket,>16,1
+179081,Jaipur,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,5-8,1
+197202,Jaipur,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,5-8,1
+159339,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+140899,Mumbai,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+125552,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+133734,Delhi,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+124505,Chennai,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+112433,Delhi,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+109529,Jaipur,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+173736,Banglore,3-5 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+189009,Delhi,1-2 Times,Male,No,>5 Kms,Large Basket,1-4,1
+137476,Delhi,1-2 Times,Male,No,>5 Kms,Large Basket,1-4,1
+139612,Mumbai,1-2 Times,Male,No,>5 Kms,Large Basket,13-16,1
+146702,Jaipur,>5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+137924,Mumbai,>5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+105570,Mumbai,>5 Times,Male,Yes,>5 Kms,Small Basket,5-8,1
+115439,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+112407,Delhi,3-5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+170818,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,1-4,1
+194560,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+165448,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+128751,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+135753,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,5-8,1
+126334,Jaipur,3-5 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+134558,Chennai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,13-16,1
+126149,Mumbai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+185013,Chennai,3-5 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+101771,Banglore,3-5 Times,Male,No,>5 Kms,Mid Size Basket,>16,1
+117596,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+161927,Delhi,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+176063,Delhi,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,1-4,1
+145202,Banglore,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+128626,Delhi,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+175101,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,13-16,1
+103845,Chennai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+156260,Chennai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+137353,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+101231,Banglore,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+163187,Banglore,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+150989,Mumbai,1-2 Times,Male,Yes,>5 Kms,Mid Size Basket,>16,1
+111956,Delhi,>5 Times,Male,No,>5 Kms,Small Basket,5-8,1
+155915,Delhi,>5 Times,Male,No,>5 Kms,Small Basket,5-8,1
+105337,Mumbai,3-5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+184083,Mumbai,3-5 Times,Male,Yes,>5 Kms,Small Basket,1-4,1
+112195,Banglore,3-5 Times,Male,Yes,>5 Kms,Small Basket,5-8,1
+124517,Chennai,3-5 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+159031,Jaipur,3-5 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+150970,Delhi,3-5 Times,Male,Yes,>5 Kms,Small Basket,13-16,1
+112384,Banglore,1-2 Times,Female,No,<1 Km,Large Basket,5-8,1
+145671,Delhi,1-2 Times,Female,No,<1 Km,Large Basket,5-8,1
+160244,Jaipur,1-2 Times,Female,No,<1 Km,Large Basket,13-16,1
+180640,Mumbai,1-2 Times,Female,No,<1 Km,Large Basket,>16,1
+112880,Delhi,>5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+105687,Banglore,>5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+188633,Banglore,>5 Times,Female,Yes,<1 Km,Small Basket,>16,1
+193935,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+110974,Jaipur,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+129730,Banglore,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+139267,Jaipur,3-5 Times,Female,No,<1 Km,Mid Size Basket,1-4,1
+123728,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+164235,Delhi,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+102914,Mumbai,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+140606,Delhi,3-5 Times,Female,No,<1 Km,Mid Size Basket,5-8,1
+130300,Banglore,3-5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+115622,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+157631,Chennai,3-5 Times,Female,No,<1 Km,Mid Size Basket,13-16,1
+111068,Banglore,3-5 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+131417,Mumbai,3-5 Times,Female,No,<1 Km,Mid Size Basket,>16,1
+143610,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+188466,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,1-4,1
+193853,Banglore,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+160059,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+192459,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+168804,Jaipur,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,5-8,1
+187006,Chennai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+127111,Mumbai,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+114527,Banglore,1-2 Times,Female,Yes,<1 Km,Mid Size Basket,13-16,1
+123498,Delhi,>5 Times,Female,No,<1 Km,Small Basket,1-4,1
+139448,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,1-4,1
+101535,Delhi,>5 Times,Female,No,<1 Km,Small Basket,1-4,1
+168159,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,5-8,1
+100907,Banglore,>5 Times,Female,No,<1 Km,Small Basket,5-8,1
+147043,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,13-16,1
+111516,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,13-16,1
+106985,Banglore,>5 Times,Female,No,<1 Km,Small Basket,>16,1
+107104,Mumbai,>5 Times,Female,No,<1 Km,Small Basket,>16,1
+114559,Delhi,3-5 Times,Female,Yes,<1 Km,Small Basket,1-4,1
+176529,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,1-4,1
+198074,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+189642,Jaipur,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+196253,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+198482,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+109780,Jaipur,3-5 Times,Female,Yes,<1 Km,Small Basket,5-8,1
+187785,Banglore,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+178294,Chennai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+182647,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+146612,Chennai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+175792,Mumbai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+194976,Chennai,3-5 Times,Female,Yes,<1 Km,Small Basket,13-16,1
+124000,Delhi,3-5 Times,Female,Yes,<1 Km,Small Basket,>16,1
+178542,Chennai,>5 Times,Male,Yes,3-5 Kms,Large Basket,1-4,1
+192547,Banglore,>5 Times,Male,Yes,3-5 Kms,Large Basket,5-8,1
